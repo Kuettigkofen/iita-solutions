@@ -1,18 +1,15 @@
-'use client'
-
-import React, { useState, useRef, useEffect } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { SearchableDropdown } from "@/components/SearchableDropdown";
-import { SolutionCard } from "@/components/SolutionCard";
-import { SolutionDetail } from "@/components/SolutionDetail";
-import { AfricaMap } from "@/components/AfricaMap";
-import { FAQ } from "@/components/FAQ";
-import { Button } from "@/components/ui/button";
+import React, { useState, useRef } from "react";
+import { motion, AnimatePresence } from "motion/react";
+import { SearchableDropdown } from "./components/SearchableDropdown";
+import { SolutionCard } from "./components/SolutionCard";
+import { SolutionDetail } from "./components/SolutionDetail";
+import { AfricaMap } from "./components/AfricaMap";
+import { FAQ } from "./components/FAQ";
+import { Button } from "./components/ui/button";
 import jsPDF from "jspdf";
-import { SolutionService } from "@/lib/solutionService";
-import { Solution } from "@/types/database";
+import iitaLogo from "figma:asset/036c233b6044c85ed0e4f4963a8cc31ab8b70401.png";
 
-// Mock data - will be replaced with Supabase integration
+// Mock data
 const roleOptions = [
   "development practitioner",
   "researcher",
@@ -125,37 +122,16 @@ const mockSolutions = [
         image_url: "https://images.unsplash.com/photo-1590736969955-71cc94901144?w=600&h=400&fit=crop&crop=center"
       }
     ],
-    // Complete fields for SolutionDetail
+    // Keep existing fields for compatibility with SolutionDetail
     title: "Yam Leaf-bud Cuttings: Rapid Multiplication Method",
-    image: "https://images.unsplash.com/photo-1590736969955-71cc94901144?w=600&h=400&fit=crop&crop=center",
+    image: "https://e-catalogs.taat-africa.org/images/preview/yam-leafbud-main.png",
     location: "West Africa",
     summary: "Revolutionary yam seed multiplication achieves 1:300 multiplication rate in 16-20 weeks, reducing production time by 60% while dramatically improving climate resilience.",
-    problem: "Traditional yam seed production is vulnerable to climate variability with long growing cycles making plants vulnerable to climate shocks.",
-    solution: "Rapid yam seed multiplication through leaf-bud cuttings achieves 1:300 multiplication rate vs traditional 1:3 in just 16-20 weeks.",
+    problem: "Traditional yam seed production is vulnerable to climate variability. Long growing cycles of 7-10 months make yam vulnerable to shortened rainy seasons. Limited 1:3 multiplication rate constrains rapid variety deployment after climate shocks.",
+    solution: "Rapid yam seed multiplication through leaf-bud cuttings achieves 1:300 multiplication rate vs traditional 1:3. Complete cycle in 16-20 weeks reducing climate exposure 60%. Use small vine segments requiring minimal resources.",
     partnership: "We are seeking partnerships with development organizations, private sector actors, and government agencies to scale this solution across West Africa. Partners can support farmer training programs, provide access to improved seedlings, or invest in processing facilities.",
     problem_title: "Traditional Yam Seed Production Vulnerable to Climate Variability",
-    problem_bulletpoint_1: "Long growing cycles of 7-10 months make yam vulnerable to shortened rainy seasons",
-    problem_bulletpoint_2: "Limited 1:3 multiplication rate constrains rapid variety deployment after climate shocks",
-    problem_bulletpoint_3: "High labor requirements for traditional seed production systems",
-    problem_bulletpoint_4: "Vulnerability to diseases that spread through traditional planting materials",
-    solution_title_field: "Rapid Yam Seed Multiplication Through Leaf-bud Cuttings",
-    solutions_bulletpoint_1: "Achieve 1:300 multiplication rate vs traditional 1:3 multiplication",
-    solutions_bulletpoint_2: "Complete production cycle in 16-20 weeks reducing climate exposure by 60%",
-    solutions_bulletpoint_3: "Use small vine segments requiring minimal resources and labor",
-    solutions_bulletpoint_4: "Produce disease-free planting materials through systematic protocols",
-    resources_technicalguides: "Yam Multiplication Technical Manual • Climate-Smart Yam Production Guide • Seed Quality Assurance Protocols",
-    resources_researchpublications: "Rapid Yam Multiplication Research Papers • Climate Adaptation Studies • Field Trial Results from 5 Countries",
-    resources_digitaltools: "Yam Growth Monitoring App • Climate Risk Assessment Tool • Multiplication Rate Calculator",
-    resources_trainingmaterials: "Farmer Training Videos • Extension Officer Manuals • Step-by-step Illustrated Guides",
-    funder_text: "This technology offers exceptional ROI with 871% return potential and readiness for immediate scaling across West Africa.",
-    policymaker_text: "Aligns with national food security policies and contributes to SDG 2 (Zero Hunger) and SDG 13 (Climate Action).",
-    farmer_text: "Farmers can multiply their planting materials 100x faster while reducing risks from climate variability.",
-    student_text: "Interested in agricultural innovation? This cutting-edge multiplication technology offers research opportunities in plant propagation.",
-    extensionofficer_text: "Proven training approaches have successfully reached 20,400 farmers with 85% adoption rates across multiple countries.",
-    researcher_text: "Rigorously tested methodology with peer-reviewed publications and field validation across diverse agro-ecological zones.",
-    devpractitioner_text: "Successful implementation partnerships with NGOs in 8 countries demonstrate clear scaling pathways.",
-    businessowner_text: "Agribusiness opportunities in certified seed production with proven market demand and $3+ profit per cutting.",
-    impact_text: "Implemented across 8 countries benefiting 20,400+ farmers with documented yield increases of 300%+ and climate resilience improvements."
+    solution_title_field: "Rapid Yam Seed Multiplication Through Leaf-bud Cuttings"
   },
   {
     id: "b2c3d4e5-f6a7-8b01-bcde-f23456789012",
@@ -217,53 +193,12 @@ export default function App() {
     "landing" | "solutions" | "detail" | "inspire"
   >("landing");
   const [selectedSolution, setSelectedSolution] =
-    useState<Solution | null>(null);
+    useState<any>(null);
   const [showFAQ, setShowFAQ] = useState(false);
-  const [solutions, setSolutions] = useState<Solution[]>([]);
-  const [filteredSolutions, setFilteredSolutions] = useState<Solution[]>([]);
-  const [loading, setLoading] = useState(true);
-  const [searchTerm, setSearchTerm] = useState("");
 
   const solutionsRef = useRef<HTMLDivElement>(null);
   const detailRef = useRef<HTMLDivElement>(null);
   const inspireRef = useRef<HTMLDivElement>(null);
-
-  // Load all solutions on component mount
-  useEffect(() => {
-    const loadSolutions = async () => {
-      try {
-        setLoading(true);
-        const allSolutions = await SolutionService.getAllSolutions();
-        setSolutions(allSolutions);
-        setFilteredSolutions(allSolutions);
-      } catch (error) {
-        console.error('Error loading solutions:', error);
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    loadSolutions();
-  }, []);
-
-  // Filter solutions when search term changes
-  useEffect(() => {
-    if (!searchTerm.trim()) {
-      setFilteredSolutions(solutions);
-    } else {
-      const filtered = solutions.filter(solution =>
-        solution.solution_title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        solution.executive_summary_text?.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        solution.applicable_countries.some(country =>
-          country.toLowerCase().includes(searchTerm.toLowerCase())
-        ) ||
-        solution.applicable_challenges.some(challenge =>
-          challenge.toLowerCase().includes(searchTerm.toLowerCase())
-        )
-      );
-      setFilteredSolutions(filtered);
-    }
-  }, [searchTerm, solutions]);
 
   const scrollToSection = (
     ref: React.RefObject<HTMLDivElement>,
@@ -274,34 +209,20 @@ export default function App() {
     });
   };
 
+  const handleTransformClick = () => {
+    setCurrentSection("solutions");
+    setTimeout(() => scrollToSection(solutionsRef), 100);
+  };
+
   const handleInspireClick = () => {
     setCurrentSection("inspire");
     setTimeout(() => scrollToSection(inspireRef), 100);
   };
 
-  const handleSolutionClick = (solution: Solution) => {
+  const handleSolutionClick = (solution: any) => {
     setSelectedSolution(solution);
     setCurrentSection("detail");
     setTimeout(() => scrollToSection(detailRef), 100);
-  };
-
-  const handleTransformClick = async () => {
-    if (role && challenge && location) {
-      // Use Supabase search with form criteria
-      try {
-        setLoading(true);
-        const userInput = { role, challenge, location };
-        const searchResults = await SolutionService.findSolutions(userInput);
-        setFilteredSolutions(searchResults);
-        setSolutions(searchResults);
-      } catch (error) {
-        console.error('Error searching solutions:', error);
-      } finally {
-        setLoading(false);
-      }
-    }
-    setCurrentSection("solutions");
-    setTimeout(() => scrollToSection(solutionsRef), 100);
   };
 
   const generatePDF = (solution: any) => {
@@ -340,7 +261,7 @@ export default function App() {
     doc.text(locationText, margin, yPosition);
     yPosition += 20;
 
-    // Climate Score
+    // Climate Score (if available)
     if (solution.climate_potential) {
       doc.setFontSize(12);
       doc.setTextColor(249, 115, 22);
@@ -395,6 +316,126 @@ export default function App() {
     doc.text(solutionLines, margin, yPosition);
     yPosition += solutionLines.length * 5 + 15;
 
+    // Our Knowledge Bank Section
+    if (yPosition > 200) {
+      doc.addPage();
+      yPosition = 30;
+    }
+
+    doc.setFontSize(16);
+    doc.setTextColor(249, 115, 22);
+    doc.text('Our Knowledge Bank', margin, yPosition);
+    yPosition += 10;
+
+    doc.setFontSize(11);
+    doc.setTextColor(0, 0, 0);
+    const knowledgeBankIntro = "Access IITA's extensive research library and technical resources developed over 50+ years of agricultural innovation in Africa. Our knowledge bank provides evidence-based solutions and practical guidance for climate-smart agriculture.";
+    const knowledgeIntroLines = doc.splitTextToSize(knowledgeBankIntro, maxWidth);
+    doc.text(knowledgeIntroLines, margin, yPosition);
+    yPosition += knowledgeIntroLines.length * 5 + 10;
+
+    // Knowledge Bank Resources
+    doc.setFontSize(12);
+    doc.setTextColor(249, 115, 22);
+    doc.text('Available Resources & Publications:', margin, yPosition);
+    yPosition += 10;
+
+    doc.setFontSize(10);
+    doc.setTextColor(0, 0, 0);
+
+    // Technical Guides
+    doc.setTextColor(249, 115, 22);
+    doc.text('• Technical Guides:', margin, yPosition);
+    yPosition += 6;
+    doc.setTextColor(0, 0, 0);
+    const guides = [
+      '  - Climate-Smart Agriculture Implementation Manual',
+      '  - Integrated Pest Management Guidelines',
+      '  - Soil Health Assessment Protocols',
+      '  - Seed System Development Guides'
+    ];
+    guides.forEach(guide => {
+      doc.text(guide, margin, yPosition);
+      yPosition += 5;
+    });
+    yPosition += 3;
+
+    // Digital Tools
+    doc.setTextColor(249, 115, 22);
+    doc.text('• Digital Tools:', margin, yPosition);
+    yPosition += 6;
+    doc.setTextColor(0, 0, 0);
+    const tools = [
+      '  - Climate Monitoring Systems',
+      '  - Yield Prediction Models',
+      '  - Weather Information Platforms',
+      '  - Market Price Tracking Tools'
+    ];
+    tools.forEach(tool => {
+      doc.text(tool, margin, yPosition);
+      yPosition += 5;
+    });
+    yPosition += 3;
+
+    // Research Publications
+    doc.setTextColor(249, 115, 22);
+    doc.text('• Research Publications:', margin, yPosition);
+    yPosition += 6;
+    doc.setTextColor(0, 0, 0);
+    const publications = [
+      '  - 500+ Peer-reviewed Journal Articles',
+      '  - Annual Research Reports (1967-2024)',
+      '  - Crop Variety Development Papers',
+      '  - Climate Adaptation Case Studies'
+    ];
+    publications.forEach(pub => {
+      doc.text(pub, margin, yPosition);
+      yPosition += 5;
+    });
+    yPosition += 3;
+
+    // Training Materials
+    doc.setTextColor(249, 115, 22);
+    doc.text('• Training Materials:', margin, yPosition);
+    yPosition += 6;
+    doc.setTextColor(0, 0, 0);
+    const training = [
+      '  - Farmer Field School Curricula',
+      '  - Extension Agent Training Modules',
+      '  - Video Learning Resources',
+      '  - Multi-language Extension Materials'
+    ];
+    training.forEach(material => {
+      doc.text(material, margin, yPosition);
+      yPosition += 5;
+    });
+    yPosition += 8;
+
+    // Access Information
+    doc.setFontSize(9);
+    doc.setTextColor(100, 100, 100);
+    doc.text('Access: Most resources available through IITA Library', margin, yPosition);
+    yPosition += 4;
+    doc.text('Contact: library@iita.org • Digital Repository: publications.iita.org', margin, yPosition);
+    yPosition += 15;
+
+    // Let's Get Together Section
+    if (yPosition > 250) {
+      doc.addPage();
+      yPosition = 30;
+    }
+
+    doc.setFontSize(16);
+    doc.setTextColor(249, 115, 22);
+    doc.text("Let's Get Together", margin, yPosition);
+    yPosition += 10;
+
+    doc.setFontSize(11);
+    doc.setTextColor(0, 0, 0);
+    const partnershipLines = doc.splitTextToSize(solution.partnership, maxWidth);
+    doc.text(partnershipLines, margin, yPosition);
+    yPosition += partnershipLines.length * 5 + 20;
+
     // Contact Information
     if (yPosition > 260) {
       doc.addPage();
@@ -411,6 +452,17 @@ export default function App() {
     doc.text('Email: j.choptiany@cgiar.org', margin, yPosition);
     yPosition += 6;
     doc.text('Website: www.iita.org', margin, yPosition);
+    yPosition += 6;
+    doc.text('Address: PMB 5320, Oyo Road, Ibadan 200001, Oyo State, Nigeria', margin, yPosition);
+
+    // Footer
+    const totalPages = doc.internal.pages.length - 1;
+    for (let i = 1; i <= totalPages; i++) {
+      doc.setPage(i);
+      doc.setFontSize(8);
+      doc.setTextColor(100, 100, 100);
+      doc.text(`Generated by IITA Climate Solutions Platform - Page ${i} of ${totalPages}`, margin, doc.internal.pageSize.height - 10);
+    }
 
     // Save the PDF
     const fileName = `IITA_${(solution.solution_title || solution.title).replace(/\s+/g, '_')}_Solution.pdf`;
@@ -427,6 +479,7 @@ export default function App() {
       case "email":
         if (navigator.share && selectedSolution) {
           try {
+            // Create comprehensive sharing content
             const shareData = {
               title: `${selectedSolution.solution_title || selectedSolution.title} - IITA Climate Solutions`,
               text: `🌱 Discover IITA's climate-smart agricultural solution: ${selectedSolution.solution_title || selectedSolution.title}
@@ -443,15 +496,16 @@ export default function App() {
 
             await navigator.share(shareData);
           } catch (error) {
+            // Handle user cancellation or other errors
             if (error.name !== 'AbortError') {
               console.error('Error sharing:', error);
-              // Fallback to email
-              window.location.href = "mailto:j.choptiany@cgiar.org";
+              // Fallback to clipboard
+              handleFallbackShare();
             }
           }
         } else {
           // Fallback for browsers without Web Share API
-          window.location.href = "mailto:j.choptiany@cgiar.org";
+          handleFallbackShare();
         }
         break;
       case "contact":
@@ -460,6 +514,31 @@ export default function App() {
       case "faq":
         setShowFAQ(!showFAQ);
         break;
+    }
+  };
+
+  const handleFallbackShare = async () => {
+    if (selectedSolution) {
+      const shareText = `🌱 ${selectedSolution.solution_title || selectedSolution.title} - IITA Climate Solutions
+
+📍 Location: ${selectedSolution.applicable_countries ? selectedSolution.applicable_countries.join(', ') : selectedSolution.location}
+
+💡 ${selectedSolution.executive_summary_text || selectedSolution.summary}
+
+🤝 Partner with IITA: ${window.location.href}
+
+#ClimateSmartAgriculture #IITA #AfricanAgriculture`;
+
+      try {
+        // Try to copy to clipboard
+        await navigator.clipboard.writeText(shareText);
+        alert("Content copied to clipboard! You can now paste it anywhere to share.");
+      } catch (error) {
+        // Final fallback - open email client
+        const subject = encodeURIComponent(`${selectedSolution.solution_title || selectedSolution.title} - IITA Climate Solutions`);
+        const body = encodeURIComponent(shareText);
+        window.open(`mailto:?subject=${subject}&body=${body}`);
+      }
     }
   };
 
@@ -473,7 +552,7 @@ export default function App() {
         <header className="p-6">
           <div className="max-w-7xl mx-auto">
             <img
-              src="/iita-logo.png"
+              src={iitaLogo}
               alt="IITA - Transforming African Agriculture"
               className="h-24 w-auto"
             />
@@ -563,48 +642,17 @@ export default function App() {
                 </h2>
                 <div className="w-24 h-1 bg-orange-500 mx-auto mb-12"></div>
 
-                {/* Search Input */}
-                <div className="mb-8 max-w-md mx-auto">
-                  <input
-                    type="text"
-                    placeholder="Search solutions, countries, or challenges..."
-                    value={searchTerm}
-                    onChange={(e) => setSearchTerm(e.target.value)}
-                    className="w-full px-4 py-3 bg-gray-800 border border-gray-600 rounded-lg text-white placeholder-gray-400 focus:outline-none focus:border-orange-500 transition-colors"
-                  />
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                  {mockSolutions.map((solution) => (
+                    <SolutionCard
+                      key={solution.id}
+                      solution={solution}
+                      onClick={() =>
+                        handleSolutionClick(solution)
+                      }
+                    />
+                  ))}
                 </div>
-
-                {loading ? (
-                  <div className="text-center py-12">
-                    <div className="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-orange-500"></div>
-                    <p className="mt-4 text-gray-400">Loading solutions...</p>
-                  </div>
-                ) : filteredSolutions.length === 0 ? (
-                  <div className="text-center py-12">
-                    <p className="text-gray-400 text-lg">No solutions found matching your criteria.</p>
-                    <button
-                      onClick={() => {
-                        setSearchTerm("");
-                        setFilteredSolutions(solutions);
-                      }}
-                      className="mt-4 px-6 py-2 bg-orange-500 text-white rounded-lg hover:bg-orange-600 transition-colors"
-                    >
-                      Show All Solutions
-                    </button>
-                  </div>
-                ) : (
-                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                    {filteredSolutions.map((solution) => (
-                      <SolutionCard
-                        key={solution.id}
-                        solution={solution}
-                        onClick={() =>
-                          handleSolutionClick(solution)
-                        }
-                      />
-                    ))}
-                  </div>
-                )}
               </motion.div>
             </div>
           </section>

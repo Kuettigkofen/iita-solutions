@@ -1,10 +1,21 @@
 // Database type definitions for IITA Solutions
 
+export interface SolutionImage {
+  id: string
+  solution_id: string
+  image_type: string
+  image_url: string
+  created_at: string
+  updated_at: string
+}
+
 export interface Solution {
   id: string
   solution_title: string
   applicable_countries: string[]
   applicable_challenges: string[]
+  climate_potential?: number
+  key_agroeco?: string[]
   executive_summary_text?: string
   problem_title?: string
   problem_bulletpoint_1?: string
@@ -30,6 +41,28 @@ export interface Solution {
   extensionofficer_text?: string
   researcher_text?: string
   devpractitioner_text?: string
+  businessowner_text?: string
+
+  // Role-specific summaries
+  funder_summarysentence?: string
+  policymaker_summarysentence?: string
+  farmer_summarysentence?: string
+  student_summarysentence?: string
+  extensionofficer_summarysentence?: string
+  researcher_summarysentence?: string
+  devpractitioner_summarysentence?: string
+  businessowner_summarysentence?: string
+
+  // Relations
+  solution_images?: SolutionImage[]
+
+  // Compatibility fields
+  title?: string
+  summary?: string
+  problem?: string
+  solution?: string
+  partnership?: string
+  image?: string
 
   created_at: string
   updated_at: string
