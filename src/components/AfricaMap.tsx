@@ -195,7 +195,11 @@ interface CountrySolutions {
   totalCount: number;
 }
 
-export function AfricaMap() {
+interface AfricaMapProps {
+  onSolutionClick?: (solution: Solution) => void;
+}
+
+export function AfricaMap({ onSolutionClick }: AfricaMapProps = {}) {
   const router = useRouter();
   const [solutions, setSolutions] = useState<Solution[]>([]);
   const [countries, setCountries] = useState<CountryNeighbor[]>([]);
@@ -308,10 +312,12 @@ export function AfricaMap() {
   }, [solutions, countries]);
 
   const handleSolutionClick = (solution: Solution) => {
-    // Navigate to solution detail or trigger solution display
+    // Close the country panel
     setSelectedCountry(null);
-    // You can implement navigation or state management here
-    console.log('Solution clicked:', solution);
+    // Call the parent's solution click handler if provided
+    if (onSolutionClick) {
+      onSolutionClick(solution);
+    }
   };
 
   const getMarkerColor = (countryData: CountrySolutions) => {

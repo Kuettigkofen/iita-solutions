@@ -463,7 +463,7 @@ export default function App() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.6 }}
               >
-                <AfricaMap />
+                <AfricaMap onSolutionClick={handleSolutionClick} />
               </motion.div>
             </div>
           </section>
