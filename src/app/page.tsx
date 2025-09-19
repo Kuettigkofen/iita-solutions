@@ -12,54 +12,54 @@ import { SolutionService } from "@/lib/solutionService";
 import { Solution, ROLE_TYPES, CHALLENGE_TYPES, LOCATION_TYPES, UserInput } from "@/types/database";
 import jsPDF from "jspdf";
 
-// Convert enum types to display-friendly strings
+// Convert enum types to display-friendly strings - sorted alphabetically
 const roleOptions = [
+  "business owner",
   "development practitioner",
-  "researcher",
+  "farmer",
+  "funder",
   "government extension officer",
   "policymaker",
-  "funder",
-  "business owner",
+  "researcher",
   "student",
-  "farmer",
 ];
 
 const challengeOptions = [
-  "yam",
-  "soybean",
-  "cassava",
-  "cocoa",
-  "cotton",
-  "coffee",
-  "maize",
-  "beans",
-  "livestock",
-  "rice",
-  "plantain",
-  "sweet_potato",
-  "banana",
-  "mushroom",
-  "beekeeping",
-  "aquaculture",
-  "agroforestry",
-  "soil_fertility",
-  "pest_management",
-  "climate_information",
-  "digital_services",
-  "processing",
-  "storage",
-  "nutrition",
-  "water_management",
-  "renewable_energy",
-  "greenhouse",
   "agroecology",
+  "agroforestry",
+  "aquaculture",
+  "banana",
+  "beans",
+  "beekeeping",
   "biofortification",
-  "value_chains",
+  "cassava",
+  "climate_information",
+  "climate_resilience",
+  "cocoa",
+  "coffee",
+  "cotton",
+  "digital_services",
   "farmer_training",
-  "climate_resilience"
+  "greenhouse",
+  "livestock",
+  "maize",
+  "mushroom",
+  "nutrition",
+  "pest_management",
+  "plantain",
+  "processing",
+  "renewable_energy",
+  "rice",
+  "soil_fertility",
+  "soybean",
+  "storage",
+  "sweet_potato",
+  "value_chains",
+  "water_management",
+  "yam"
 ];
 
-const locationOptions = LOCATION_TYPES.slice();
+const locationOptions = LOCATION_TYPES.slice().sort();
 
 // We'll now use real Supabase data instead of mock data
 

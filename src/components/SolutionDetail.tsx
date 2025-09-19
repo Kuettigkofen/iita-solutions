@@ -372,7 +372,7 @@ export function SolutionDetail({ solution, onShare, userRole }: SolutionDetailPr
       {userRole && getRoleSpecificText(userRole) && (
         <section className="bg-gray-900 rounded-lg p-8">
           <h2 className="text-2xl text-orange-500 mb-4 font-bold">
-            Your Insights
+            Insights for {userRole}
           </h2>
           <div className="bg-black/30 rounded-lg p-6">
             <div className="space-y-4">
@@ -449,21 +449,30 @@ export function SolutionDetail({ solution, onShare, userRole }: SolutionDetailPr
         </div>
       </section>
 
+      {/* Our Impact Section */}
+      {getImpactText() && (
+        <section className="bg-gray-900 rounded-lg p-8">
+          <h2 className="text-3xl mb-6 font-bold">
+            <span className="text-white">Our </span><span className="text-orange-500" style={{ fontFamily: 'var(--font-permanent-marker)' }}>Impact</span>
+          </h2>
+          <div className="bg-black/30 rounded-lg p-6">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {getImpactText().split(/\.\s+/).filter(sentence => sentence.trim()).map((sentence, index) => (
+                <div key={index} className="flex items-start gap-3 group hover:bg-white/5 p-3 rounded-lg transition-all duration-300">
+                  <div className="w-3 h-3 bg-orange-500 rounded-full mt-1.5 flex-shrink-0 group-hover:scale-110 transition-transform"></div>
+                  <p className="text-gray-300 text-sm leading-relaxed group-hover:text-white transition-colors">
+                    {parseMarkdownLinks(sentence.trim() + (sentence.trim().endsWith('.') ? '' : '.'))}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* Partnership Section */}
       <section className="bg-gray-900 rounded-lg p-8">
-        <h2 className="text-2xl text-white mb-4 font-bold">Let's Get Together</h2>
-
-        {/* Our Impact Quote */}
-        {getImpactText() && (
-          <div className="mb-6 pl-6 border-l-4 border-orange-500 bg-gray-800/30 rounded-r-lg py-4 pr-6">
-            <blockquote className="text-gray-200 mb-3 leading-relaxed">
-              {parseMarkdownLinks(getImpactText())}
-            </blockquote>
-            <cite className="text-orange-500 not-italic text-sm">
-              — Our Impact
-            </cite>
-          </div>
-        )}
+        <h2 className="text-2xl text-white mb-4 font-bold">Let's Collaborate</h2>
 
         <p className="text-gray-300 leading-relaxed mb-6">
           {solution.partnership || "We are seeking partnerships with development organizations, private sector actors, and government agencies to scale this solution. Partners can support farmer training programs, provide access to improved technologies, or invest in scaling infrastructure."}
