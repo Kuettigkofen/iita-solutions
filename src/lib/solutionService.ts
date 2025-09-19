@@ -42,10 +42,18 @@ export class SolutionService {
       // Get expanded country list including neighbors
       const expandedCountries = await this.getExpandedCountryList(userInput.location)
 
-      // Build query for solutions
+      // Build query for solutions with images
       let query = supabase
         .from('solutions')
-        .select('*')
+        .select(`
+          *,
+          solution_images (
+            id,
+            solution_id,
+            image_type,
+            image_url
+          )
+        `)
 
       // Filter by challenge type
       query = query.overlaps('applicable_challenges', [userInput.challenge])
@@ -135,13 +143,21 @@ export class SolutionService {
   }
 
   /**
-   * Get solution by ID
+   * Get solution by ID with images
    */
   static async getSolutionById(id: string): Promise<Solution | null> {
     try {
       const { data, error } = await supabase
         .from('solutions')
-        .select('*')
+        .select(`
+          *,
+          solution_images (
+            id,
+            solution_id,
+            image_type,
+            image_url
+          )
+        `)
         .eq('id', id)
         .single()
 
@@ -154,6 +170,36 @@ export class SolutionService {
     } catch (error) {
       console.error('Error in getSolutionById:', error)
       return null
+    }
+  }
+
+  /**
+   * Get all solutions with images for initial display
+   */
+  static async getAllSolutions(): Promise<Solution[]> {
+    try {
+      const { data, error } = await supabase
+        .from('solutions')
+        .select(`
+          *,
+          solution_images (
+            id,
+            solution_id,
+            image_type,
+            image_url
+          )
+        `)
+        .order('solution_title')
+
+      if (error) {
+        console.error('Error fetching all solutions:', error)
+        return []
+      }
+
+      return data || []
+    } catch (error) {
+      console.error('Error in getAllSolutions:', error)
+      return []
     }
   }
 }
