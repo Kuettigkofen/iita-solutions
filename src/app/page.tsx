@@ -312,7 +312,10 @@ export default function App() {
                   className="inline-block mx-2"
                 />
                 <span className="text-white"> looking to </span>
-                <span className="text-orange-500 font-bold font-permanent-marker not-italic">
+                <span
+                  className="text-orange-500 font-bold not-italic"
+                  style={{ fontFamily: 'var(--font-permanent-marker)' }}
+                >
                   address a climate challenge
                 </span>
                 <span className="text-white"> to </span>

@@ -351,7 +351,12 @@ export function AfricaMap() {
 
   return (
     <div className="relative w-full max-w-6xl mx-auto">
-      <h2 className="text-3xl text-orange-500 text-center m-[0px] font-permanent-marker text-[48px]">IITA Solutions</h2>
+      <h2
+        className="text-3xl text-orange-500 text-center m-[0px] text-[48px]"
+        style={{ fontFamily: 'var(--font-permanent-marker)' }}
+      >
+        IITA Solutions
+      </h2>
       <h2 className="text-3xl text-white text-center mb-8 font-bold text-[36px]">Across Africa</h2>
 
       <div className="relative">

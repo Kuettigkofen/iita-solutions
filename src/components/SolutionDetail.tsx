@@ -110,13 +110,14 @@ export function SolutionDetail({ solution, onShare, userRole }: SolutionDetailPr
     ].filter(Boolean);
 
     return bulletpoints.map((point, index) => {
-      // Extract title from markdown links or use first few words
-      const linkMatch = point.match(/\[(.*?)\]/);
-      const title = linkMatch ? linkMatch[1] : point.split(' ').slice(0, 4).join(' ') + '...';
+      // Split by first sentence ending (. followed by space and capital letter)
+      const sentences = point.split(/\.(?=\s[A-Z])/);
+      const title = sentences[0] + (sentences.length > 1 ? '' : ''); // First sentence as title
+      const description = sentences.length > 1 ? sentences.slice(1).join('.') : ''; // Rest as description
 
       return {
         title: title,
-        items: [point]
+        description: description
       };
     });
   };
@@ -159,6 +160,25 @@ export function SolutionDetail({ solution, onShare, userRole }: SolutionDetailPr
   // Get impact highlights text from database
   const getImpactText = () => {
     return solution.impact_text || '';
+  };
+
+  // Get executive summary with role-specific content embedded and highlighted
+  const getExecutiveSummaryWithRole = () => {
+    const baseSummary = solution.executive_summary_text || solution.summary || '';
+    const roleSpecificSummary = userRole ? getRoleSpecificSummary(userRole) : '';
+
+    if (roleSpecificSummary && baseSummary.includes('[Role-specific relevance placeholder.]')) {
+      const highlightedSummary = `<span class="bg-orange-500/20 text-orange-100 px-2 py-0.5 rounded">${roleSpecificSummary}</span>`;
+      return baseSummary.replace('[Role-specific relevance placeholder.]', highlightedSummary);
+    }
+
+    // If no placeholder found but we have role-specific content, append it with highlighting
+    if (roleSpecificSummary && baseSummary) {
+      const highlightedSummary = `<span class="bg-orange-500/20 text-orange-100 px-2 py-0.5 rounded">${roleSpecificSummary}</span>`;
+      return `${baseSummary} ${highlightedSummary}`;
+    }
+
+    return baseSummary;
   };
 
   // Get problem bulletpoints from database
@@ -239,17 +259,10 @@ export function SolutionDetail({ solution, onShare, userRole }: SolutionDetailPr
               </div>
             </div>
 
-            <p className="text-gray-300 text-lg leading-relaxed mb-6">
-              {solution.executive_summary_text || solution.summary}
-            </p>
-
-            {/* Role-specific summary */}
-            {userRole && getRoleSpecificSummary(userRole) && (
-              <div className="bg-orange-500/10 border border-orange-500/30 rounded-lg p-4 mb-6">
-                <p className="text-orange-400 text-sm mb-2">Insights for you:</p>
-                <p className="text-gray-300">{getRoleSpecificSummary(userRole)}</p>
-              </div>
-            )}
+            <p
+              className="text-gray-300 text-lg leading-relaxed mb-6"
+              dangerouslySetInnerHTML={{ __html: getExecutiveSummaryWithRole() }}
+            ></p>
           </div>
 
           <div className="relative">
@@ -327,25 +340,24 @@ export function SolutionDetail({ solution, onShare, userRole }: SolutionDetailPr
               {solution.solution_title_field || "IITA's Climate Smart Package"}
             </h3>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="space-y-6">
               {getSolutionBulletpoints().map((bulletpoint, index) => (
                 <div key={index} className="group hover:bg-white/5 p-4 rounded-lg transition-all duration-300">
-                  <div className="flex items-center gap-3 mb-4">
+                  <div className="flex items-start gap-4 mb-3">
                     <div className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center text-white font-bold group-hover:scale-110 transition-transform flex-shrink-0">
                       {index + 1}
                     </div>
-                    <h4 className="text-white font-bold text-lg group-hover:text-orange-500 transition-colors">
-                      {bulletpoint.title}
-                    </h4>
+                    <div className="flex-1">
+                      <h4 className="text-white font-bold text-lg group-hover:text-orange-500 transition-colors mb-2">
+                        {parseMarkdownLinks(bulletpoint.title)}
+                      </h4>
+                      {bulletpoint.description && (
+                        <p className="text-gray-300 leading-relaxed">
+                          {parseMarkdownLinks(bulletpoint.description)}
+                        </p>
+                      )}
+                    </div>
                   </div>
-                  <ul className="space-y-2 text-gray-300 text-sm">
-                    {bulletpoint.items.map((item, itemIndex) => (
-                      <li key={itemIndex} className="flex items-start gap-2">
-                        <div className="w-1.5 h-1.5 bg-orange-500 rounded-full mt-2 flex-shrink-0"></div>
-                        {parseMarkdownLinks(item)}
-                      </li>
-                    ))}
-                  </ul>
                 </div>
               ))}
             </div>
@@ -360,12 +372,19 @@ export function SolutionDetail({ solution, onShare, userRole }: SolutionDetailPr
       {userRole && getRoleSpecificText(userRole) && (
         <section className="bg-gray-900 rounded-lg p-8">
           <h2 className="text-2xl text-orange-500 mb-4 font-bold">
-            Insights for you
+            Your Insights
           </h2>
           <div className="bg-black/30 rounded-lg p-6">
-            <p className="text-gray-300 leading-relaxed">
-              {parseMarkdownLinks(getRoleSpecificText(userRole))}
-            </p>
+            <div className="space-y-4">
+              {getRoleSpecificText(userRole).split(/\.(?=\s[A-Z]|$)/).filter(sentence => sentence.trim()).map((sentence, index) => (
+                <div key={index} className="flex items-start gap-4 group hover:bg-white/5 p-3 rounded-lg transition-all duration-300">
+                  <div className="w-4 h-4 bg-orange-500 rounded-full mt-1.5 flex-shrink-0 group-hover:scale-110 transition-transform"></div>
+                  <p className="text-gray-300 leading-relaxed group-hover:text-white transition-colors">
+                    {parseMarkdownLinks(sentence.trim() + (sentence.trim().endsWith('.') ? '' : '.'))}
+                  </p>
+                </div>
+              ))}
+            </div>
           </div>
         </section>
       )}
@@ -434,14 +453,14 @@ export function SolutionDetail({ solution, onShare, userRole }: SolutionDetailPr
       <section className="bg-gray-900 rounded-lg p-8">
         <h2 className="text-2xl text-white mb-4 font-bold">Let's Get Together</h2>
 
-        {/* Impact Highlights Quote */}
+        {/* Our Impact Quote */}
         {getImpactText() && (
           <div className="mb-6 pl-6 border-l-4 border-orange-500 bg-gray-800/30 rounded-r-lg py-4 pr-6">
             <blockquote className="text-gray-200 mb-3 leading-relaxed">
               {parseMarkdownLinks(getImpactText())}
             </blockquote>
             <cite className="text-orange-500 not-italic text-sm">
-              — Impact highlights
+              — Our Impact
             </cite>
           </div>
         )}
