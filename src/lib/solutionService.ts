@@ -202,4 +202,189 @@ export class SolutionService {
       return []
     }
   }
+
+  /**
+   * Insert new solution with images
+   */
+  static async insertSolution(solutionData: any): Promise<string> {
+    try {
+      // Extract images from solution data
+      const { images, ...solutionFields } = solutionData
+      console.log('Inserting solution with images:', images)
+
+      // Insert solution first
+      const { data: solution, error: solutionError } = await supabase
+        .from('solutions')
+        .insert(solutionFields)
+        .select('id')
+        .single()
+
+      if (solutionError) {
+        console.error('Error inserting solution:', solutionError)
+        throw new Error(`Failed to insert solution: ${solutionError.message}`)
+      }
+
+      const solutionId = solution.id
+
+      // Insert images if they exist and have URLs
+      if (images && images.length > 0) {
+        console.log('Processing images for insertion:', images)
+        const imageRecords = images
+          .filter((img: any) => img.image_url && img.image_url.trim() !== '')
+          .map((img: any) => ({
+            solution_id: solutionId,
+            image_type: img.image_type,
+            image_url: img.image_url,
+            image_caption: img.image_caption || null,
+            image_alt_text: img.image_alt_text || null,
+            image_source: img.image_source || null,
+            image_credits: img.image_credits || null
+          }))
+
+        console.log('Filtered image records for insertion:', imageRecords)
+
+        if (imageRecords.length > 0) {
+          const { error: imageError } = await supabase
+            .from('solution_images')
+            .insert(imageRecords)
+
+          if (imageError) {
+            console.error('Error inserting images:', imageError)
+            console.error('Image records that failed:', imageRecords)
+            // Don't throw here - solution was created successfully
+            console.warn('Solution created but some images failed to insert')
+          } else {
+            console.log('Images inserted successfully!')
+          }
+        } else {
+          console.log('No valid image records to insert (all URLs empty)')
+        }
+      } else {
+        console.log('No images provided for insertion')
+      }
+
+      return solutionId
+    } catch (error) {
+      console.error('Error in insertSolution:', error)
+      throw error
+    }
+  }
+
+  /**
+   * Save draft to database
+   */
+  static async saveDraft(draftName: string, authorName: string, draftData: any): Promise<string> {
+    try {
+      const { data, error } = await supabase
+        .from('solution_drafts')
+        .insert({
+          draft_name: draftName,
+          author_name: authorName,
+          draft_data: draftData,
+          updated_at: new Date().toISOString()
+        })
+        .select('id')
+        .single()
+
+      if (error) {
+        console.error('Error saving draft:', error)
+        throw new Error(`Failed to save draft: ${error.message}`)
+      }
+
+      return data.id
+    } catch (error) {
+      console.error('Error saving draft:', error)
+      throw error
+    }
+  }
+
+  /**
+   * Update existing draft
+   */
+  static async updateDraft(draftId: string, draftData: any): Promise<void> {
+    try {
+      const { error } = await supabase
+        .from('solution_drafts')
+        .update({
+          draft_data: draftData,
+          updated_at: new Date().toISOString()
+        })
+        .eq('id', draftId)
+
+      if (error) {
+        console.error('Error updating draft:', error)
+        throw new Error(`Failed to update draft: ${error.message}`)
+      }
+    } catch (error) {
+      console.error('Error updating draft:', error)
+      throw error
+    }
+  }
+
+  /**
+   * Get all active drafts
+   */
+  static async getDrafts(): Promise<any[]> {
+    try {
+      const { data, error } = await supabase
+        .from('solution_drafts')
+        .select('id, draft_name, author_name, created_at, updated_at')
+        .eq('is_active', true)
+        .order('updated_at', { ascending: false })
+
+      if (error) {
+        console.error('Error fetching drafts:', error)
+        return []
+      }
+
+      return data || []
+    } catch (error) {
+      console.error('Error fetching drafts:', error)
+      return []
+    }
+  }
+
+  /**
+   * Load specific draft
+   */
+  static async loadDraft(draftId: string): Promise<any | null> {
+    try {
+      const { data, error } = await supabase
+        .from('solution_drafts')
+        .select('draft_data')
+        .eq('id', draftId)
+        .eq('is_active', true)
+        .single()
+
+      if (error) {
+        console.error('Error loading draft:', error)
+        return null
+      }
+
+      return data?.draft_data || null
+    } catch (error) {
+      console.error('Error loading draft:', error)
+      return null
+    }
+  }
+
+  /**
+   * Delete draft
+   */
+  static async deleteDraft(draftId: string): Promise<void> {
+    try {
+      const { error } = await supabase
+        .from('solution_drafts')
+        .update({ is_active: false })
+        .eq('id', draftId)
+
+      if (error) {
+        console.error('Error deleting draft:', error)
+        throw new Error(`Failed to delete draft: ${error.message}`)
+      }
+    } catch (error) {
+      console.error('Error deleting draft:', error)
+      throw error
+    }
+  }
 }
