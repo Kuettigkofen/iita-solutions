@@ -1,0 +1,18 @@
+{
+  "functions": {
+    "src/app/**/*.{js,ts,jsx,tsx}": {
+      "regions": ["iad1"]
+    }
+  },
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        }
+      ]
+    }
+  ]
+}
