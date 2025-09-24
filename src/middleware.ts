@@ -6,7 +6,8 @@ export function middleware(request: NextRequest) {
   if (
     request.nextUrl.pathname.startsWith('/api/') ||
     request.nextUrl.pathname.startsWith('/_next/') ||
-    request.nextUrl.pathname.includes('.')
+    request.nextUrl.pathname.includes('.') ||
+    request.nextUrl.pathname === '/favicon.ico'
   ) {
     return NextResponse.next()
   }
@@ -15,15 +16,21 @@ export function middleware(request: NextRequest) {
   const basicAuth = request.headers.get('authorization')
 
   if (basicAuth) {
-    const authValue = basicAuth.split(' ')[1]
-    const [user, pwd] = atob(authValue).split(':')
+    try {
+      const authValue = basicAuth.split(' ')[1]
+      if (authValue) {
+        const [user, pwd] = Buffer.from(authValue, 'base64').toString().split(':')
 
-    // Change these credentials
-    const validUser = process.env.SITE_USER || 'admin'
-    const validPassword = process.env.SITE_PASSWORD || 'demo123'
+        // Fixed credentials for testing
+        const validUser = 'iita_admin'
+        const validPassword = 'ClimateSmartAg2024!'
 
-    if (user === validUser && pwd === validPassword) {
-      return NextResponse.next()
+        if (user === validUser && pwd === validPassword) {
+          return NextResponse.next()
+        }
+      }
+    } catch (error) {
+      // Invalid auth header format
     }
   }
 
@@ -31,7 +38,7 @@ export function middleware(request: NextRequest) {
   return new NextResponse('Authentication required', {
     status: 401,
     headers: {
-      'WWW-Authenticate': 'Basic realm="Secure Area"',
+      'WWW-Authenticate': 'Basic realm="IITA Solutions - Protected Area"',
     },
   })
 }
