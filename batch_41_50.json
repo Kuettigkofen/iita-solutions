@@ -1,0 +1,52 @@
+{
+  "41": {
+    "doi": "10.1016/j.fcr.2016.06.010",
+    "abstract": "This study developed parameters for modern cultivars representing all 17 CIMMYT wheat Mega Environments (MEs) using field experimental data and genetic cultivar relationships for the CROPSIM-CERES model in DSSAT v 4.5. Crop simulations were carried out at 0.5 × 0.5° pixels for global wheat-growing areas, using cultivars representing MEs, soil information, region-specific crop management, and initial soil conditions. The simulated yields and production showed a Root Mean Square Error (RMSE) of 1.3 t/ha for yield and 2.2 M t/country for country production when compared to FAO statistics.",
+    "keywords": "Wheat production, CIMMYT, Mega-environments, DSSAT, Crop modeling, Global agriculture, Climate change"
+  },
+  "42": {
+    "doi": "10.1016/j.scitotenv.2017.08.041",
+    "abstract": "This study focused on Cameroon and examined the relationship between climate change, agricultural productivity (particularly plantain crops), and school attendance rates from 1950-2013, with predictions extending to 2080. The research demonstrates how climate warming causes declines in crop yields and subsequently affects school attendance in Central Africa.",
+    "keywords": "Climate warming, Crop yields, School attendance, Central Africa, Cameroon, Plantain, Climate impacts"
+  },
+  "43": {
+    "doi": "10.1371/journal.pone.0255326",
+    "abstract": "Collection missions and all surveys were undertaken by the Ministry of Agriculture in Tanzania (now Tanzanian Agricultural Research Institute (TARI)) in collaboration with the International Institute of Tropical Agriculture (IITA) from June 2016 to January 2017. SNP genotyping was used as the basis to identify duplicate samples and assess diversity among the collected landraces. The study documented farmer knowledge and eliminated viruses from cassava landraces in Tanzania.",
+    "keywords": "Cassava, Landraces, Genotyping, Virus elimination, Tanzania, Farmer knowledge, Genetic diversity"
+  },
+  "44": {
+    "doi": "10.1093/plcell/koac303",
+    "abstract": "This comprehensive review addresses enhancing carbon sequestration capacity of crops, improving photosynthesis, engineering climate resilience in crops, and describes the vision of a sustainable global bioeconomy rooted in plant biology. The paper covers systems biology approaches for sustainable agriculture in the context of climate change challenges.",
+    "keywords": "Systems biology, Sustainable agriculture, Climate resilience, Plant biology, Crop improvement, Photosynthesis"
+  },
+  "45": {
+    "doi": "10.1088/1748-9326/ac61c8",
+    "abstract": "The study systematically reviewed literature published between 2005 and 2020 and identified 35 relevant studies, analyzing yield changes of major staple crops (maize, sorghum, rice, millet, yam, cassava and groundnuts) caused by different climate change and field management scenarios. Yields declined by a median of 6% (-8% to +2% depending on the crop) due to climate change in all scenarios analysed. Common adaptation strategies could increase crop yields affected by climate change by 13% (-4% to +19% depending on the strategy) as compared to business-as-usual field management.",
+    "keywords": "Climate change impacts, Adaptation strategies, West Africa, Crop yields, Systematic review, Food security"
+  },
+  "46": {
+    "doi": "10.1007/s00267-018-1048-z",
+    "abstract": "This study investigated the capacity of institutions to support the planning, implementation, and resource mobilization needed to integrate climate change mitigation, conservation, and livelihood goals in a forest mosaic landscape in East Cameroon, and found that diverse institutions are present in the landscape, including government agencies, local government, local non-government, private sector, and hybrid institutions.",
+    "keywords": "Institutional capacity, Integrated landscape management, Cameroon, Climate change mitigation, Resource management"
+  },
+  "47": {
+    "doi": "10.1111/agec.12363",
+    "abstract": "This study found the promotion of new maize and wheat varieties to be an effective adaptation option, on average, especially when accompanied by policy interventions such as credit and fertilizer subsidy. However, the effectiveness of available adaptation options is quite different across the heterogeneous smallholder population in Ethiopia, implying that policy assessments based on average farm households may mislead policy makers to adhere to interventions that are beneficial on average albeit ineffective in addressing the particular needs of poor and food insecure farmers.",
+    "keywords": "Smallholder farmers, Climate adaptation, Policy interventions, Ethiopia, Agent-based modeling, Agricultural policy"
+  },
+  "48": {
+    "doi": "10.1002/ece3.3668",
+    "abstract": "This study investigates whether historical climate change has impacted the evolutionary history of African Aedes mosquitoes using a comparative phylogeographic approach. The research examines the role of past climatic change in shaping mosquito evolution within Africa.",
+    "keywords": "Aedes mosquitoes, Phylogeography, Climate change evolution, Africa, Vector ecology, Palaeoclimate"
+  },
+  "49": {
+    "doi": "10.3390/agriculture12111853",
+    "abstract": "This study evaluates the heterogeneous impacts of adopting climate-smart agricultural technologies on rural household welfare in Mali using farm household survey data and econometric methods. The analysis shows differential impacts across different farmer groups and household characteristics.",
+    "keywords": "Climate-smart agriculture, Heterogeneous impacts, Mali, Rural welfare, Technology adoption, Household impacts"
+  },
+  "50": {
+    "doi": "10.1016/j.eja.2024.127137",
+    "abstract": "This study assessed the potential climate change impact on four key rainfed cereals (maize, millet, sorghum and wheat) in ten SSA countries namely Burkina Faso, Ghana, Mali, Niger, Nigeria, Ethiopia, Kenya, Tanzania, Uganda, and Zambia using local data and national expertise, and the potential of cultivar adaptation to climate change for the four crops. By 2050, climate change impact on rainfed potential yields was insignificant in West and modest in East and Southern Africa. By 2090, average impacts were much higher in West than in East and Southern Africa.",
+    "keywords": "Climate change impact, Rainfed cereals, Sub-Saharan Africa, Crop adaptation, Maize, Millet, Sorghum, Wheat"
+  }
+}
