@@ -1,0 +1,92 @@
+[
+  {
+    "index": 1,
+    "id": "Muiruri 2021",
+    "title": "Mechanisms and approaches towards enhanced drought tolerance in cassava (Manihot esculenta)",
+    "DOI": "10.1016/j.cpb.2021.100227",
+    "Abstract": "Cassava (Manihot esculenta Crantz) is cultivated in tropical and subtropical regions for its edible tuberous roots and minimally for its leaves. It provides food and revenue to over eight hundred million people particularly in Africa. Generally, cassava is drought-tolerant, and sheds leaves in drought conditions resulting in significantly lower yields. Cassava drought management strategies need to focus on maximizing the utilization of molecular tools for crop establishment and yield. Developing strategies to produce cassava cultivars with drought tolerance is vital to extending crop yield under limited rainfall. In this review, recent progress applying molecular genetics, genomics, genetic engineering, and genome editing are reviewed.",
+    "Keywords": "cassava, manihot esculenta, drought tolerance, climate change, breeding, genomics, genetic engineering, gene editing",
+    "status": "complete"
+  },
+  {
+    "index": 2,
+    "id": "Mahot 2024",
+    "title": "Pheromone traps and climate variations influence populations of Sahlbergella singularis and associated damage of cocoa in Cameroon",
+    "DOI": "10.1093/ee/nvad117",
+    "Abstract": "Knowledge of insect pest ecology and biology is important for maximizing crop protection and reducing crop losses. Currently, we lack an efficient control program for the cocoa mirid Sahlbergella singularis Haglund (Hemiptera: Miridae), the principal insect pest of cocoa in West and Central Africa. A 2-yr study was conducted in 11 plantations across Ayos and Konye, two of the largest cocoa growing areas of Cameroon. We evaluated the effects of mirid sex pheromone and climatic variations on mirid population dynamics and their associated cocoa damage. Sex pheromone traps caught 1.5-fold higher mirids in Ayos than in Konye, with more overall counts in 2015 than in 2016. Cocoa pod counts were also significantly higher in 2015 than in 2016 and were negatively correlated with temperature and relative humidity. In both localities, mirid populations and associated cocoa pod damage were suppressed in plantations where sex pheromone traps were used.",
+    "Keywords": "pheromone traps, climate variation, Sahlbergella singularis, cocoa mirid, pest management, Cameroon",
+    "status": "complete"
+  },
+  {
+    "index": 3,
+    "id": "Laub 2024",
+    "title": "Shifting focus from external to in situ organic resources – The redesign of four tropical long-term experiments",
+    "DOI": "10.1016/j.eja.2024.127194",
+    "Abstract": "The paper describes the redesign of four long-term experiments (LTEs) in Kenya with the same setup in pedoclimatically contrasting conditions, where the goal to increase soil fertility remained but the focus shifted from external organic resource to in-situ root inputs, and maize monocropping was replaced by intercropping, crop rotation with legumes, and relay cropping with grasses. The redesign aimed to study the effectiveness of regenerative cropping strategies in rebuilding SOC and increasing crop yields starting from different levels of soil degradation, with the focus shifted from external to in situ organic inputs by increasing the root biomass of the cultivated crops.",
+    "Keywords": "soil organic carbon, organic resources, long-term experiments, tropical agriculture, Kenya, regenerative agriculture, crop rotation",
+    "status": "complete"
+  },
+  {
+    "index": 4,
+    "id": "Kruseman 2020",
+    "title": "Rural transformation and the future of cereal-based agri-food systems",
+    "DOI": "10.1016/j.gfs.2020.100441",
+    "Abstract": "Rural transformation is an inevitable and fundamental process of development. However, the speed and dimensions of rural transformation can affect investments in major staples such as maize, wheat and rice, which continue to play an important role in agri-food systems around the globe. This paper investigates the impacts of rural transformation on the future of cereal-based agri-food systems which are not directly addressed in global agricultural assessment models such as IMPACT. In this study, we present several key cases of major cereal systems undergoing different changes as a result of rural transformation processes across the major cereal baskets. We place these case studies in the perspective of IMPACT model scenario study results. Our study shows that the rural transformations that are taking place in different regions are heterogeneous with different impacts on the investment requirements for research and development (R&D) in the major cereals. It is concluded that although results of global agricultural assessment models such as IMPACT show initial large-scale effects on food system interactions, an iterative approach with more focused analyses on the complexities of rural transformation is needed to fine-tune results and place them in perspective.",
+    "Keywords": "rural transformation, cereal-based agri-food systems, maize, wheat, rice, IMPACT model, food security",
+    "status": "complete"
+  },
+  {
+    "index": 5,
+    "id": "Garrett 2017",
+    "title": "Resistance Genes in Global Crop Breeding Networks",
+    "DOI": "10.1094/PHYTO-03-17-0082-FI",
+    "Abstract": "Resistance genes are a major tool for managing crop diseases. The networks of crop breeders who exchange resistance genes and deploy them in varieties help to determine the global landscape of resistance and epidemics, an important system for maintaining food security. These networks function as a complex adaptive system, with associated strengths and vulnerabilities, and implications for policies to support resistance gene deployment strategies. Extensions of epidemic network analysis can be used to evaluate the multilayer agricultural networks that support and influence crop breeding networks. Here, we evaluate the general structure of crop breeding networks for cassava, potato, rice, and wheat. All four are clustered due to phytosanitary and intellectual property regulations, and linked through CGIAR hubs. Cassava networks primarily include public breeding groups, whereas others are more mixed.",
+    "Keywords": "resistance genes, crop breeding networks, disease resistance, cassava, potato, rice, wheat, CGIAR, phytopathology",
+    "status": "complete"
+  },
+  {
+    "index": 6,
+    "id": "Dongmo 2021",
+    "title": "Local adaptation in thermal tolerance for a tropical butterfly across ecotone and rainforest habitats",
+    "DOI": "10.1242/bio.058619",
+    "Abstract": "Thermal adaptation to habitat variability can determine species vulnerability to environmental change. For example, physiological tolerance to naturally low thermal variation in tropical forests species may alter their vulnerability to climate change impacts, compared with open habitat species. The study investigated the role of habitat in structuring thermal limits, critical thermal maximum (CTmax) and minimum (CTmin), for Bicyclus dorothea (Cramer, 1779), a nymphalid butterfly found in both forest and ecotone habitats in many tropical African countries.",
+    "Keywords": "thermal tolerance, climate change, tropical butterfly, habitat adaptation, Bicyclus dorothea, Africa",
+    "status": "complete"
+  },
+  {
+    "index": 7,
+    "id": "Doetterl 2021",
+    "title": "Organic matter cycling along geochemical, geomorphic, and disturbance gradients in forest and cropland of the African Tropics – project TropSOC database version 1.0",
+    "DOI": "10.5194/essd-13-4133-2021",
+    "Abstract": "The African Tropics are hotspots of modern-day land use change and are, at the same time, of great relevance for the cycling of carbon (C) and nutrients between plants, soils, and the atmosphere. However, the consequences of land conversion on biogeochemical cycles are still largely unknown as they are not studied in a landscape context that defines the geomorphic, geochemical, and pedological framework in which biological processes take place. Thus, the response of tropical soils to disturbance by erosion and land conversion is one of the great uncertainties in assessing the carrying capacity of tropical landscapes to grow food for future generations and in predicting greenhouse gas fluxes from soils to the atmosphere and, hence, future earth system dynamics. Here we describe version 1.0 of an open-access database created as part of the project Tropical soil organic carbon dynamics along erosional disturbance gradients in relation to variability in soil geochemistry and land use (TropSOC). TropSOC v1.0 contains spatially and temporally explicit data on soil, vegetation, environmental properties, and land management collected from 136 pristine tropical forest and cropland plots between 2017 and 2020 as part of monitoring and sampling campaigns in the eastern Congo Basin and the East African Rift Valley system.",
+    "Keywords": "soil organic carbon, tropical soils, land use change, geochemistry, TropSOC, Africa, cropland, forest",
+    "status": "complete"
+  },
+  {
+    "index": 8,
+    "id": "Diabate 2021",
+    "title": "Push-pull strategy combined with net houses for controlling cowpea insect pests and enhancing crop yields",
+    "DOI": "10.1016/j.cropro.2020.105449",
+    "Abstract": "The study investigated a push-pull strategy to prevent small insect pest outbreaks in a net house, where the push component consisted of two stimulus plants (Cymbopogon citratus and Tagetes minuta), and the pull stimuli consisted of visual cues from blue and yellow sticky traps. Field experiments were set up in central Kenya and conducted during a rainy and a dry season. Net house and net house + push-pull reduced insect pest infestations, except Aphis craccivora in the dry period. The push-pull strategy reduced Empoasca sp. infestations in the rainy period. Cowpea pod yields and quality were higher in the net house treatments in both periods. Cowpea pod and grain yield and quality were higher in the net house and net house + push-pull treatments than in the control irrespective of the period.",
+    "Keywords": "push-pull strategy, cowpea, integrated pest management, net houses, Cymbopogon citratus, Tagetes minuta, Kenya",
+    "status": "complete"
+  },
+  {
+    "index": 9,
+    "id": "Coyne 2018",
+    "title": "Plant-Parasitic Nematodes and Food Security in Sub-Saharan Africa",
+    "DOI": "10.1146/annurev-phyto-080417-045833",
+    "Abstract": "Challenges in Sub-Saharan Africa including low agricultural productivity, exploding populations, and escalating urbanization have led to declining per capita food availability. Crop production intensification brings elevated threats from pests and diseases, including plant-parasitic nematodes. This review examines the impact of plant-parasitic nematodes on food security in Sub-Saharan Africa.",
+    "Keywords": "plant-parasitic nematodes, food security, Sub-Saharan Africa, agricultural productivity, crop pests",
+    "status": "complete"
+  },
+  {
+    "index": 10,
+    "id": "Chigeza 2019",
+    "title": "Public sector soybean (Glycine max) breeding: Advances in cultivar development in the African tropics",
+    "DOI": "10.1111/pbr.12682",
+    "Abstract": "Formal public sector soybean breeding in Africa spans over four decades, and it was initiated by the International Institute of Tropical Agricultural (IITA). As the demand of soybean continues to outstrip production, strategic projects such the Tropical Legume (TL) were initiated, in which the main goal was to enhance the productivity of soybean in the farmers' fields in Sub-Saharan Africa. One of the strategies to enhance the productivity of soybean in the farmers' fields is through developing and deploying improved soybean varieties in the target countries. Through the TL I and TL II projects, a number of varieties were released in the target countries, Kenya, Nigeria, Malawi and Mozambique by employing participatory variety selection (PVS). This review provides highlights of the achievements made by IITA breeding programme and insights of what needs to be done to enhance yield improvement for soybean in Africa using demand-driven breeding approaches.",
+    "Keywords": "soybean breeding, Glycine max, African tropics, IITA, Tropical Legume project, cultivar development, participatory variety selection",
+    "status": "complete"
+  }
+]

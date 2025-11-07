@@ -1,0 +1,38 @@
+[
+  {
+    "index": 21,
+    "id": "Rippke/Challinor 2016",
+    "title": "Timescales of transformational climate change adaptation in sub-Saharan African agriculture",
+    "DOI": "10.1038/nclimate2947",
+    "Abstract": "The paper examines how climate change may necessitate transformative adaptation of agricultural systems, indicating when and where the cultivation of key crops in sub-Saharan African will become unviable. Climate change is projected to constitute a significant threat to food security if no adaptation actions are taken, and transformation of agricultural systems (such as switching crop types or moving out of agriculture) is projected to be necessary in some cases, though little attention has been paid to the timing of these transformations. The study develops a temporal uncertainty framework using the CMIP5 ensemble to assess when and where cultivation of key crops in sub-Saharan Africa becomes unviable, reporting potential transformational changes for all major crops during the twenty-first century, as climates shift and areas become unsuitable.",
+    "Keywords": "climate change, agriculture, food security, environmental factors, climate change adaptation, sub-Saharan Africa, cassava, maize",
+    "status": "complete"
+  },
+  {
+    "index": 24,
+    "id": "Jenkins 2015",
+    "title": "Orange-Fleshed Sweet Potato: Successes and Remaining Challenges of the Introduction of a Nutritionally Superior Staple Crop in Mozambique",
+    "DOI": "10.1177/0379572115597397",
+    "Abstract": "Chronic vitamin A deficiency affects both women and children in Mozambique and populations worldwide and cannot be addressed through supplementation alone. Food-based approaches encouraging the consumption of vitamin A-rich foods, such as the orange-fleshed sweet potato (OFSP), have the potential to positively affect vitamin A status. A range of OFSP varieties have been introduced in sub-Saharan Africa in rural and urban environments and emergency and nonemergency contexts. The paper highlights the successes to date and remaining challenges of the introduction of OFSP to increase vitamin A consumption in Mozambique. A systematic review using The Preferred Reporting Items for Systematic Reviews and Meta-Analyses resulted in 20 studies that met inclusion criteria. Orange-fleshed sweet potatoes are widely accepted by Mozambican farmers and consumers, and various studies show a positive impact on vitamin A status due to the introduction of this nutritionally superior staple crop.",
+    "Keywords": "orange-fleshed sweet potato, vitamin A, biofortification, Mozambique, food security, nutrition, OFSP",
+    "status": "complete"
+  },
+  {
+    "index": 25,
+    "id": "Ferris 2008",
+    "title": "Making market information services work better for the poor in Uganda",
+    "DOI": "10.2499/CAPRiWP77",
+    "Abstract": "Up to 52 percent of farmers indicated that receiving Market Information Services (MIS) had a positive impact on their business, and 39 percent stated that it had a lot of impact in terms of decision making and stabilizing incomes. The paper evaluates market information services in Uganda and their impact on smallholder farmers.",
+    "Keywords": "market information services, Uganda, smallholder farmers, agricultural marketing, poverty reduction",
+    "status": "complete"
+  },
+  {
+    "index": 26,
+    "id": "Sultan 2014",
+    "title": "Robust features of future climate change impacts on sorghum yields in West Africa",
+    "DOI": "10.1088/1748-9326/9/10/104006",
+    "Abstract": "West Africa is highly vulnerable to climate hazards and better quantification and understanding of the impact of climate change on crop yields are urgently needed. The study provides an assessment of near-term climate change impacts on sorghum yields in West Africa and accounts for uncertainties both in future climate scenarios and in crop models. The research uses simulations of nine bias-corrected CMIP5 climate models and two crop models (SARRA-H and APSIM) to evaluate the robustness of projected crop yield impacts. The climate models project a mean warming of +2.8 °C in the decades of 2031–2060 compared to a baseline of 1961–1990 and a robust change in rainfall in West Africa with less rain in the Western part of the Sahel and more rain in Central Sahel. Without accounting for direct crop responses to CO2, mean crop yield decreases by about 16-20% and year-to-year variability increases in the Western part of the Sahel. Adverse impacts on mean yield and yield variability are lowest for modern cultivars. CO2 fertilization would significantly offset the negative climate impacts on sorghum yields by about 10%.",
+    "Keywords": "climate change, sorghum, West Africa, Sahel, crop yields, CMIP5, crop modeling, CO2 fertilization",
+    "status": "complete"
+  }
+]

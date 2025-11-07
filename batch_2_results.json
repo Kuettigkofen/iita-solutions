@@ -1,0 +1,38 @@
+[
+  {
+    "index": 11,
+    "id": "Aregbesola 2019",
+    "title": "Potential impact of climate change on whiteflies and implications for the spread of vectored viruses",
+    "DOI": "10.1007/s10340-018-1059-9",
+    "Abstract": "Whiteflies (Hemiptera: Aleyrodidae) are important insect pests causing serious damage to plants and transmitting hundreds of plant viruses. Climate change is expected to influence life history and trophic interactions among plants, whiteflies and their natural enemies. Here, we review the potential impacts of climate change on whiteflies and the likely consequences for agricultural systems. This review concludes that while climatic stress tends to negatively affect life history traits, the effects differ with the tolerance of the whiteflies and the amount of stress experienced. Whiteflies also differ in their adaptability. Better adapted species will likely experience increased distribution and abundance provided their tolerance limits are not exceeded, while species with lower tolerance and adaptation limits will suffer reduced fitness, which will have overall effects on their distribution and abundance in space.",
+    "Keywords": "whiteflies, climate change, plant viruses, Bemisia tabaci, pest management, temperature tolerance",
+    "status": "complete"
+  },
+  {
+    "index": 12,
+    "id": "Aregbesola 2020",
+    "title": "Life history and temperature-dependence of cassava-colonising populations of Bemisia tabaci",
+    "DOI": "10.1007/s10340-020-01249-z",
+    "Abstract": "The whiteflies belonging to the species group Bemisia tabaci transmit viruses that are the greatest constraint to the production of cassava, Africa's most important food security crop. The study examined the life history of an endemic African population of B. tabaci SSA-ESA at six constant temperatures (16, 20, 24, 28, 32, 36 °C) in controlled environment chambers, and for 10 generations in the field. Oviposition occurred between 20 and 28 °C, with highest fecundity (114.5 ± 88.2) eggs per female at 20 °C. Similarly, B. tabaci adult females average survival time was longest (19.7 days) at 24 °C, and shortest (8.5 days) at 36 °C. Immature development time decreased with increasing temperature from 59.3 days at 16 °C to 16.3 days at 28 °C, and increased above 28 °C. A constant temperature of 36 °C was lethal to eggs and first instars and no immature stage developed further to adults at this temperature.",
+    "Keywords": "Bemisia tabaci, cassava, whiteflies, temperature dependence, life history, climate change, SSA-ESA",
+    "status": "complete"
+  },
+  {
+    "index": 13,
+    "id": "Aregbesola 2021",
+    "title": "Production Characteristics and Strategies for Adapting to the Impact of Climate Change on Cassava Whiteflies and Viruses in Tanzania",
+    "DOI": "10.31817/vjas.2021.4.1.03",
+    "Abstract": "Study on production characteristics and adaptation strategies for managing cassava whiteflies and viruses under climate change conditions in Tanzania.",
+    "Keywords": "cassava, climate change, whiteflies, viruses, Tanzania, adaptation strategies, Bemisia tabaci",
+    "status": "complete"
+  },
+  {
+    "index": 17,
+    "id": "Huynh 2018",
+    "title": "A multi-parent advanced generation inter-cross (MAGIC) population for genetic analysis and improvement of cowpea (Vigna unguiculata L. Walp.)",
+    "DOI": "10.1111/tpj.13827",
+    "Abstract": "The MAGIC population was developed from eight founder parents that were genetically diverse and carried many abiotic and biotic stress resistance, seed quality and agronomic traits relevant to cowpea improvement in the United States and sub-Saharan Africa. The eight parents were inter-crossed using structured matings to ensure balanced representation from each parent, followed by single-seed descent, resulting in 305 F8 recombinant inbred lines each carrying a mosaic of genome blocks contributed by all founders. The 36,346 markers segregating in the cowpea MAGIC population were almost double the number in any bi-parental RIL population genotyped with the same SNP array. This is attributable to the eight founder parents having been chosen on the basis of phenotypic and genetic diversity.",
+    "Keywords": "MAGIC population, cowpea, Vigna unguiculata, genetic diversity, multi-parent cross, recombinant inbred lines, SNP markers",
+    "status": "complete"
+  }
+]

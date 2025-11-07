@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "title": "Climate change impacts and adaptation strategies for crops in West Africa: A systematic review",
+    "year": 2022,
+    "authors": "Tony W. Carr",
+    "doi": "10.1088/1748-9326/ac61c8",
+    "abstract": "Agriculture in West Africa faces the challenge of meeting the rising demand for food as national incomes and populations increase while production becomes more uncertain due to climate change. Adaptation strategies (such as optimised planting dates, use of fertilisers and climate-resilient crop varieties) to mitigate the effects of climate change on crop yields. We systematically searched two databases for literature published between 2005 and 2020 and identified 35 relevant studies. We analysed yield changes of major staple crops (maize, sorghum, rice, millet, yam, cassava and groundnuts) caused by different climate change and field management scenarios. Yields declined by a median of 6% (−8% to +2% depending on the crop) due to climate change in all scenarios analysed. We show that the common adaptation strategies could increase crop yields affected by climate change by 13% (−4% to +19% depending on the strategy) as compared to business-as-usual field management practices.",
+    "keywords": "Climate change, West Africa, adaptation strategies, crop yields, systematic review"
+  },
+  {
+    "id": 2,
+    "title": "Diversity within village institutions and its implication for resilience in the context of climate change in Cameroon",
+    "year": 2018,
+    "authors": "H. Carolyn Peach Brown, D.J. Sonwa",
+    "doi": "10.1080/17565529.2017.1291409",
+    "abstract": "Surveys of 232 people from 13 villages, in three regions of Cameroon, provided insight about the role that internal village institutions can play in fostering community resilience. Almost all villagers, both men and women, are members of at least one group and the membership of these groups is very diverse in terms of family relations, gender, occupation, age, and level of education. While the groups were not currently working together to respond to climate change, the diverse social networks that villagers have in these groups have already fostered exchange of knowledge. Their existence in villages provides opportunities for developing and sharing of knowledge that can be important for climate change adaptation in the future. Community resilience could be better fostered through a deliberate action-reflection process that includes both men and women, and builds on the social capital present in communities.",
+    "keywords": "Climate change, community resilience, village institutions, social capital, Cameroon"
+  },
+  {
+    "id": 3,
+    "title": "Can smallholder farmers adapt to climate variability, and how effective are policy interventions? Agent-based simulation results for Ethiopia",
+    "year": 2017,
+    "authors": "Thomas Berger, Christian Troost, Tesfamicheal Wossen, Evgeny Latynskiy, Kindie Tesfaye, Sika Gbegbelegbe",
+    "doi": "10.1111/agec.12358",
+    "abstract": "Climate variability with unexpected droughts and floods causes serious production losses and worsens food security, especially in Sub-Saharan Africa. This study applies stochastic bioeconomic modeling to analyze smallholder adaptation to climate and price variability in Ethiopia. It uses the agent-based simulation package Mathematical Programming-based Multi-Agent Systems (MPMAS) to capture nonseparable production and consumption decisions at household level, considering livestock and eucalyptus sales for consumption smoothing. The study found the promotion of new maize and wheat varieties to be an effective adaptation option, on average, especially when accompanied by policy interventions such as credit and fertilizer subsidy. The effectiveness of available adaptation options is quite different across the heterogeneous smallholder population in Ethiopia. This implies that policy assessments based on average farm households may mislead policy makers to adhere to interventions that are beneficial on average albeit ineffective in addressing the particular needs of poor and food insecure farmers.",
+    "keywords": "Climate adaptation, agent-based modeling, Ethiopia, smallholder farmers, policy interventions"
+  },
+  {
+    "id": 4,
+    "title": "Comparative phylogeography of Aedes mosquitoes and the role of past climatic change for evolution within Africa",
+    "year": 2018,
+    "authors": "Kelly Louise Bennett",
+    "doi": "10.1002/ece3.3668",
+    "abstract": "The primary aim was to determine whether historical climate change has impacted the evolutionary history of African Aedes mosquitoes. The study used a comparative phylogeographic approach to investigate the population histories of four species of Aedes (Stegomyia) mosquitoes. Inference of the demographic history of Ae. aegypti within Africa from nuclear sequence data revealed that this could have been influenced by past climatic change with historical divergence and admixture dated to the late Pleistocene and early Holocene, consistent with demography being shaped by historical changes in forest distribution.",
+    "keywords": "Aedes mosquitoes, phylogeography, climate change, Africa, evolution"
+  },
+  {
+    "id": 5,
+    "title": "Evaluating the Heterogeneous Impacts of Adoption of Climate-Smart Agricultural Technologies on Rural Households' Welfare in Mali",
+    "year": 2022,
+    "authors": "Bola Amoke Awotide, A. Ogunniyi, K.O. Olagunju, L.O. Bello, A.Y. Coulibaly, A.N. Wiredu, B. Kone, A. Ahamadou, V. Manyong, T. Abdoulaye",
+    "doi": "10.3390/agriculture12111853",
+    "abstract": "Climate change is negatively affecting agricultural production in the Sahel region. Climate-Smart Agricultural Technologies (CSATs) are disseminated to reduce these negative effects, and particularly those on resource-poor farm households. This article investigates the distributional impacts of the adoption of CSAT on-farm households' welfare using a dataset that covers four regions, 32 communes, 320 villages, and 2240 households in Mali. Using an instrumental variable quantile treatment effects model, the paper addresses the potential endogeneity arising from the selection bias and the heterogeneity of the effect across the quantiles of the outcome variables' distribution. The results show that the adoption of CSAT is positively associated with improved households' welfare.",
+    "keywords": "Climate-smart agriculture, Mali, household welfare, adoption, technology"
+  },
+  {
+    "id": 6,
+    "title": "Climate change impact and adaptation of rainfed cereal crops in sub-Saharan Africa",
+    "year": 2024,
+    "authors": "Seyyedmajid Alimagham, M.P. van Loon, J. Ramirez-Villegas, S. Adjei-Nsiah, F. Baijukya, A. Bala, R. Chikowo, J.V. Silva, A.M. Soulé, G. Taulya, F.A. Tenorio, K. Tesfaye, M.K. van Ittersum",
+    "doi": "10.1016/j.eja.2024.127137",
+    "abstract": "Sub-Saharan Africa's (SSA) demand for cereals is projected to more than double by 2050. Climate change is generally assumed to add to the future challenges of the needed productivity increase. This study aimed to assess (i) the potential climate change impact on four key rainfed cereals (maize, millet, sorghum and wheat) in ten SSA countries namely Burkina Faso, Ghana, Mali, Niger, Nigeria, Ethiopia, Kenya, Tanzania, Uganda, and Zambia using local data and national expertise, and (ii) the potential of cultivar adaptation to climate change for the four crops. The researchers assessed effects on rainfed potential cereal yields per crop and aggregated these to regional level in West (WA), East and Southern Africa (ESA), using a rigorous agronomic dataset for 120 locations in the ten countries with simulations using bias-corrected climate data from five GCMs, three time periods and two scenarios. Key findings show that by 2050, climate change impact on rainfed potential yields was insignificant in West and modest in East and Southern Africa, while by 2090, average impacts were much higher in West than in East and Southern Africa.",
+    "keywords": "Climate change, cereal crops, sub-Saharan Africa, rainfed agriculture, adaptation"
+  },
+  {
+    "id": 7,
+    "title": "Carbon Storage in Cocoa Growing Systems Across Different Agroecological Zones in Ghana",
+    "year": 2021,
+    "authors": "John Tennyson Afele, Evans Dawoe, Akwasi Adutwum Abunyewa, Victor Afari-Sefa, Richard Asare",
+    "doi": "10.22302/ICCRI.JUR.PELITAPERKEBUNAN.V37I1.395",
+    "abstract": "Shade grown cocoa systems have been credited with stocking high quantities of carbon and therefore possess the potential to mitigate climate change and help achieve targets of the United Nations Collaborative Program on Reduced Emissions from Deforestation and Forest Degradation (REDD+). This study quantifies and compares carbon stored as well as estimated cocoa yields in two shade management types (i.e., shaded and full sun) across three agroecological zones: Dry Semi-Deciduous Fire Zone (DSFZ), Moist Evergreen Zone (MEZ) and Upland Evergreen Moist Zone (UEMZ) in Ghana. Results show that Soil organic carbon (SOC) stored decreased with increasing soil depth across all agroecological zones. Cocoa farms with shade trees stored 6 times more soil carbon (35.90±1.56 Mg C ha-1) compared to the full sun systems (5.98±1.56 Mg C ha-1).",
+    "keywords": "Carbon storage, cocoa agroforestry, agroecological zones, Ghana, climate change mitigation"
+  },
+  {
+    "id": 8,
+    "title": "Editorial: Soil Fertility Management for Sustainable Food Production in sub-Saharan Africa",
+    "year": 2022,
+    "authors": "Samuel Adjei-Nsiah, Andrews Opoku, Kwame Agyei Frimpong, Isaac Danso",
+    "doi": "10.3389/fsufs.2022.959604",
+    "abstract": "Agriculture is the mainstay of the economies of sub-Saharan Africa as it employs 60% of the active population and contributes up to 35% of the GDP. Improving and maintaining soil fertility is critical for sub-Saharan Africa to achieve the sustainable development goals (SDGs) and, in particular, contribute to eradicating poverty (SDG 1), and ending hunger, achieving food security, improving nutrition and promoting sustainable agriculture (SDG 2).",
+    "keywords": "Soil fertility management, sub-Saharan Africa, sustainable agriculture, food production, SDGs"
+  },
+  {
+    "id": 9,
+    "title": "Combining temperature-dependent life table data into Insect Life Cycle Model to forecast fall armyworm Spodoptera frugiperda (JE Smith) distribution in maize agro-ecological zones in Africa",
+    "year": 2024,
+    "authors": "Marian Adan, H.E.Z. Tonnang, C.E.F. Kassa, K. Greve, C. Borgemeister, G. Goergen",
+    "doi": "10.1371/journal.pone.0299154",
+    "abstract": "The study investigated the relationship between temperature and fall armyworm (FAW) life history traits, employing life cycle modeling at temperatures of 20, 25, 28, 30, and 32°C. The optimal temperature range for immature stage survival and female fecundity was identified as 21–25°C, with the intrinsic rate of increase (rm) and gross reproductive rate (GRR) peaking at 25–28°C. The research further projected the Establishment Risk Index (ERI), Activity Index (AI), and Generation Index (GI) for FAW under current and future climates (2050 and 2070) using RCP 2.6 and RCP 8.5 scenarios.",
+    "keywords": "Fall armyworm, Spodoptera frugiperda, climate change, temperature, life cycle modeling, Africa"
+  },
+  {
+    "id": 10,
+    "title": "Climate-resilient aquatic food systems require transformative change to address gender and intersectional inequalities",
+    "year": 2024,
+    "authors": "Rahma Adam, A. Amani, R. Kuijpers, K. Danielsen, E. Smits, F. Kruijssen",
+    "doi": "10.1371/journal.pclm.0000309",
+    "abstract": "The research conducted a literature search and review from 2017–2022 on empirical studies that examined the interactions between gender and other social identities, climate change, and AFS, with key findings highlighting how gender and other social identities shape people's capacities to respond and adapt to climate shocks and stresses in AFS. The study also assessed participation rates of women and men in AFS using a global dataset developed by the Illuminating Hidden Harvest project.",
+    "keywords": "Climate resilience, aquatic food systems, gender inequality, climate adaptation, social equity"
+  },
+  {
+    "id": 11,
+    "title": "Cocoa agroforestry is less resilient to sub-optimal and extreme climate than cocoa in full sun",
+    "year": 2017,
+    "authors": "Issaka Abdulai, Philippe Vaast, Munir P Hoffmann, Richard Asare, Laurence Jassogne, Piet Van Asten, Reimund P Rötter, Sophie Graefe",
+    "doi": "10.1111/gcb.13885",
+    "abstract": "The study tested cocoa agroforestry as a potential adaptation strategy to sub-optimal or adverse environmental conditions such as drought, comparing cocoa in full sun with agroforestry systems shaded by (i) a leguminous tree species, Albizia ferruginea and (ii) Antiaris toxicaria, the most common shade tree species in the region, monitoring micro-climate, sap flux density, throughfall, and soil water content from November 2014 to March 2016 at the forest-savannah transition zone of Ghana. Cocoa plants under A. toxicaria suffered 77% mortality and massive stress with significantly reduced sap flux density, whereas cocoa in full sun maintained higher sap flux density and better recovery after extreme drought, with soil water content in full sun higher than in shaded systems suggesting that cocoa mortality in the shaded systems was linked to strong competition for soil water. The study concludes that promoting shade cocoa agroforestry as drought resilient system especially under climate change needs to be carefully reconsidered as shade tree species such as the recommended leguminous A. ferruginea constitute major risk to cocoa functioning under extended severe drought.",
+    "keywords": "Cocoa, agroforestry, drought stress, climate resilience, Ghana"
+  },
+  {
+    "id": 12,
+    "title": "Characterization of cocoa production, income diversification and shade tree management along a climate gradient in Ghana",
+    "year": 2018,
+    "authors": "Issaka Abdulai, L. Jassogne, S. Graefe, R. Asare, P. Van Asten, P. Läderach",
+    "doi": "10.1371/journal.pone.0195777",
+    "abstract": "Reduced climatic suitability due to climate change in cocoa growing regions of Ghana is expected in the coming decades. This threatens farmers' livelihood and the cocoa sector. Climate change adaptation requires an improved understanding of existing cocoa production systems and farmers' coping strategies. This study characterized current cocoa production, income diversification and shade tree management along a climate gradient within the cocoa belt of Ghana. Current mean cocoa yield level of 288kg ha-1yr-1 in the dry region was significantly lower than in the mid and wet regions with mean yields of 712 and 849 kg ha-1 yr-1, respectively. In the dry region, farmers diversified their income sources with non-cocoa crops and off-farm activities while farmers at the mid and wet regions mainly depended on cocoa (over 80% of annual income). Two shade systems classified as medium and low shade cocoa agroforestry systems were identified across the studied regions. The medium shade system was more abundant in the dry region and associated to adaptation to marginal climatic conditions.",
+    "keywords": "Cocoa production, climate gradient, income diversification, shade management, Ghana"
+  },
+  {
+    "id": 13,
+    "title": "The potential of stable carbon isotope ratios and leaf temperature as proxies for drought stress in banana under field conditions",
+    "year": 2022,
+    "authors": "Mathilde Vantyghem, Roel Merckx, Bert Stevens, Rebecca Hood-Nowotny, Rony Swennen, Gerd Dercon",
+    "doi": "10.1016/j.agwat.2021.107247",
+    "abstract": "The study involved leaf samples taken for δ13C analysis and leaf temperature monitoring throughout the day in a field trial with different banana plant stages (mother and daughter plants) under two irrigation treatments (rainfed and irrigated) during the dry season in Arusha, Tanzania. The researchers found that δ13C, leaf temperature and DANS were highly sensitive proxies for drought stress in banana. There was a significant difference in δ13C (1.5 ± 0.1‰, p < 0.01) and afternoon leaf temperature (7 ± 1 °C, p < 0.01) between the rainfed and irrigated treatment. The study developed a banana tailored sampling method to deal with variability in δ13C within the leaf, and revealed the complexity of carbon isotope dynamics in the intertwined system of mother and daughter plants. Based on these results, researchers developed banana-tailored methods that are low-cost and therefore applicable under field conditions.",
+    "keywords": "Banana, drought stress, carbon isotopes, leaf temperature, climate adaptation"
+  },
+  {
+    "id": 14,
+    "title": "Prospect for increasing grain legume crop production in East Africa",
+    "year": 2018,
+    "authors": "Marloes P. van Loon, N. Deng, P. Grassini, J.I.R. Edreira, E. Wolde-meskel, F. Baijukya, H. Marrou, M.K. van Ittersum",
+    "doi": "10.1016/j.eja.2018.09.004",
+    "abstract": "Agricultural production in East Africa has to increase drastically to meet future food demand. Yield gap assessment provides important information on the degree to which production can be increased on existing cropland. The study analyzed prospects for increasing grain legume crop production in East Africa using yield gap analysis.",
+    "keywords": "Grain legumes, yield gap, East Africa, food security, agricultural production"
+  },
+  {
+    "id": 15,
+    "title": "Modeling carbon stock dynamics under fallow and cocoa agroforest systems in the shifting agricultural landscape of Central Cameroon",
+    "year": 2017,
+    "authors": "Francis B. T. Silatsa, M. Yemefack, N. Ewane-Nonga, A. Kemga, R. Hanna",
+    "doi": "10.1007/s10457-016-9973-4",
+    "abstract": "Understanding biological processes within cocoa (Theobroma cacao L.) agroforest (CAF) and fallow systems is a prerequisite for developing actions related to emission reduction in the shifting agricultural landscape of Cameroon. Carbon (C) stocks and accretion were assessed and modeled in various C components (large trees, small trees, dead wood, litter, roots, soil, and total C) of fallow and CAF systems along a 50-year chronosequence. The rate of maximum growth of total C stock was reached after 12–13 years in both fallow and CAF, with maximum GCs of 6.9 and 6.3 Mg C ha−1 year−1, respectively. Over a period of about 30 years, both systems sequestered a total of ~200 Mg C ha−1. This indicates that cocoa agroforests, a main source of income for local populations, can also provide significant climate change mitigation services.",
+    "keywords": "Carbon sequestration, cocoa agroforestry, fallow systems, Cameroon, climate mitigation"
+  },
+  {
+    "id": 16,
+    "title": "Potential of genomics for the improvement of underutilized legumes in sub-Saharan Africa",
+    "year": 2021,
+    "authors": "Rajneesh Paliwal, T.T. Adegboyega, M. Abberton, B. Faloye, O. Oyatomi",
+    "doi": "10.1002/leg3.69",
+    "abstract": "The paper focuses on underutilized, or orphan legumes, which are widely distributed across farming landscapes in sub-Saharan Africa (SSA) but often have low yields and do not fulfill their potential due to very limited research, breeding, development, marketing, and awareness of their benefits. The review focuses on three crops: Bambara groundnut, African yam bean, and Kersting's groundnut. It identifies the institutional and noninstitutional challenges, the constraints, the prospects, and the rewards that can be derived from exploiting orphan legumes in SSA, with knowledge of the challenges and rewards providing opportunities for concerted approaches to their revival and contribution to future global food systems, especially in the context of climate change. The authors discuss constraints and prospects of producing these crops, and review the rewards of conservation and characterization of genetic resources of these indigenous African legume crops.",
+    "keywords": "Underutilized legumes, genomics, sub-Saharan Africa, genetic improvement, orphan crops"
+  },
+  {
+    "id": 17,
+    "title": "A review of biotechnological approaches towards crop improvement in African yam bean (Sphenostylis stenocarpa Hochst. Ex A. Rich.)",
+    "year": 2021,
+    "authors": "Olubusayo O Oluwole, Oluwadurotimi S Aworunse, Ademola I Aina, Olusola L Oyesola, Jacob O Popoola, Olaniyi A Oyatomi, Michael T Abberton, Olawole O Obembe",
+    "doi": "10.1016/j.heliyon.2021.e08481",
+    "abstract": "The paper addresses how climate change contributes to food and nutrition insecurity, and emphasizes that achieving the UN Sustainable Development Goal of Food Security requires diverse cropping systems beyond staple crops. The review focuses on orphan legumes with untapped potential for developing improved cultivars, specifically Sphenostylis stenocarpa Hochst. Ex A. Rich. Harms, known as African yam bean (AYB). The crop is described as an underutilised tropical legume that is climate-resilient with excellent potential for smallholder agriculture in sub-Saharan Africa.",
+    "keywords": "African yam bean, biotechnology, crop improvement, climate resilience, sub-Saharan Africa"
+  },
+  {
+    "id": 18,
+    "title": "Narrowing the rice yield gap in East and Southern Africa: Using and adapting existing technologies",
+    "year": 2014,
+    "authors": "Nhamo Nhamo, J. Rodenburg, N. Zenna, G. Makombe, A. Luzi-Kihupi",
+    "doi": "10.1016/j.agsy.2014.08.003",
+    "abstract": "Large gaps exist in rice yields on smallholder farms in East and Southern Africa. Key findings include: Highest yield gains in rice result from the management of weeds and soil nutrients. Fertilizer use on unimproved rice cultivars results in negative economic returns. GAP have the potential of generating synergies from component technologies. Adapted technologies and GAP based decision tools improve resource-use efficiency. The importance of rice production in sub-Saharan Africa (SSA) has significantly increased over the past decades. Currently, rice plays a pivotal role in improving household food security and national economies in SSA.",
+    "keywords": "Rice, yield gap, East Africa, Southern Africa, agricultural technology"
+  },
+  {
+    "id": 19,
+    "title": "Phenotypic characterization of maize landraces from Sahel and Coastal West Africa reveals marked diversity and potential for genetic improvement",
+    "year": 2020,
+    "authors": "Charles Nelimor, Baffour Badu-Apraku, Simon P. A. Nguetta, Antonia Y. Tetteh, Ana Luísa Garcia-Oliveira",
+    "doi": "10.1080/15427528.2019.1674760",
+    "abstract": "Landraces of maize are invaluable sources of genetic variability for improving agronomic traits, and they hold great promise in developing new maize varieties with enhanced resilience to stresses. Even though phenotypic characterization is an inexpensive approach for elucidating variation hidden in genetic resources, information on the genetic diversity patterns in large collections of landraces remains limited. The study investigated the extent of phenotypic diversity among 196 maize landraces, representing gene pools from Burkina Faso, Ghana and Togo, and 14 improved populations/varieties from the Maize Improvement Program of International Institute of Tropical Agriculture (IITA-MIP). The germplasm was assessed for 26 agronomic traits. Highly significant differences (P < 0.001) were observed among the accessions for all measured traits. Shannon-Weaver diversity index (H') revealed high genetic variability among the landraces (H' = 0.73) and a narrow genetic base in the improved populations and varieties (H' = 0.46).",
+    "keywords": "Maize landraces, genetic diversity, West Africa, crop improvement, phenotyping"
+  },
+  {
+    "id": 20,
+    "title": "Cassava brown streak disease: a threat to food security in Africa",
+    "year": 2016,
+    "authors": "S. Alicai",
+    "doi": "10.1038/srep36164",
+    "abstract": "Cassava is a major staple food for about 800 million people in the tropics and sub-tropical regions of the world. Production of cassava is significantly hampered by cassava brown streak disease (CBSD), caused by Cassava brown streak virus (CBSV) and Ugandan cassava brown streak virus (UCBSV). The disease is suppressing cassava yields in eastern Africa at an alarming rate. Previous studies have documented that CBSV is more devastating than UCBSV because it more readily infects both susceptible and tolerant cassava cultivars, resulting in greater yield losses. Using whole genome sequences from NGS data, the study produced the first coalescent-based species tree estimate for CBSV and UCBSV. This species framework led to the finding that CBSV has a faster rate of evolution when compared with UCBSV. Furthermore, the study discovered that in CBSV, nonsynonymous substitutions are more predominant than synonymous substitution and occur across the entire genome.",
+    "keywords": "Cassava brown streak virus, food security, Africa, plant disease, climate change"
+  },
+  {
+    "id": 21,
+    "title": "Long-term spatial-temporal trends and variability of rainfall over Eastern and Southern Africa",
+    "year": 2019,
+    "authors": "Francis Kamau Muthoni, V.O. Odongo, J. Ochieng, E.M. Mugalavai, S.K. Mourice",
+    "doi": "10.1007/s00704-018-2712-1",
+    "abstract": "This study investigates the spatial-temporal trends and variability of rainfall within East and South Africa (ESA) region. The newly available Climate Hazards group Infrared Precipitation with Stations (CHIRPS-v2) gridded data spanning 37 years (1981 to 2017) was validated against gauge observations and utilised to map zones experiencing significant monotonic rainfall trends. Standardised annual rainfall anomalies revealed the spatial-temporal distribution of below and above normal rains that are associated with droughts and floods respectively. Results showed that CHIRPS-v2 data had a satisfactory skill to estimate monthly rainfall. Two contiguous zones with a significant increase in annual rainfall (3–15 mm year−1) occurred in Southwest Zambia and in Northern Lake Victoria Basin between Kenya and Uganda. The most significant decrease in annual rainfall (− 20 mm year−1) was recorded at Mount Kilimanjaro in Tanzania. Other significant decreases in annual rainfall ranging between − 4 and − 10 mm year−1 were observed in Southwest Tanzania, Central-South Kenya, Central Uganda, and Western Rwanda.",
+    "keywords": "Rainfall variability, Eastern Africa, Southern Africa, climate trends, CHIRPS"
+  },
+  {
+    "id": 22,
+    "title": "Phenotyping cowpea for seedling root architecture reveals root phenes important for breeding phosphorus efficient varieties",
+    "year": 2021,
+    "authors": "S.B. Mohammed, J.D. Burridge, M.F. Ishiyaku, O. Boukar, J.P. Lynch",
+    "doi": "10.1002/csc2.20635",
+    "abstract": "Cowpea (Vigna unguiculata L. Walp.) is a key climate-resilient legume for food security, especially in sub-Saharan Africa. Cowpea yields are limited by edaphic stresses including drought and low phosphorus (P) availability. Identifying genotypes with advantageous root phenotypes can facilitate breeding for improved yield in marginal environments. The study evaluated 50 elite genotypes from African and U.S. sources for seedling root architecture and root hair length and density. Significant genotypic variation was detected for all phenes, and high heritability was observed for architectural phenotypes including primary root length (77%), basal root number (72%), and taproot branching density (67%). Some seedling root phenotypes were significantly related to mature plant dry fodder weight (taproot hair density) and to grain yield (lateral root hair density) under low P. Root hairs are positively related to plant productivity under low P.",
+    "keywords": "Cowpea, root architecture, phosphorus efficiency, breeding, sub-Saharan Africa"
+  },
+  {
+    "id": 23,
+    "title": "Lessons from integrated seasonal forecast-crop modelling in Africa: A systematic review",
+    "year": 2022,
+    "authors": "Siyabusa Mkuhlani, Nkulumo Zinyengere, Naomi Kumi, Olivier Crespo",
+    "doi": "10.1515/biol-2022-0507",
+    "abstract": "Seasonal forecasts coupled with crop models can potentially enhance decision-making in smallholder farming in Africa. The study sought to inform future research through identifying and critiquing crop and climate models, and techniques for integrating seasonal forecast information and crop models. Peer-reviewed articles related to crop modelling and seasonal forecasting were sourced from Google Scholar, Web of Science, AGRIS, and JSTOR. Nineteen articles were selected from a search outcome of 530. About 74% of the studies used mechanistic models, which are favored for climate risk management research as they account for crop management practices. European Centre for Medium-Range Weather Forecasts and European Centre for Medium-Range Weather Forecasts, Hamburg, are the predominant global climate models (GCMs) used across Africa.",
+    "keywords": "Seasonal forecasting, crop modeling, Africa, climate risk, smallholder farming"
+  },
+  {
+    "id": 24,
+    "title": "Protein-rich legume and pseudo-cereal crop suitability under present and future European climates",
+    "year": 2020,
+    "authors": "Not specified in search results",
+    "doi": "10.1016/j.eja.2019.125974",
+    "abstract": "The study analysed 13 protein-rich crops, using the crop suitability model EcoCrop and climate projections for the 2050s, based on 30 Global Circulation Models, under the Representative Concentration Pathway 4.5. The results suggest that current protein-rich crop distributions reflect climatic suitability. In general, conditions in northern Europe were modelled to become more favourable for protein-rich crops, while in southern Europe modelled future climates limit the production of traditional protein-rich crops commonly grown there, including chickpea and lentil. Model results show an expanded area of high suitability for quinoa.",
+    "keywords": "Protein crops, climate suitability, Europe, legumes, pseudo-cereals"
+  }
+]
