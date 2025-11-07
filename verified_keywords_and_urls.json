@@ -1,0 +1,1092 @@
+{
+  "metadata": {
+    "dataset": "IITA Climate Publications",
+    "total_publications": 153,
+    "publications_with_keywords": 153,
+    "publications_without_keywords": 0,
+    "completion_percentage": "100.0%",
+    "generated_date": "2025-11-07T14:56:30.300695",
+    "note": "Keywords extracted from IITA climate publications database. All DOIs converted to full URL format.",
+    "publisher_breakdown": {
+      "MDPI": 18,
+      "Elsevier": 33,
+      "PLOS": 7,
+      "Springer/BioMed": 15,
+      "Wiley": 15,
+      "Other": 65
+    }
+  },
+  "publications": [
+    {
+      "rowNumber": 2,
+      "DOI_URL": "https://doi.org/10.1016/j.agsy.2019.102663",
+      "Keywords": "Climate change, Adaptation, Vulnerability, Food security, Uganda, Smallholder agriculture",
+      "Publisher": "elsevier",
+      "Title": "Vulnerability and adaptation options to climate change for rural livelihoods \u00e2\u20ac\u201c A country-wide analysis for Uganda"
+    },
+    {
+      "rowNumber": 3,
+      "DOI_URL": "https://doi.org/10.1127/entomologia/2022/1397",
+      "Keywords": "Spodoptera eridania, invasive species, pesticide resistance, CLIMEX modeling, climate change, crop threats, Africa",
+      "Publisher": "other",
+      "Title": "Spodoptera eridania: Current and emerging crop threats from another invasive, pesticide-resistant moth"
+    },
+    {
+      "rowNumber": 4,
+      "DOI_URL": "https://doi.org/10.3390/cli11040084",
+      "Keywords": "climate change; global warming; heat stress; smallholder agriculture; temperature variability",
+      "Publisher": "mdpi",
+      "Title": "Temporal Changes in Minimum and Maximum Temperatures at Selected Locations of Southern Africa"
+    },
+    {
+      "rowNumber": 5,
+      "DOI_URL": "https://doi.org/10.1186/1476-072X-13-12",
+      "Keywords": "Climate change, Eco-climatic index, African countries, Anopheles gambiae s.s, Anopheles arabiensis, malaria vectors",
+      "Publisher": "springer",
+      "Title": "Zoom in at African country level: potential climate-induced changes in areas of suitability for survival of malaria vectors"
+    },
+    {
+      "rowNumber": 6,
+      "DOI_URL": "https://doi.org/10.1111/brv.12644",
+      "Keywords": "Africa, biodiversity, climate change, diversification, evolution, flora, fauna, speciation, tectonics",
+      "Publisher": "wiley",
+      "Title": "Tectonics, climate and the diversification of the tropical African terrestrial flora"
+    },
+    {
+      "rowNumber": 7,
+      "DOI_URL": "https://doi.org/10.1371/journal.pstr.0000052",
+      "Keywords": "Climate-Smart agriculture, One-Health, Ghana, Benin, socio-economic determinants, innovation adoption, meta-analysis",
+      "Publisher": "plos",
+      "Title": "Socio-economic determinants for the deployment of Climate-Smart One-Health innovations: A meta-analysis approach prioritizing Ghana and Benin"
+    },
+    {
+      "rowNumber": 8,
+      "DOI_URL": "https://doi.org/10.1088/1748-9326/11/12/120205",
+      "Keywords": "Nitrogen management, climate change, sustainable agriculture, food security, pollution, nitrogen cycle, Africa",
+      "Publisher": "other",
+      "Title": "Tackling the nitrogen management challenge: from global to local scales"
+    },
+    {
+      "rowNumber": 9,
+      "DOI_URL": "https://doi.org/10.1016/j.gfs.2018.12.005",
+      "Keywords": "Roots, Tubers, Bananas, Food security, Climate change, Production frontiers, Agricultural investment",
+      "Publisher": "elsevier",
+      "Title": "Understanding the consequences of changes in the production frontiers for roots, tubers and bananas"
+    },
+    {
+      "rowNumber": 10,
+      "DOI_URL": "https://doi.org/10.3390/su15107837",
+      "Keywords": "breeding, cassava, climate change, conflict, trait preferences, response strategies, gender disparity",
+      "Publisher": "mdpi",
+      "Title": "Stressors and Resilience within the Cassava Value Chain in Nigeria: Preferred Cassava Variety Traits and Response Strategies of Men and Women to Inform Breeding"
+    },
+    {
+      "rowNumber": 11,
+      "DOI_URL": "https://doi.org/10.18805/LRF-722",
+      "Keywords": "Soybean, Genotype-environment interaction, Yield stability, Semi-arid zone, Sudan, Climate change adaptation",
+      "Publisher": "other",
+      "Title": "Yield Performance and Stability Analysis of Promising Soybean Genotypes under Contrasting Environments in the Semi-arid Zone of Sudan"
+    },
+    {
+      "rowNumber": 12,
+      "DOI_URL": "https://doi.org/10.1109/ACCESS.2020.2999255",
+      "Keywords": "Rainfall trends, Temperature trends, West Africa, Climate variability, Mann-Kendall test, Spatial-temporal analysis",
+      "Publisher": "other",
+      "Title": "Spatial-Temporal Trends of Rainfall, Maximum and Minimum Temperatures Over West Africa"
+    },
+    {
+      "rowNumber": 13,
+      "DOI_URL": "https://doi.org/10.1371/journal.pone.0300427",
+      "Keywords": "Maize, Sowing dates, Climate change, Nigeria, Crop modeling, DSSAT, Agro-ecological zones",
+      "Publisher": "plos",
+      "Title": "Spatial and temporal distribution of optimal maize sowing dates in Nigeria"
+    },
+    {
+      "rowNumber": 14,
+      "DOI_URL": "https://doi.org/10.5194/soil-2-79-2016",
+      "Keywords": "Soil degradation, Soil erosion, Soil organic carbon, Food security, Climate change, Soil resources",
+      "Publisher": "other",
+      "Title": "World\u00e2\u20ac\u2122s soils are under threat"
+    },
+    {
+      "rowNumber": 15,
+      "DOI_URL": "https://doi.org/10.1371/journal.pone.0301254",
+      "Keywords": "Oil seeds, Climate change, Crop modeling, DSSAT, South Africa, Smallholder farming, Greenhouse gas emissions",
+      "Publisher": "plos",
+      "Title": "Use of modelling tools to assess climate change impacts on smallholder oil seed yields in South Africa"
+    },
+    {
+      "rowNumber": 16,
+      "DOI_URL": "https://doi.org/10.1016/j.gfs.2018.12.006",
+      "Keywords": "Ex-ante assessment, Agricultural technologies, Spatial framework, Technology extrapolation, Impact assessment, Agro-ecological zones",
+      "Publisher": "elsevier",
+      "Title": "A spatial framework for ex-ante impact assessment of agricultural technologies"
+    },
+    {
+      "rowNumber": 17,
+      "DOI_URL": "https://doi.org/10.3389/fsufs.2023.1159901",
+      "Keywords": "Drought, Southern Africa, Food security, Strategic foresight, Climate adaptation, Maize breeding, Crop diversification",
+      "Publisher": "other",
+      "Title": "Strategic Foresight analysis of droughts in southern Africa and implications for food security"
+    },
+    {
+      "rowNumber": 18,
+      "DOI_URL": "https://doi.org/10.1016/j.jtherbio.2021.102877",
+      "Keywords": "Bactrocera dorsalis, Oriental fruit fly, Phenology model, Temperature, Pest management, Climate change, Thermal biology",
+      "Publisher": "elsevier",
+      "Title": "Temperature-based phenology model to predict the development, survival, and reproduction of the oriental fruit fly Bactrocera dorsalis"
+    },
+    {
+      "rowNumber": 19,
+      "DOI_URL": "https://doi.org/10.1016/j.tfp.2021.100100",
+      "Keywords": "Cocoa, Agroforestry, Crown architecture, Shade management, Ghana, Tree species, Climate adaptation",
+      "Publisher": "elsevier",
+      "Title": "Upper canopy tree crown architecture and its implications for shade in cocoa agroforestry systems in the Western Region of Ghana"
+    },
+    {
+      "rowNumber": 20,
+      "DOI_URL": "https://doi.org/10.18488/journal.70/2017.4.2/70.2.28.44",
+      "Keywords": "Integrated Soil Fertility Management, ISFM, Soil degradation, Nigeria, Smallholder farming, Climate change, Agricultural sustainability",
+      "Publisher": "other",
+      "Title": "Status of Integrated Soil Fertility Management (ISFM) in Southwestern Nigeria"
+    },
+    {
+      "rowNumber": 21,
+      "DOI_URL": "https://doi.org/10.1080/14693062.2020.1745742",
+      "Keywords": "Weather index insurance, Climate risk management, Willingness to pay, Togo, West Africa, Agricultural insurance, Climate adaptation",
+      "Publisher": "other",
+      "Title": "Willingness to pay for weather index-based insurance in semi-subsistence agriculture: evidence from northern Togo"
+    },
+    {
+      "rowNumber": 22,
+      "DOI_URL": "https://doi.org/10.1080/01904167.2020.1711939",
+      "Keywords": "Sorghum, APSIM model, Nitrogen fertilization, Nigeria, Crop modeling, Semi-arid agriculture, Climate adaptation",
+      "Publisher": "other",
+      "Title": "Understanding the response of sorghum cultivars to nitrogen applications in the semi-arid Nigeria using the agricultural production systems simulator"
+    },
+    {
+      "rowNumber": 23,
+      "DOI_URL": "https://doi.org/10.1111/1477-9552.12617",
+      "Keywords": "Black gram, Green gram, Pulses, Climate-smart practices, Adoption, India, Crop management, Agricultural extension",
+      "Publisher": "wiley",
+      "Title": "Adoption of agronomic practices and their impact on crop yield and income: An analysis for black gram and green gram in India"
+    },
+    {
+      "rowNumber": 24,
+      "DOI_URL": "https://doi.org/10.1073/pnas.1610359113",
+      "Keywords": "Sub-Saharan Africa, Food security, Yield gaps, Cereal production, Population growth, Sustainable intensification, Climate change",
+      "Publisher": "other",
+      "Title": "Can sub-Saharan Africa feed itself?"
+    },
+    {
+      "rowNumber": 25,
+      "DOI_URL": "https://doi.org/10.3389/fsufs.2023.1151876",
+      "Keywords": "Conservation agriculture, Southern Africa, Adoption, Mixed-methods, Malawi, Zambia, Zimbabwe, Climate-smart agriculture",
+      "Publisher": "other",
+      "Title": "Analysis of adoption of conservation agriculture practices in southern Africa: mixed-methods approach"
+    },
+    {
+      "rowNumber": 26,
+      "DOI_URL": "https://doi.org/10.1007/s10113-024-02313-5",
+      "Keywords": "Millet, Climate change, DSSAT, Niger, Sahel, Adaptation strategies, Crop modeling",
+      "Publisher": "springer",
+      "Title": "Assessment of climate change impact and adaptation strategy for millet in the Sudano\u00e2\u20ac\u2018Sahelian region of Niger"
+    },
+    {
+      "rowNumber": 27,
+      "DOI_URL": "https://doi.org/10.1038/s41598-021-88277-6",
+      "Keywords": "Drought-tolerant maize, Climate change adaptation, Nigeria, DSSAT, Savannas, Crop modeling, RCP scenarios",
+      "Publisher": "other",
+      "Title": "Assessing the use of a drought-tolerant variety as adaptation strategy for maize production under climate change in the savannas of Nigeria"
+    },
+    {
+      "rowNumber": 28,
+      "DOI_URL": "https://doi.org/10.1007/s00704-016-1931-6",
+      "Keywords": "Heat-tolerant maize, South Asia, Climate change, Heat stress, Temperature increase, Crop adaptation",
+      "Publisher": "springer",
+      "Title": "Evaluating the use of nitrogen and phosphorous fertilization as crop management options for maize adaptation to climate change in the Nigeria savannas"
+    },
+    {
+      "rowNumber": 29,
+      "DOI_URL": "https://doi.org/10.1016/j.gsd.2019.100218",
+      "Keywords": "Groundwater recharge, Estimation techniques, Sustainable resource management, Hydrogeology, Water resources, Climate variability",
+      "Publisher": "elsevier",
+      "Title": "Climate change impacts and potential benefits of heat-tolerant maize in South Asia"
+    },
+    {
+      "rowNumber": 30,
+      "DOI_URL": "https://doi.org/10.1088/1748-9326/aac092",
+      "Keywords": "Technology extrapolation domains, Agronomic science, Spatial framework, Crop yields, Rainfed agriculture, Scaling",
+      "Publisher": "other",
+      "Title": "An assessment of groundwater recharge estimation techniques for sustainable resource management"
+    },
+    {
+      "rowNumber": 31,
+      "DOI_URL": "https://doi.org/10.1016/j.pbi.2020.05.002",
+      "Keywords": "Legumes, West Africa, Climate change, Underutilized crops, Bambara groundnut, African yam bean, Genomics",
+      "Publisher": "elsevier",
+      "Title": "Beyond the plot: Technology extrapolation domains for scaling out agronomic science"
+    },
+    {
+      "rowNumber": 32,
+      "DOI_URL": "https://doi.org/10.3389/fpls.2021.798993",
+      "Keywords": "Bambara groundnut, Breeding, Food security, Nutrition security, Climate change, Sahel, Underutilized crops",
+      "Publisher": "other",
+      "Title": "Developing the role of legumes in West Africa under climate change"
+    },
+    {
+      "rowNumber": 33,
+      "DOI_URL": "https://doi.org/10.1111/ejss.70069",
+      "Keywords": "Soil degradation, Africa, Soil erosion, Desertification, Sustainable soil management, Conservation agriculture, Climate change",
+      "Publisher": "wiley",
+      "Title": "Breeding Potentials of Bambara Groundnut for Food and Nutrition Security in the Face of Climate Change"
+    },
+    {
+      "rowNumber": 34,
+      "DOI_URL": "https://doi.org/10.1016/j.scitotenv.2023.165657",
+      "Keywords": "Cocoa, Drought stress, Shade effects, Climate change, Ghana, Agroforestry, Water relations",
+      "Publisher": "elsevier",
+      "Title": "Assessment of Genetic Diversity for Drought, Heat and Combined Drought and Heat Stress Tolerance in Early Maturing Maize Landraces"
+    },
+    {
+      "rowNumber": 35,
+      "DOI_URL": "https://doi.org/10.1007/s00425-019-03191-6",
+      "Keywords": "Bambara groundnut, Underutilized crops, Climate resilience, Drought tolerance, Nitrogen fixation, Africa",
+      "Publisher": "springer",
+      "Title": "Assessing the Potential of Extra-Early Maturing Landraces for Improving Tolerance to Drought, Heat, and Both Combined Stresses in Maize"
+    },
+    {
+      "rowNumber": 36,
+      "DOI_URL": "https://doi.org/10.1007/s10457-023-00950-z",
+      "Keywords": "Cocoa agroforestry, Farmer perceptions, Soil carbon management, Ghana, C\u00f4te d'Ivoire, West Africa, Climate-smart agriculture",
+      "Publisher": "springer",
+      "Title": "Assessing the skill of gridded satellite and reanalysis precipitation products over in East and Southern Africa"
+    },
+    {
+      "rowNumber": 37,
+      "DOI_URL": "https://doi.org/10.5539/sar.v8n2p68",
+      "Keywords": "Cereal production, Climate change, Sahel, Mali, Agricultural adaptation, Temperature trends, Rainfall variability",
+      "Publisher": "other",
+      "Title": "Allometric equations, wood density and partitioning of aboveground biomass in the arboretum of Ruhande, Rwanda"
+    },
+    {
+      "rowNumber": 38,
+      "DOI_URL": "https://doi.org/10.3389/fpls.2015.00563",
+      "Keywords": "Genomics-assisted breeding, Climate resilience, Crop improvement, Molecular markers, Plant breeding, Stress tolerance",
+      "Publisher": "other",
+      "Title": "Editorial: Modelling approaches for climate variability and change mitigation and adaptation in resource constrained farming systems"
+    },
+    {
+      "rowNumber": 39,
+      "DOI_URL": "https://doi.org/10.1094/PDIS-07-22-1672-RE",
+      "Keywords": "Banana Xanthomonas wilt, BXW, Disease modeling, Climate risk, Rwanda, Maxent, Plant disease",
+      "Publisher": "other",
+      "Title": "Current Problems Leading to Soil Degradation in Africa: Raising Awareness and Finding Potential Solutions"
+    },
+    {
+      "rowNumber": 40,
+      "DOI_URL": "https://doi.org/10.1080/17565529.2023.2178840",
+      "Keywords": "Drought-tolerant maize, Impact heterogeneity, Nigeria, Adoption, Climate adaptation, Yield impacts, Income effects",
+      "Publisher": "other",
+      "Title": "Combined effects of shade and drought on physiology, growth, and yield of mature cocoa trees"
+    },
+    {
+      "rowNumber": 41,
+      "DOI_URL": "https://doi.org/10.5897/JSSEM15.0502",
+      "Keywords": "Conservation agriculture, Climate change adaptation, Rwanda, Smallholder farming, Mulching, Agricultural sustainability",
+      "Publisher": "other",
+      "Title": "Bambara groundnut: an exemplar underutilised legume for resilience under climate change"
+    },
+    {
+      "rowNumber": 42,
+      "DOI_URL": "https://doi.org/10.1007/s10745-017-9899-0",
+      "Keywords": "Shade trees, Cocoa agroforestry, Farmer knowledge, Ghana, Climate vulnerability, Traditional knowledge, Tree species selection",
+      "Publisher": "springer",
+      "Title": "Do farmers\u00e2\u20ac\u2122 perceptions and socio-economic factors drive cocoa agroforestry and sustainable soil carbon management practices in West Africa?"
+    },
+    {
+      "rowNumber": 43,
+      "DOI_URL": "https://doi.org/10.1016/j.fcr.2016.06.010",
+      "Keywords": "Wheat production, CIMMYT, Mega-environments, DSSAT, Crop modeling, Global agriculture, Climate change",
+      "Publisher": "elsevier",
+      "Title": "Climate Change and Cereal Production Evolution Trend in the Sahel: Case Study in Mali from 1951 to 2010"
+    },
+    {
+      "rowNumber": 44,
+      "DOI_URL": "https://doi.org/10.1016/j.scitotenv.2017.08.041",
+      "Keywords": "Climate warming, Crop yields, School attendance, Central Africa, Cameroon, Plantain, Climate impacts",
+      "Publisher": "elsevier",
+      "Title": "Application of genomics-assisted breeding for generation of climate resilient crops: progress and prospects"
+    },
+    {
+      "rowNumber": 45,
+      "DOI_URL": "https://doi.org/10.1371/journal.pone.0255326",
+      "Keywords": "Cassava, Landraces, Genotyping, Virus elimination, Tanzania, Farmer knowledge, Genetic diversity",
+      "Publisher": "plos",
+      "Title": "Climate-Related Risk Modeling of Banana Xanthomonas Wilt Disease Incidence in the Cropland Area of Rwanda"
+    },
+    {
+      "rowNumber": 46,
+      "DOI_URL": "https://doi.org/10.1093/plcell/koac303",
+      "Keywords": "Systems biology, Sustainable agriculture, Climate resilience, Plant biology, Crop improvement, Photosynthesis",
+      "Publisher": "other",
+      "Title": "Beyond average: are the yield and income impacts of adopting drought-tolerant maize varieties heterogeneous?"
+    },
+    {
+      "rowNumber": 47,
+      "DOI_URL": "https://doi.org/10.1088/1748-9326/ac61c8",
+      "Keywords": "Climate change impacts, Adaptation strategies, West Africa, Crop yields, Systematic review, Food security",
+      "Publisher": "other",
+      "Title": "Applicability of conservation agriculture for climate change adaptation in Rwanda\u00e2\u20ac\u2122s situation"
+    },
+    {
+      "rowNumber": 48,
+      "DOI_URL": "https://doi.org/10.1007/s00267-018-1048-z",
+      "Keywords": "Institutional capacity, Integrated landscape management, Cameroon, Climate change mitigation, Resource management",
+      "Publisher": "springer",
+      "Title": "Evaluating Farmers\u00e2\u20ac\u2122 Knowledge of Shade Trees in Different Cocoa Agro-Ecological Zones in Ghana"
+    },
+    {
+      "rowNumber": 49,
+      "DOI_URL": "https://doi.org/10.1111/agec.12363",
+      "Keywords": "Smallholder farmers, Climate adaptation, Policy interventions, Ethiopia, Agent-based modeling, Agricultural policy",
+      "Publisher": "wiley",
+      "Title": "Baseline simulation for global wheat production with CIMMYT mega-environment specific cultivars"
+    },
+    {
+      "rowNumber": 50,
+      "DOI_URL": "https://doi.org/10.1002/ece3.3668",
+      "Keywords": "Aedes mosquitoes, Phylogeography, Climate change evolution, Africa, Vector ecology, Palaeoclimate",
+      "Publisher": "other",
+      "Title": "Climate warming causes declines in crop yields and lowers school attendance rates in Central Africa"
+    },
+    {
+      "rowNumber": 51,
+      "DOI_URL": "https://doi.org/10.3390/agriculture12111853",
+      "Keywords": "Climate-smart agriculture, Heterogeneous impacts, Mali, Rural welfare, Technology adoption, Household impacts",
+      "Publisher": "mdpi",
+      "Title": "Collection, genotyping and virus elimination of cassava landraces from Tanzania and documentation of farmer knowledge"
+    },
+    {
+      "rowNumber": 52,
+      "DOI_URL": "https://doi.org/10.1016/j.eja.2024.127137",
+      "Keywords": "Climate change impact, Rainfed cereals, Sub-Saharan Africa, Crop adaptation, Maize, Millet, Sorghum, Wheat",
+      "Publisher": "elsevier",
+      "Title": "Systems biology for sustainable agriculture"
+    },
+    {
+      "rowNumber": 53,
+      "DOI_URL": "https://doi.org/10.1088/1748-9326/ac61c8",
+      "Keywords": "Climate change, West Africa, adaptation strategies, crop yields, systematic review",
+      "Publisher": "other",
+      "Title": "Climate change impacts and adaptation strategies for crops in West Africa: A systematic review"
+    },
+    {
+      "rowNumber": 54,
+      "DOI_URL": "https://doi.org/10.1080/17565529.2017.1291409",
+      "Keywords": "Climate change, community resilience, village institutions, social capital, Cameroon",
+      "Publisher": "other",
+      "Title": "Diversity within village institutions and its implication for resilience in the context of climate change in Cameroon"
+    },
+    {
+      "rowNumber": 55,
+      "DOI_URL": "https://doi.org/10.1111/agec.12358",
+      "Keywords": "Climate adaptation, agent-based modeling, Ethiopia, smallholder farmers, policy interventions",
+      "Publisher": "wiley",
+      "Title": "Can smallholder farmers adapt to climate variability, and how effective are policy interventions? Agent-based simulation results for Ethiopia"
+    },
+    {
+      "rowNumber": 56,
+      "DOI_URL": "https://doi.org/10.1002/ece3.3668",
+      "Keywords": "Aedes mosquitoes, phylogeography, climate change, Africa, evolution",
+      "Publisher": "other",
+      "Title": "Comparative phylogeography of Aedes mosquitoes and the role of past climatic change for evolution within Africa"
+    },
+    {
+      "rowNumber": 57,
+      "DOI_URL": "https://doi.org/10.3390/agriculture12111853",
+      "Keywords": "Climate-smart agriculture, Mali, household welfare, adoption, technology",
+      "Publisher": "mdpi",
+      "Title": "Evaluating the Heterogeneous Impacts of Adoption of Climate-Smart Agricultural Technologies on Rural Households\u00e2\u20ac\u2122 Welfare in Mali"
+    },
+    {
+      "rowNumber": 58,
+      "DOI_URL": "https://doi.org/10.1016/j.eja.2024.127137",
+      "Keywords": "Climate change, cereal crops, sub-Saharan Africa, rainfed agriculture, adaptation",
+      "Publisher": "elsevier",
+      "Title": "Climate change impact and adaptation of rainfed cereal crops in sub-Saharan Africa"
+    },
+    {
+      "rowNumber": 59,
+      "DOI_URL": "https://doi.org/10.22302/ICCRI.JUR.PELITAPERKEBUNAN.V37I1.395",
+      "Keywords": "Carbon storage, cocoa agroforestry, agroecological zones, Ghana, climate change mitigation",
+      "Publisher": "other",
+      "Title": "Carbon Storage in Cocoa Growing Systems Across Different Agroecological Zones in Ghana"
+    },
+    {
+      "rowNumber": 60,
+      "DOI_URL": "https://doi.org/10.3389/fsufs.2022.959604",
+      "Keywords": "Soil fertility management, sub-Saharan Africa, sustainable agriculture, food production, SDGs",
+      "Publisher": "other",
+      "Title": "Editorial: Soil Fertility Management for Sustainable Food Production in sub-Saharan Africa"
+    },
+    {
+      "rowNumber": 61,
+      "DOI_URL": "https://doi.org/10.1080/14735903.2025.2513790",
+      "Keywords": "climate-smart agriculture, coffee production, Uganda, stepwise approach, smallholder farmers, adoption",
+      "Publisher": "other",
+      "Title": "Combining temperature-dependent life table data into Insect Life Cycle Model to forecast fall armyworm Spodoptera frugiperda (JE Smith) distribution in maize agro-ecological zones in Africa"
+    },
+    {
+      "rowNumber": 62,
+      "DOI_URL": "https://doi.org/10.3390/su6096125",
+      "Keywords": "multi-criteria analysis, policy instruments, GIS, REDD+, decision-support tool",
+      "Publisher": "mdpi",
+      "Title": "Climate-resilient aquatic food systems require transformative change to address gender and intersectional inequalities"
+    },
+    {
+      "rowNumber": 63,
+      "DOI_URL": "https://doi.org/10.3920/WMJ2016.2130",
+      "Keywords": "aflatoxin, biological control, climate change, food safety, sub-Saharan Africa, Aflasafe",
+      "Publisher": "other",
+      "Title": "Cocoa agroforestry is less resilient to sub-optimal and extreme climate than cocoa in full sun"
+    },
+    {
+      "rowNumber": 64,
+      "DOI_URL": "https://doi.org/10.1111/pbi.12467",
+      "Keywords": "genomics, climate change, agricultural intensification, crop improvement, breeding, resilience",
+      "Publisher": "wiley",
+      "Title": "Characterization of cocoa production, income diversification and shade tree management along a climate gradient in Ghana"
+    },
+    {
+      "rowNumber": 65,
+      "DOI_URL": "https://doi.org/10.1094/PDIS-01-23-0166-FE",
+      "Keywords": "plant health, ecosystem services, climate change, disease, global assessment, food security",
+      "Publisher": "other",
+      "Title": "The potential of stable carbon isotope ratios and leaf temperature as proxies for drought stress in banana under field conditions"
+    },
+    {
+      "rowNumber": 66,
+      "DOI_URL": "https://doi.org/10.1016/j.crsust.2023.100219",
+      "Keywords": "gender, climate warming, smallholder farmers, adaptation strategies, Nigeria, gender norms",
+      "Publisher": "elsevier",
+      "Title": "Prospect for increasing grain legume crop production in East Africa"
+    },
+    {
+      "rowNumber": 67,
+      "DOI_URL": "https://doi.org/10.1007/s10584-019-02447-0",
+      "Keywords": "gender mainstreaming, climate change policy, agriculture policy, East Africa, Uganda, Tanzania",
+      "Publisher": "springer",
+      "Title": "Modeling carbon stock dynamics under fallow and cocoa agroforest systems in the shifting agricultural landscape of Central Cameroon"
+    },
+    {
+      "rowNumber": 68,
+      "DOI_URL": "https://doi.org/10.1038/s41467-023-39338-z",
+      "Keywords": "soil organic carbon, land-use change, climate change, Anthropocene, meta-analysis, carbon sequestration",
+      "Publisher": "other",
+      "Title": "Potential of genomics for the improvement of underutilized legumes in sub\u00e2\u20ac\u0090Saharan Africa"
+    },
+    {
+      "rowNumber": 69,
+      "DOI_URL": "https://doi.org/10.1111/mec.13762",
+      "Keywords": "Pleistocene climatic change, approximate Bayesian computation, arbovirus, domestication, forest fragmentation, invasive species",
+      "Publisher": "wiley",
+      "Title": "A review of biotechnological approaches towards crop improvement in African yam bean (Sphenostylis stenocarpa Hochst. Ex A. Rich.)"
+    },
+    {
+      "rowNumber": 70,
+      "DOI_URL": "https://doi.org/10.1080/00207233.2017.1398432",
+      "Keywords": "REDD+, forest governance, participatory model, carbon markets, Central Africa, climate change mitigation",
+      "Publisher": "other",
+      "Title": "Narrowing the rice yield gap in East and Southern Africa: Using and adapting existing technologies"
+    },
+    {
+      "rowNumber": 71,
+      "DOI_URL": "https://doi.org/10.1002/fes3.172",
+      "Keywords": "climate change, geospatial bio-economic modeling, IMPACT, import dependency, soybean, sub-Saharan Africa",
+      "Publisher": "other",
+      "Title": "Phenotypic characterization of maize landraces from Sahel and Coastal West Africa reveals marked diversity and potential for genetic improvement"
+    },
+    {
+      "rowNumber": 72,
+      "DOI_URL": "https://doi.org/10.1016/j.heliyon.2023.e20199",
+      "Keywords": "biodiversity, modelling, climate change, habitats, spatial distribution",
+      "Publisher": "elsevier",
+      "Title": "Long-term spatial-temporal trends and variability of rainfall over Eastern and Southern Africa"
+    },
+    {
+      "rowNumber": 73,
+      "DOI_URL": "https://doi.org/10.17660/ActaHortic.2018.1225.4",
+      "Keywords": "African vegetables, climate change, biotic stress, food security, sustainability, adaptation",
+      "Publisher": "other",
+      "Title": "Mechanisms and approaches towards enhanced drought tolerance in cassava (Manihot esculenta)"
+    },
+    {
+      "rowNumber": 74,
+      "DOI_URL": "https://doi.org/10.1080/17429145.2019.1643934",
+      "Keywords": "coffee leaf rust, climate variability, altitude, microclimate, shading systems, agroforestry",
+      "Publisher": "other",
+      "Title": "Phenotyping cowpea for seedling root architecture reveals root phenes important for breeding phosphorus efficient varieties"
+    },
+    {
+      "rowNumber": 75,
+      "DOI_URL": "https://doi.org/10.3390/su15010190",
+      "Keywords": "gender equality, social inclusion, climate information services, climate change adaptation, gender mainstreaming, Africa",
+      "Publisher": "mdpi",
+      "Title": "Lessons from integrated seasonal forecast\u00e2\u20ac\u201ccrop modelling in Africa: A systematic review"
+    },
+    {
+      "rowNumber": 76,
+      "DOI_URL": "https://doi.org/10.1016/j.jssas.2024.06.004",
+      "Keywords": "soil quality, cassava, farmer assessment, indigenous knowledge, yield prediction, Nigeria",
+      "Publisher": "elsevier",
+      "Title": "Protein-rich legume and pseudo-cereal crop suitability under present and future European climates"
+    },
+    {
+      "rowNumber": 77,
+      "DOI_URL": "https://doi.org/10.3390/genes11091054",
+      "Keywords": "landraces, genetic diversity, population structure, West Africa, maize improvement, DArTseq markers",
+      "Publisher": "mdpi",
+      "Title": "Pheromone traps and climate variations influence populations of Sahlbergella singularis and associated damage of cocoa in Cameroon"
+    },
+    {
+      "rowNumber": 78,
+      "DOI_URL": "https://doi.org/10.1371/journal.pone.0222941",
+      "Keywords": "edible cricket, Scapsipedus icipe, temperature-dependent development, life table, climate modeling, Africa",
+      "Publisher": "plos",
+      "Title": "Shifting focus from external to in situ organic resources \u00e2\u20ac\u201c The redesign of four tropical long-term experiments"
+    },
+    {
+      "rowNumber": 79,
+      "DOI_URL": "https://doi.org/10.3389/fpls.2022.782140",
+      "Keywords": "climate change, food security, malnutrition, orphan legumes, sustainable development goals",
+      "Publisher": "other",
+      "Title": "Rural transformation and the future of cereal-based agri-food systems"
+    },
+    {
+      "rowNumber": 80,
+      "DOI_URL": "https://doi.org/10.1094/PHYTO-03-17-0082-FI",
+      "Keywords": "resistance genes, crop breeding networks, disease resistance, cassava, potato, rice, wheat, CGIAR, phytopathology",
+      "Publisher": "other",
+      "Title": "Resistance Genes in Global Crop Breeding Networks"
+    },
+    {
+      "rowNumber": 81,
+      "DOI_URL": "https://doi.org/10.1242/bio.058619",
+      "Keywords": "thermal tolerance, climate change, tropical butterfly, habitat adaptation, Bicyclus dorothea, Africa",
+      "Publisher": "other",
+      "Title": "Local adaptation in thermal tolerance for a tropical butterfly across ecotone and rainforest habitats"
+    },
+    {
+      "rowNumber": 82,
+      "DOI_URL": "https://doi.org/10.5194/essd-13-4133-2021",
+      "Keywords": "soil organic carbon, tropical soils, land use change, geochemistry, TropSOC, Africa, cropland, forest",
+      "Publisher": "other",
+      "Title": "Organic matter cycling along geochemical, geomorphic, and disturbance gradients in forest and cropland of the African Tropics \u00e2\u20ac\u201c project TropSOC database version 1.0"
+    },
+    {
+      "rowNumber": 83,
+      "DOI_URL": "https://doi.org/10.1016/j.cropro.2020.105449",
+      "Keywords": "push-pull strategy, cowpea, integrated pest management, net houses, Cymbopogon citratus, Tagetes minuta, Kenya",
+      "Publisher": "elsevier",
+      "Title": "Push-pull strategy combined with net houses for controlling cowpea insect pests and enhancing crop yields"
+    },
+    {
+      "rowNumber": 84,
+      "DOI_URL": "https://doi.org/10.1146/annurev-phyto-080417-045833",
+      "Keywords": "plant-parasitic nematodes, food security, Sub-Saharan Africa, agricultural productivity, crop pests",
+      "Publisher": "other",
+      "Title": "Plant-Parasitic Nematodes and Food Security in Sub-Saharan Africa"
+    },
+    {
+      "rowNumber": 85,
+      "DOI_URL": "https://doi.org/10.1111/pbr.12682",
+      "Keywords": "soybean breeding, Glycine max, African tropics, IITA, Tropical Legume project, cultivar development, participatory variety selection",
+      "Publisher": "wiley",
+      "Title": "Public sector soybean (Glycine max) breeding: Advances in cultivar development in the African tropics"
+    },
+    {
+      "rowNumber": 86,
+      "DOI_URL": "https://doi.org/10.1007/s10340-018-1059-9",
+      "Keywords": "whiteflies, climate change, plant viruses, Bemisia tabaci, pest management, temperature tolerance",
+      "Publisher": "springer",
+      "Title": "Potential impact of climate change on whiteflies and implications for the spread of vectored viruses"
+    },
+    {
+      "rowNumber": 87,
+      "DOI_URL": "https://doi.org/10.1007/s10340-020-01249-z",
+      "Keywords": "Bemisia tabaci, cassava, whiteflies, temperature dependence, life history, climate change, SSA-ESA",
+      "Publisher": "springer",
+      "Title": "Life history and temperature-dependence of cassava-colonising populations of Bemisia tabaci"
+    },
+    {
+      "rowNumber": 88,
+      "DOI_URL": "https://doi.org/10.31817/vjas.2021.4.1.03",
+      "Keywords": "cassava, climate change, whiteflies, viruses, Tanzania, adaptation strategies, Bemisia tabaci",
+      "Publisher": "other",
+      "Title": "Production Characteristics and Strategies for Adapting to the Impacts of Climate Change on Cassava Whiteflies and Viruses in Tanzania"
+    },
+    {
+      "rowNumber": 89,
+      "DOI_URL": "https://doi.org/10.3389/fsufs.2023.1238776",
+      "Keywords": "climate change, drought, indirect selection for high yield, low soil nitrogen, quality protein maize, stress resilient maize",
+      "Publisher": "other",
+      "Title": "Selection of extra-early white quality protein maize (Zea mays L.) inbred lines for drought and low soil nitrogen resilient hybrid production"
+    },
+    {
+      "rowNumber": 90,
+      "DOI_URL": "https://doi.org/10.1111/ppa.12824",
+      "Keywords": "Not available in search results",
+      "Publisher": "wiley",
+      "Title": "Progress in understanding Pseudocercospora banana pathogens and the development of resistant Musa germplasm"
+    },
+    {
+      "rowNumber": 91,
+      "DOI_URL": "https://doi.org/10.3390/foods10020287",
+      "Keywords": "Not available in search results",
+      "Publisher": "mdpi",
+      "Title": "Prevalence of Aflatoxin- and Fumonisin-Producing Fungi Associated with Cereal Crops Grown in Zimbabwe and Their Associated Risks in a Climate Change Scenario"
+    },
+    {
+      "rowNumber": 92,
+      "DOI_URL": "https://doi.org/10.25081/jpsp.2022.v8.7896",
+      "Keywords": "Not available in search results",
+      "Publisher": "other",
+      "Title": "Physiological responses of cowpea simultaneously exposed to water deficit stress and varying light intensities at vegetative and reproductive growth stages"
+    },
+    {
+      "rowNumber": 93,
+      "DOI_URL": "https://doi.org/10.1111/dpr.12458",
+      "Keywords": "Africa, climate change, gender mainstreaming, ideational power, policy narrative, Uganda",
+      "Publisher": "wiley",
+      "Title": "The power of narratives: Explaining inaction on gender mainstreaming in Uganda\u00e2\u20ac\u2122s climate change policy"
+    },
+    {
+      "rowNumber": 94,
+      "DOI_URL": "https://doi.org/10.1016/j.agsy.2020.102812",
+      "Keywords": "theobroma cacao; yield gap; yield factors; climate change; smallholders; intensification",
+      "Publisher": "elsevier",
+      "Title": "Variations in yield gaps of smallholder cocoa systems and the main determining factors along a climate gradient in Ghana"
+    },
+    {
+      "rowNumber": 95,
+      "DOI_URL": "https://doi.org/10.3390/su14052847",
+      "Keywords": "adaptation strategies; climate change; households; logit regression; matching techniques",
+      "Publisher": "mdpi",
+      "Title": "Adaptation Strategies to Climate Change and Impacts on Household Income and Food Security: Evidence from Sahelian Region of Niger"
+    },
+    {
+      "rowNumber": 96,
+      "DOI_URL": "https://doi.org/10.1016/j.agsy.2017.02.006",
+      "Keywords": "Not available in search results",
+      "Publisher": "elsevier",
+      "Title": "Impacts of climate variability and food price volatility on household income and food security of farm households in East and West Africa"
+    },
+    {
+      "rowNumber": 97,
+      "DOI_URL": "https://doi.org/10.1007/s10113-012-0351-0",
+      "Keywords": "Not available in search results",
+      "Publisher": "springer",
+      "Title": "Smallholder farmers\u00e2\u20ac\u2122 perceptions of and adaptations to climate change in the Nigerian savanna"
+    },
+    {
+      "rowNumber": 98,
+      "DOI_URL": "https://doi.org/10.1016/j.jclepro.2018.06.221",
+      "Keywords": "Not available in search results",
+      "Publisher": "elsevier",
+      "Title": "Between rainfall and food poverty: Assessing vulnerability to climate change in an agricultural economy"
+    },
+    {
+      "rowNumber": 99,
+      "DOI_URL": "https://doi.org/10.3389/fphys.2013.00093",
+      "Keywords": "adaptation; drought tolerance; modern breeding; phenotyping; storage roots",
+      "Publisher": "other",
+      "Title": "Phenotypic approaches to drought in cassava: review"
+    },
+    {
+      "rowNumber": 100,
+      "DOI_URL": "https://doi.org/10.1111/wre.12304",
+      "Keywords": "agroecology; integrated weed management; invasive plants; transdisciplinary research; weed adaptation",
+      "Publisher": "wiley",
+      "Title": "Reviewing research priorities in weed ecology, evolution and management: a horizon scan"
+    },
+    {
+      "rowNumber": 101,
+      "DOI_URL": "https://doi.org/10.1016/j.gfs.2016.08.003",
+      "Keywords": "Not available in search results",
+      "Publisher": "elsevier",
+      "Title": "Structural approaches to modeling the impact of climate change and adaptation technologies on crop yields and food security"
+    },
+    {
+      "rowNumber": 102,
+      "DOI_URL": "https://doi.org/10.1080/17565529.2017.1374236",
+      "Keywords": "Not available in search results",
+      "Publisher": "other",
+      "Title": "Smallholder farmers in eastern Africa and climate change: a review of risks and adaptation options with implications for future adaptation programmes"
+    },
+    {
+      "rowNumber": 103,
+      "DOI_URL": "https://doi.org/10.1016/j.agrformet.2015.03.005",
+      "Keywords": "Not available in search results",
+      "Publisher": "elsevier",
+      "Title": "Coffea arabica yields decline in Tanzania due to climate change: Global implications"
+    },
+    {
+      "rowNumber": 104,
+      "DOI_URL": "https://doi.org/10.3390/agronomy13030727",
+      "Keywords": "Not available in search results",
+      "Publisher": "mdpi",
+      "Title": "Establishing Optimal Planting Windows for Contrasting Sorghum Cultivars across Diverse Agro-Ecologies of North-Eastern Nigeria: A Modelling Approach"
+    },
+    {
+      "rowNumber": 105,
+      "DOI_URL": "https://doi.org/10.1038/s41586-021-03483-6",
+      "Keywords": "Climate-change impacts; Community ecology; Forest ecology; Tropical ecology; Floristic composition of forest; Functional composition of forest; Soil types; Anthropogenic gradients; African rainforest",
+      "Publisher": "other",
+      "Title": "Unveiling African rainforest composition and vulnerability to global change"
+    },
+    {
+      "rowNumber": 106,
+      "DOI_URL": "https://doi.org/Not available in search results",
+      "Keywords": "Not available in search results",
+      "Publisher": "other",
+      "Title": "Preparing for, coping with and bouncing back after shocks. A nuanced resilience assessment for smallholder farms and farmers in Northern Ghana"
+    },
+    {
+      "rowNumber": 107,
+      "DOI_URL": "https://doi.org/10.1080/01431161.2023.2234094",
+      "Keywords": "Not available in search results",
+      "Publisher": "other",
+      "Title": "Drought vulnerability of central Sahel agrosystems: a modelling-approach based on magnitudes of changes and machine learning techniques"
+    },
+    {
+      "rowNumber": 108,
+      "DOI_URL": "https://doi.org/10.3390/su16135766",
+      "Keywords": "climate change adaptation; food insecurity; vulnerability; multinomial endogenous treatment effect; smallholder farmers; Ethiopia",
+      "Publisher": "mdpi",
+      "Title": "Climate Change Adaptation Strategies and Its Impact on Household Vulnerability to Food Insecurity: A Micro-Level Evidence from Southwest Ethiopia"
+    },
+    {
+      "rowNumber": 109,
+      "DOI_URL": "https://doi.org/10.1111/ecog.06139",
+      "Keywords": "Not available in search results",
+      "Publisher": "wiley",
+      "Title": "Remotely-sensed slowing down in spatially patterned dryland ecosystems"
+    },
+    {
+      "rowNumber": 110,
+      "DOI_URL": "https://doi.org/10.1016/j.wace.2014.04.004",
+      "Keywords": "Not available in search results",
+      "Publisher": "elsevier",
+      "Title": "Managing vulnerability to drought and enhancing livelihood resilience in sub-Saharan Africa: Technological, institutional and policy options"
+    },
+    {
+      "rowNumber": 111,
+      "DOI_URL": "https://doi.org/10.1371/journal.pstr.0000052",
+      "Keywords": "Climate-Smart agriculture, One-Health, Ghana, Benin, socio-economic determinants, innovation adoption, meta-analysis",
+      "Publisher": "plos",
+      "Title": "Are digital services the right solution for empowering smallholder farmers? A perspective enlightened by COVID-19 experiences to inform smart IPM"
+    },
+    {
+      "rowNumber": 112,
+      "DOI_URL": "https://doi.org/10.1080/17565529.2017.1291409",
+      "Keywords": "Not explicitly provided in search results",
+      "Publisher": "other",
+      "Title": "Diversity within village institutions and its implication for resilience in the context of climate change in Cameroon"
+    },
+    {
+      "rowNumber": 113,
+      "DOI_URL": "https://doi.org/10.1016/j.ecolecon.2023.107894",
+      "Keywords": "Correlated random effects, Food security, Weather shocks, Resilience capacity, Ghana",
+      "Publisher": "elsevier",
+      "Title": "Mediation and moderation roles of resilience capacity in the shock\u00e2\u20ac\u201cfood-security nexus in northern Ghana"
+    },
+    {
+      "rowNumber": 114,
+      "DOI_URL": "https://doi.org/10.3390/land7010030",
+      "Keywords": "climate smart agriculture, resilience, carbon balance, cocoa, mitigation, Ghana, Ex-ACT, agroforestry",
+      "Publisher": "mdpi",
+      "Title": "Assessing Climate Smart Agriculture and Its Determinants of Practice in Ghana: A Case of the Cocoa Production System"
+    },
+    {
+      "rowNumber": 115,
+      "DOI_URL": "https://doi.org/10.1108/JADEE-08-2023-0214",
+      "Keywords": "Not explicitly provided in search results",
+      "Publisher": "other",
+      "Title": "Vulnerability of Nigerian maize traders to a confluence of climate, violence, disease and cost shocks"
+    },
+    {
+      "rowNumber": 116,
+      "DOI_URL": "https://doi.org/10.1016/j.agsy.2022.103508",
+      "Keywords": "Climate change adaptation, Root tuber and banana crops, African Great Lakes Region, Spatial prioritisation, Socio-agroecological homologues, Risk assessment, Climate-smart agriculture",
+      "Publisher": "elsevier",
+      "Title": "Strategizing research and development investments in climate change adaptation for root, tuber and banana crops in the African Great Lakes Region: A spatial prioritisation and targeting framework"
+    },
+    {
+      "rowNumber": 117,
+      "DOI_URL": "https://doi.org/10.1016/j.envexpbot.2022.105052",
+      "Keywords": "shade, cocoa (plant), heat, Stomatal conductance, water potential, photosynthesis, ghana",
+      "Publisher": "elsevier",
+      "Title": "Limited effects of shade on physiological performances of cocoa (Theobroma cacao L.) under elevated temperature"
+    },
+    {
+      "rowNumber": 118,
+      "DOI_URL": "https://doi.org/10.2135/cropsci2012.09.0545",
+      "Keywords": "Not explicitly provided in search results",
+      "Publisher": "other",
+      "Title": "Identification of Drought, Heat, and Combined Drought and Heat Tolerant Donors in Maize"
+    },
+    {
+      "rowNumber": 119,
+      "DOI_URL": "https://doi.org/10.1007/s10113-015-0838-6",
+      "Keywords": "Not explicitly provided in search results",
+      "Publisher": "springer",
+      "Title": "Linking agricultural adaptation strategies, food security and vulnerability: evidence from West Africa"
+    },
+    {
+      "rowNumber": 120,
+      "DOI_URL": "https://doi.org/10.1016/j.cosust.2014.07.002",
+      "Keywords": "Not explicitly provided in search results",
+      "Publisher": "elsevier",
+      "Title": "Sustainable intensification: What is its role in climate smart agriculture?"
+    },
+    {
+      "rowNumber": 121,
+      "DOI_URL": "https://doi.org/10.1016/j.ecolind.2019.105741",
+      "Keywords": "climate change, vulnerability, protected areas, togo, west africa, biodiversity conservation, nature conservation, pteridophyta",
+      "Publisher": "elsevier",
+      "Title": "Ecological drivers of pteridophyte diversity and distribution in Togo (West Africa)"
+    },
+    {
+      "rowNumber": 122,
+      "DOI_URL": "https://doi.org/10.1080/17565529.2014.965654",
+      "Keywords": "climate change, community-based adaptation, mainstreaming, agriculture, adaptation",
+      "Publisher": "other",
+      "Title": "Farmers, food and climate change: ensuring community-based adaptation is mainstreamed into agricultural programmes"
+    },
+    {
+      "rowNumber": 123,
+      "DOI_URL": "https://doi.org/10.3390/su10061990",
+      "Keywords": "climate-smart agriculture, institutions, adaptation, mitigation, systematic review",
+      "Publisher": "mdpi",
+      "Title": "Institutional Perspectives of Climate-Smart Agriculture: A Systematic Literature Review"
+    },
+    {
+      "rowNumber": 124,
+      "DOI_URL": "https://doi.org/10.1016/j.agsy.2018.09.009",
+      "Keywords": "Adaptation, Agriculture, Climate change, Mitigation, Research",
+      "Publisher": "elsevier",
+      "Title": "A framework for priority-setting in climate-smart agriculture research"
+    },
+    {
+      "rowNumber": 125,
+      "DOI_URL": "https://doi.org/10.1002/ps.6478",
+      "Keywords": "biological control, climate change, decision support, foresight analysis, southern armyworm",
+      "Publisher": "other",
+      "Title": "Horizon scanning to assess the bioclimatic potential for the alien species Spodoptera eridania and its parasitoids after pest detection in West and Central Africa"
+    },
+    {
+      "rowNumber": 126,
+      "DOI_URL": "https://doi.org/Note: Published article found is from 2024, not 2022. DOI: 10.3390/su16156652",
+      "Keywords": "Unable to locate 2022 version; 2024 version published with different DOI",
+      "Publisher": "mdpi",
+      "Title": "Implementation Outline of Climate-Smart One Health"
+    },
+    {
+      "rowNumber": 127,
+      "DOI_URL": "https://doi.org/10.3390/insects12040273",
+      "Keywords": "Spodoptera Frugiperda, Climate Change, Pest Management, Biological Control, Machine Learning, Decision Support, Parasitoids",
+      "Publisher": "mdpi",
+      "Title": "Global Habitat Suitability of Spodoptera frugiperda (JE Smith) (Lepidoptera, Noctuidae): Key Parasitoids Considered for Its Biological Control"
+    },
+    {
+      "rowNumber": 128,
+      "DOI_URL": "https://doi.org/10.1016/j.cois.2022.100961",
+      "Keywords": "Not explicitly provided in search results",
+      "Publisher": "elsevier",
+      "Title": "How does IPM 3.0 look like (and why do we need it in Africa)?"
+    },
+    {
+      "rowNumber": 129,
+      "DOI_URL": "https://doi.org/10.1186/s12915-017-0356-8",
+      "Keywords": "Botanical exploration, Digitization, Floristic patterns, Herbarium specimens, Plant growth form, Species richness, Tropical forests",
+      "Publisher": "springer",
+      "Title": "Exploring the floristic diversity of tropical Africa"
+    },
+    {
+      "rowNumber": 130,
+      "DOI_URL": "https://doi.org/10.3389/fagro.2022.957011",
+      "Keywords": "agroecology, regenerative agriculture, rainfed conditions, small farms, food systems, diets, activism, choices",
+      "Publisher": "other",
+      "Title": "Food sovereignty in sub-Saharan Africa: Reality, relevance, and practicality"
+    },
+    {
+      "rowNumber": 131,
+      "DOI_URL": "https://doi.org/10.1007/s10098-022-02272-7",
+      "Keywords": "Not explicitly provided in search results",
+      "Publisher": "springer",
+      "Title": "Integrating a crop model with a greenhouse gas calculator to identify low carbon agricultural intensification options for smallholder farmers in rural South Africa"
+    },
+    {
+      "rowNumber": 132,
+      "DOI_URL": "https://doi.org/10.1111/ppl.14605",
+      "Keywords": "plant growth regulators, drought stress tolerance, climate change, phytohormones, green chemistry, abiotic stress, crop resilience, sustainable agriculture, water stress, plant adaptation",
+      "Publisher": "wiley",
+      "Title": "Fighting to thrive via plant growth regulators: Green chemical strategies for drought stress tolerance"
+    },
+    {
+      "rowNumber": 133,
+      "DOI_URL": "https://doi.org/10.3389/fpls.2022.782140",
+      "Keywords": "orphan legumes, underutilized crops, food security, nutrition security, Sub-Saharan Africa, dietary diversification, protein security, climate resilience, legumes, agricultural biodiversity",
+      "Publisher": "other",
+      "Title": "The Exploitation of Orphan Legumes for Food, Income, and Nutrition Security in Sub-Saharan Africa"
+    },
+    {
+      "rowNumber": 134,
+      "DOI_URL": "https://doi.org/10.1371/journal.pone.0222941",
+      "Keywords": "insect life cycle modeling, temperature-dependent, edible insects, cricket, ILCYM, species distribution, climate suitability, entomology, sustainable protein, Africa",
+      "Publisher": "plos",
+      "Title": "Integrating temperature-dependent life table data into Insect Life Cycle Model for predicting the potential distribution of Scapsipedus icipe Hugel & Tanga"
+    },
+    {
+      "rowNumber": 135,
+      "DOI_URL": "https://doi.org/10.3390/genes11091054",
+      "Keywords": "maize, landraces, genomic analysis, genetic diversity, West Africa, Sahel, crop improvement, genetic enhancement, population structure, breeding",
+      "Publisher": "mdpi",
+      "Title": "Genomic Analysis of Selected Maize Landraces from Sahel and Coastal West Africa Reveals Their Variability and Potential for Genetic Enhancement"
+    },
+    {
+      "rowNumber": 136,
+      "DOI_URL": "https://doi.org/10.1016/j.jssas.2024.06.003",
+      "Keywords": "cassava, soil quality, farmer knowledge, indigenous knowledge, root yield, Nigeria, cropping systems, soil assessment, agricultural practices, local expertise",
+      "Publisher": "elsevier",
+      "Title": "Exploring farmer\u00e2\u20ac\u2122s assessment of soil quality and root yield in cassava-based cropping systems"
+    },
+    {
+      "rowNumber": 137,
+      "DOI_URL": "https://doi.org/10.3390/su15010190",
+      "Keywords": "gender equality, social inclusion, GESI, climate information services, climate adaptation, vulnerability, accessibility, marginalized groups, climate variability, equity",
+      "Publisher": "mdpi",
+      "Title": "Framework for Incorporating Gender Equality and Social Inclusion (GESI) Elements in Climate Information Services (CIS)"
+    },
+    {
+      "rowNumber": 138,
+      "DOI_URL": "https://doi.org/10.1080/17429145.2019.1643934",
+      "Keywords": "coffee, coffee leaf rust, altitude, microclimate, shading systems, agroforestry, disease management, climate adaptation, environmental interactions, tropical crops",
+      "Publisher": "other",
+      "Title": "Interactive effects of altitude, microclimate and shading system on coffee leaf rust"
+    },
+    {
+      "rowNumber": 140,
+      "DOI_URL": "https://doi.org/10.1016/j.heliyon.2023.e20199",
+      "Keywords": "habitat distribution, species distribution modeling, Ricinodendron heudelotii, climate change, Benin, West Africa, conservation, biomod2, RCP scenarios, range shift",
+      "Publisher": "elsevier",
+      "Title": "Habitat range shift and prediction of the potential future distribution of Ricinodendron heudelotii (Baill.) Heckel in Benin (West Africa)"
+    },
+    {
+      "rowNumber": 141,
+      "DOI_URL": "https://doi.org/10.1002/fes3.172",
+      "Keywords": "soybean, ex-ante evaluation, sub-Saharan Africa, agricultural innovation, food security, climate change, crop modeling, value chain, technology adoption, policy analysis",
+      "Publisher": "other",
+      "Title": "Ex\u00e2\u20ac\u0090ante evaluation of promising soybean innovations for sub\u00e2\u20ac\u0090Saharan Africa"
+    },
+    {
+      "rowNumber": 142,
+      "DOI_URL": "https://doi.org/10.1017/S0021859621000617",
+      "Keywords": "Soybean, Bradyrhizobium diazoefficiens, Inoculant, Nitrogen, Phosphorus, Photosynthesis, Water-use efficiency, Biological nitrogen fixation, Mozambique",
+      "Publisher": "other",
+      "Title": "Rhizobium inoculant, nitrogen, and phosphorus improves photosynthesis and water use efficiency in soybean under drought stress"
+    },
+    {
+      "rowNumber": 143,
+      "DOI_URL": "https://doi.org/10.1080/00207233.2017.1347358",
+      "Keywords": "forest governance, REDD+, Central Africa, participatory model, carbon markets, stakeholder involvement, climate mitigation, community engagement, sustainable development, forest conservation",
+      "Publisher": "other",
+      "Title": "Forest governance and REDD+ in Central Africa: Towards a participatory model to increase stakeholder involvement in carbon markets"
+    },
+    {
+      "rowNumber": 144,
+      "DOI_URL": "https://doi.org/10.1111/mec.13762",
+      "Keywords": "Aedes aegypti, mosquito, population genetics, Africa, climatic change, Pleistocene, admixture, disease vector, evolutionary history, genetic diversity",
+      "Publisher": "wiley",
+      "Title": "Historical environmental change in Africa drives divergence and admixture of Aedes aegypti mosquitoes: a precursor to successful worldwide colonization?"
+    },
+    {
+      "rowNumber": 145,
+      "DOI_URL": "https://doi.org/10.1038/s41467-023-39338-z",
+      "Keywords": "soil organic carbon, meta-analysis, Anthropocene, land management, carbon sequestration, soil health, climate change mitigation, global assessment, agricultural practices, ecosystem services",
+      "Publisher": "other",
+      "Title": "A global meta-analysis of soil organic carbon in the Anthropocene"
+    },
+    {
+      "rowNumber": 146,
+      "DOI_URL": "https://doi.org/10.1016/j.agrformet.2022.109199",
+      "Keywords": "cocoa, climate variability, agroforestry, Ghana, crop health, productivity, black pod disease, shade management, rainfall, microclimates",
+      "Publisher": "elsevier",
+      "Title": "Influences of climate variability on cocoa health and productivity in agroforestry systems in Ghana"
+    },
+    {
+      "rowNumber": 147,
+      "DOI_URL": "https://doi.org/10.1007/s10584-019-02447-0",
+      "Keywords": "gender mainstreaming, climate change policy, agriculture policy, natural resources, East Africa, Uganda, Tanzania, policy analysis, gender budgeting, governance",
+      "Publisher": "springer",
+      "Title": "Gender in climate change, agriculture, and natural resource policies: insights from East Africa"
+    },
+    {
+      "rowNumber": 148,
+      "DOI_URL": "https://doi.org/10.1080/23311932.2020.1743625",
+      "Keywords": "gender, climate change adaptation, soybean, farmers revenue, Togo, West Africa, agricultural economics, endogenous switching regression, women empowerment, extension services",
+      "Publisher": "other",
+      "Title": "Gender and impact of climate change adaptation on soybean farmers\u00e2\u20ac\u2122 revenue in rural Togo, West Africa"
+    },
+    {
+      "rowNumber": 149,
+      "DOI_URL": "https://doi.org/10.1016/j.crsust.2023.100219",
+      "Keywords": "gender, climate warming, smallholder farmers, adaptation, Nigeria, temperature change, gender-responsive, climate change, agricultural resilience, vulnerability",
+      "Publisher": "elsevier",
+      "Title": "Gender-responsive approaches to rapid climate warming among smallholder farmers"
+    },
+    {
+      "rowNumber": 150,
+      "DOI_URL": "https://doi.org/10.1094/PDIS-01-23-0166-FE",
+      "Keywords": "plant health, global assessment, crop diseases, climate change, pest management, species invasions, agricultural systems, ecoregions, plant pathology, food security",
+      "Publisher": "other",
+      "Title": "A Global Assessment of the State of Plant Health"
+    },
+    {
+      "rowNumber": 151,
+      "DOI_URL": "https://doi.org/10.3389/fsufs.2022.708124",
+      "Keywords": "orphan legumes, food security, nutrition security, Sub-Saharan Africa, underutilized crops, genetic diversity, climate adaptation, indigenous crops, dietary diversification, sustainable agriculture",
+      "Publisher": "other",
+      "Title": "Indigenous African Orphan Legumes: Potential for Food and Nutrition Security in SSA"
+    },
+    {
+      "rowNumber": 152,
+      "DOI_URL": "https://doi.org/10.1111/pbi.12467",
+      "Keywords": "genomics, climate change, agricultural intensification, crop improvement, breeding, food security, climate resilience, crop yield, genetic diversity, adaptation",
+      "Publisher": "wiley",
+      "Title": "Global agricultural intensification during climate change: a role for genomics"
+    },
+    {
+      "rowNumber": 153,
+      "DOI_URL": "https://doi.org/10.3920/WMJ2016.2130",
+      "Keywords": "aflatoxin, biological control, biocontrol, atoxigenic, climate change, Africa, crop contamination, food safety, mycotoxin, fungal control",
+      "Publisher": "other",
+      "Title": " Biological control of aflatoxins in Africa: current status and potential challenges in the face of climate change"
+    },
+    {
+      "rowNumber": 154,
+      "DOI_URL": "https://doi.org/10.3390/su6096125",
+      "Keywords": "REDD+, climate policy, sustainable development, multi-criteria assessment, GIS, Cameroon, decision support, deforestation, forest degradation, spatial analysis",
+      "Publisher": "mdpi",
+      "Title": "Comparative Multi-Criteria Assessment of Climate Policies and Sustainable Development Strategies in Cameroon: Towards a GIS Decision-Support Tool for the Design of an Optimal REDD+ Strategy"
+    },
+    {
+      "rowNumber": 155,
+      "DOI_URL": "https://doi.org/10.1080/14735903.2025.2513790",
+      "Keywords": "Coffee, productivity, GAPs, MRR, Stepwise approach, Uganda",
+      "Publisher": "other",
+      "Title": "A stepwise approach to facilitate adoption of climate smart practices for smallholder coffee production in Uganda"
+    }
+  ]
+}
