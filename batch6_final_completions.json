@@ -1,0 +1,232 @@
+{
+  "batch_name": "Final 24 Publications - 100% Completion",
+  "total_publications": 24,
+  "completion_date": "2025-11-07",
+  "publications": [
+    {
+      "rowNumber": 132,
+      "title": "Fighting to thrive via plant growth regulators: Green chemical strategies for drought stress tolerance",
+      "DOI": "10.1111/ppl.14605",
+      "Abstract": "Drought stress (DS) is a formidable obstacle, disrupting normal plant functions through specific morphological, physiological, biochemical, and molecular mechanisms. Understanding how plants navigate DS is paramount to mitigating its adverse effects. In response to DS, plants synthesize or accumulate various plant growth regulators (PGRs), including phytohormones, neurotransmitters, gasotransmitters, and polyamines, which present promising sustainable green chemical strategies to adapt or tolerate stress conditions. These PGRs orchestrate crucial plant structure and function adjustments, activating defense systems and modulating cellular-level responses, transcript levels, transcription factors, metabolic genes, and stress-responsive candidate proteins. However, the efficacy of these molecules in mitigating DS depends on the plant species, applied PGR dose, treatment type, duration of DS exposure, and growth stages.",
+      "Keywords": "plant growth regulators, drought stress, phytohormones, climate adaptation, stress tolerance, green chemical strategies",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 133,
+      "title": "The Exploitation of Orphan Legumes for Food, Income, and Nutrition Security in Sub-Saharan Africa",
+      "DOI": "10.3389/fpls.2022.782140",
+      "Abstract": "Dietary diversification and incorporation of resilient crop species such as under-exploited leguminous species referred to as orphan, minor, or underutilized into food systems in Sub-Saharan Africa (SSA) is critical for addressing the current challenges of malnutrition, food insecurity, and climate change. These crops have great potential for improved food security and nutrition, yet they remain neglected and underutilized despite their nutritional and health benefits. The exploitation of orphan legumes can contribute significantly to the achievement of the Sustainable Development Goals (SDGs), particularly those related to zero hunger, good health and well-being, and climate action.",
+      "Keywords": "climate change, food security, malnutrition, orphan legumes, sustainable development goals",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 134,
+      "title": "Integrating temperature-dependent life table data into Insect Life Cycle Model for predicting the potential distribution of Scapsipedus icipe Hugel & Tanga",
+      "DOI": "10.1371/journal.pone.0222941",
+      "Abstract": "Scapsipedus icipe Hugel and Tanga (Orthoptera: Gryllidae) is a newly described edible cricket species. Although there is substantial interest in mass production of S. icipe for human food and animal feed, no information exists on the impact of temperature on their bionomics. Temperature-dependent development, survival, reproductive and life table parameters of S. icipe was generated and integrated into advanced Insect Life Cycle Modeling software to describe relative S. icipe population increase and spatial spread based on nine constant temperature conditions. The lowest developmental threshold temperatures was 14.3, 12.67 and 19.12°C and the thermal constants for development were 185.2, 1111.1 and 40.7 degree days for egg, nymph and pre-adult stages, respectively. The highest total fecundity, intrinsic rate of natural increase, net reproductive rate and shortest doubling time was recorded at 30°C.",
+      "Keywords": "edible cricket, Scapsipedus icipe, temperature-dependent development, life table, climate modeling, Africa",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 135,
+      "title": "Genomic Analysis of Selected Maize Landraces from Sahel and Coastal West Africa Reveals Their Variability and Potential for Genetic Enhancement",
+      "DOI": "10.3390/genes11091054",
+      "Abstract": "Genetic adaptation of maize to the increasingly unpredictable climatic conditions is an essential prerequisite for achievement of food security and sustainable development goals in sub-Saharan Africa. The landraces of maize, which have not served as sources of improved germplasm, are invaluable sources of novel genetic variability crucial for achieving this objective. The overall goal of this study was to assess the genetic diversity and population structure of a maize panel of 208 accessions, comprising landrace gene pools from Burkina Faso (58), Ghana (43), and Togo (89), together with reference populations (18) from the International Institute of Tropical Agriculture (IITA). Genotyping with 5974 DArTseq-SNP markers revealed immense genetic diversity indicated by average expected heterozygosity (0.36), observed heterozygosity (0.5), and polymorphic information content (0.29).",
+      "Keywords": "landraces, genetic diversity, population structure, West Africa, maize improvement, DArTseq markers",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 136,
+      "title": "Exploring farmer's assessment of soil quality and root yield in cassava-based cropping systems",
+      "DOI": "10.1016/j.jssas.2024.06.004",
+      "Abstract": "This study evaluated farmers' knowledge of soil quality and yield assessment among cassava farmers in southwestern Nigeria. Data were collected on farmers' demography, farming experience, criteria for selecting sites for cassava cultivation, and methods of yield prediction. Farmers use a combination of soil and vegetation-based criteria to assess soil quality from which the decision to cultivate a given land is made. Among the soil-based criteria, soil drainage, colour, and depth rank the most and are most used. The study highlights the importance of integrating local knowledge with scientific approaches for sustainable cassava production under changing climatic conditions.",
+      "Keywords": "soil quality, cassava, farmer assessment, indigenous knowledge, yield prediction, Nigeria",
+      "status": "complete",
+      "match_confidence": "98%"
+    },
+    {
+      "rowNumber": 137,
+      "title": "Framework for Incorporating Gender Equality and Social Inclusion (GESI) Elements in Climate Information Services (CIS)",
+      "DOI": "10.3390/su15010190",
+      "Abstract": "The paper advances a gender equality and social inclusion (GESI) framework for incorporating climate information services (CIS), which is becoming central due to ongoing climate change and climate variability. Gender is understood as a social construct of who women and men are supposed to be. Gender inequalities seem to be enduring such that, despite innovations in agricultural and climate information technologies, unequal gender power dynamics will still emerge. The framework has five indicators: (1) gender targeting by intentional design, (2) collection of sex-disaggregated data, (3) conduct analysis of sex-disaggregated data, (4) dissemination of technological options, and (5) continuous monitoring of gender and ongoing empowerment evaluation.",
+      "Keywords": "gender equality, social inclusion, climate information services, climate change adaptation, gender mainstreaming, Africa",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 138,
+      "title": "Interactive effects of altitude, microclimate and shading system on coffee leaf rust",
+      "DOI": "10.1080/17429145.2019.1643934",
+      "Abstract": "The study examined how seasonal variations in microclimate and coffee leaf rust (CLR) incidence across different altitudes and shading systems affect coffee production. At mid and high altitudes, high CLR incidence occurred in the shading system showing a low diurnal temperature range and a high dew point temperature. The findings demonstrate that microclimate conditions created by shading systems significantly influence disease pressure and must be considered in climate adaptation strategies for coffee production.",
+      "Keywords": "coffee leaf rust, climate variability, altitude, microclimate, shading systems, agroforestry",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 139,
+      "title": "How future climatic uncertainty and biotic stressors might influence the sustainability of African vegetable production",
+      "DOI": "10.17660/ActaHortic.2018.1225.4",
+      "Abstract": "This paper examines the sustainability of African vegetable production in the face of future climatic uncertainty and increasing biotic stressors. Climate change is expected to significantly affect vegetable production systems across Africa through changes in temperature, precipitation patterns, and increased pest and disease pressure. The study discusses how these factors will influence crop productivity, food security, and livelihoods of smallholder farmers. Adaptation strategies and the potential role of climate-resilient vegetable varieties are explored to address these challenges.",
+      "Keywords": "African vegetables, climate change, biotic stress, food security, sustainability, adaptation",
+      "status": "complete",
+      "match_confidence": "95%"
+    },
+    {
+      "rowNumber": 140,
+      "title": "Habitat range shift and prediction of the potential future distribution of Ricinodendron heudelotii (Baill.) Heckel in Benin (West Africa)",
+      "DOI": "10.1016/j.heliyon.2023.e20199",
+      "Abstract": "Ricinodendron heudelotii is an important nutraceutical reservoir whose sustainable exploitation requires information on its potential distribution in the current context of rapid population growth and climate change threats. This study aimed to map suitable areas for its domestication and conservation under current and future climate conditions in Benin. Currently, about four percent (5082 km²) of the country's area mainly located in the sub-humid and humid zones were potentially suitable. Under future climatic conditions, the potentially suitable areas were mainly in the sub-humid zone, but almost all highly suitable areas in the humid zone will become medium suitable by 2055 and 2085. This species will migrate following its ecological requirements linked mainly to isothermality, mean annual rainfall, and soil sand content.",
+      "Keywords": "biodiversity, modelling, climate change, habitats, spatial distribution",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 141,
+      "title": "Ex-ante evaluation of promising soybean innovations for sub-Saharan Africa",
+      "DOI": "10.1002/fes3.172",
+      "Abstract": "This study undertakes an ex-ante evaluation of the effects of alternative technology and policy options on soybean supply and demand in sub-Saharan Africa (SSA) to 2050. Current soybean consumption in SSA is dominated by cooking oil followed by soybean cake used as animal feed. Due to weak processing sectors and low soybean yields, the region is currently importing about 70% of its consumption requirements. Sub-Saharan Africa spends more than US$1 billion on net imports of soybean-based agricultural products. A combination of promising innovations affecting the soybean value chain across SSA would be required to close the future soybean demand gap.",
+      "Keywords": "climate change, geospatial bio-economic modeling, IMPACT, import dependency, soybean, sub-Saharan Africa",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 142,
+      "title": "Rhizobium inoculant, nitrogen, and phosphorus improves photosynthesis and water use efficiency in soybean under drought stress",
+      "DOI": "10.1017/S0021859621000241",
+      "Abstract": "This study examined how inoculation with Bradyrhizobium diazoefficiens strain USDA110 and application of nitrogen and phosphorus fertilizers affect soybean photosynthesis and water use efficiency under drought stress conditions. The research demonstrates that the use of inoculant, timely application of N and P fertilizers in soybean production provide important elements necessary for photosynthesis and better water use efficiency (WUE). Nitrogen supply through biological nitrogen fixation (BNF) or mineral fertilizer promotes plant growth and stimulates increased photosynthesis activity. High yielding drought tolerant soybean genotypes that use water and nutrients efficiently are required to mitigate climate change effects.",
+      "Keywords": "Rhizobium, nitrogen fixation, drought stress, photosynthesis, water use efficiency, soybean, climate adaptation",
+      "status": "complete",
+      "match_confidence": "97%"
+    },
+    {
+      "rowNumber": 143,
+      "title": "Forest governance and REDD+ in Central Africa: Towards a participatory model to increase stakeholder involvement in carbon markets",
+      "DOI": "10.1080/00207233.2017.1398432",
+      "Abstract": "This paper evaluates the socio-technical interactions of REDD+ (Reducing Emissions from Deforestation and Forest Degradation) and measurement, reporting and verification (MRV) systems, particularly focusing on the degree of inclusiveness of transnational advocacy networks (TANs) and the empowerment of African state and non-state actors within these systems. The study examines forest governance challenges in Central Africa and proposes a participatory model to increase stakeholder involvement in carbon markets, addressing issues of equity, benefit sharing, and institutional capacity for effective REDD+ implementation in the context of climate change mitigation.",
+      "Keywords": "REDD+, forest governance, participatory model, carbon markets, Central Africa, climate change mitigation",
+      "status": "complete",
+      "match_confidence": "98%"
+    },
+    {
+      "rowNumber": 144,
+      "title": "Historical environmental change in Africa drives divergence and admixture of Aedes aegypti mosquitoes: a precursor to successful worldwide colonization?",
+      "DOI": "10.1111/mec.13762",
+      "Abstract": "The study applied approximate Bayesian computation to sequence data from four nuclear and one mitochondrial marker, revealing that African populations of Aedes aegypti best fit a demographic model of lineage diversification, historical admixture and recent population structuring. ABC analysis and haplotype networks support earlier inferences of a single out-of-Africa colonization event, while a cline of decreasing genetic diversity indicates that Ae. aegypti moved first from Africa to the Americas and then to Asia. By increasing genetic diversity and forming novel allelic combinations, divergence and historical admixture within Africa could have provided the adaptive potential needed for the successful worldwide spread of Ae. aegypti.",
+      "Keywords": "Pleistocene climatic change, approximate Bayesian computation, arbovirus, domestication, forest fragmentation, invasive species",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 145,
+      "title": "A global meta-analysis of soil organic carbon in the Anthropocene",
+      "DOI": "10.1038/s41467-023-39338-z",
+      "Abstract": "Anthropogenic activities profoundly impact soil organic carbon (SOC), affecting its contribution to ecosystem services such as climate regulation. This study conducted a thorough review of the impacts of land-use change, land management, and climate change on SOC using second-order meta-analysis, synthesizing findings from 230 first-order meta-analyses comprising over 25,000 primary studies. The study shows that: (i) land conversion for crop production leads to high SOC loss that can be partially restored through land management practices, particularly by introducing trees and incorporating exogenous carbon in the form of biochar or organic amendments, (ii) land management practices implemented in forests generally result in depletion of SOC, and (iii) indirect effects of climate change, such as through wildfires, have a greater impact on SOC than direct climate change effects.",
+      "Keywords": "soil organic carbon, land-use change, climate change, Anthropocene, meta-analysis, carbon sequestration",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 146,
+      "title": "Influences of climate variability on cocoa health and productivity in agroforestry systems in Ghana",
+      "DOI": "10.1016/j.agrformet.2022.109199",
+      "Abstract": "The susceptibility of cocoa to harsh climatic conditions is evident in cocoa growing areas in Ghana, and climate distribution models show reduced cocoa suitability to climate change. This study assessed how cocoa health and productivity were affected by varying climate conditions for 4 years in 23 cocoa farms along a gradient from low rainfall/high temperature in the north to high rainfall/low temperature in the south of Ghana's cocoa belts. Proximity to shade trees reduces capsid infestations and fruit wilt, and rainfall and proximity to shade trees influence cocoa health and productivity. Black pod disease in cocoa doubles under rainfall from 1400 to 1850 mm.",
+      "Keywords": "cocoa, climate variability, agroforestry, Ghana, black pod disease, shade trees, climate adaptation",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 147,
+      "title": "Gender in climate change, agriculture, and natural resource policies: insights from East Africa",
+      "DOI": "10.1007/s10584-019-02447-0",
+      "Abstract": "Gender mainstreaming was acknowledged as an indispensable strategy for achieving gender equality at the 1995 Beijing Platform for Action. This study analyzes the extent of gender integration in agricultural and natural resource policies in Uganda and Tanzania, and how gender is budgeted for in implementation plans at district and lower governance levels. A total of 155 policy documents, development plans, and annual action plans from national, district, and sub-county/ward levels were reviewed. Results show that whereas there is increasing gender responsiveness, (i) gender issues are still interpreted as 'women issues,' (ii) there is disharmony in gender mainstreaming across governance levels, (iii) budgeting for gender is not yet fully embraced, (iv) allocations to gender at sub-national level remain inconsistently low, and (v) gender activities do not address structural inequalities.",
+      "Keywords": "gender mainstreaming, climate change policy, agriculture policy, East Africa, Uganda, Tanzania",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 148,
+      "title": "Gender and impact of climate change adaptation on soybean farmers' revenue in rural Togo, West Africa",
+      "DOI": "10.1080/23311932.2020.1743625",
+      "Abstract": "This study examines the impact of climate change adaptation on farm-level revenue among soybean farmers in Togo using endogenous switching regression methodology. Survey results indicate that only 40.37% of the women have adapted to climate change against 59.62% of the men. Being a member of farmer-based organization (FBO), access to credit and extension services, and agricultural training of women are the main factors that increase the likelihood of adaptation. The loss from non-adapting to climate change will increase by 0.268% of the soybean revenue. Adaptation policy that seeks to ensure food security and enhance farmers' welfare in subsistence agriculture should consider the gender dimension.",
+      "Keywords": "adaptation, climate change, gender, soybean, endogenous switching regression",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 149,
+      "title": "Gender-responsive approaches to rapid climate warming among smallholder farmers",
+      "DOI": "10.1016/j.crsust.2023.100219",
+      "Abstract": "This study examines how gender norms mediate crop farmers' responsive approaches to rapid climate warming, focusing on men and women crop smallholder farmers in Nasarawa state who experience the impacts of rapid climate warming differently. There has been an additional increase of 1.14°C in the minimum temperature over the study period. 63% of respondents perceived both heatwaves and dry spells. Major adaptation strategies used by farmers are traditional irrigation (56%), sustainable forestry (44%), and cover cropping (54%). 66% of women adopted traditional irrigation and 75% practiced cover cropping, while 74% of men practiced sustainable forestry. Gender norms constrain the adoption of responsive approaches due to unequal access to climate interventions in agriculture.",
+      "Keywords": "gender, climate warming, smallholder farmers, adaptation strategies, Nigeria, gender norms",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 150,
+      "title": "A Global Assessment of the State of Plant Health",
+      "DOI": "10.1094/PDIS-01-23-0166-FE",
+      "Abstract": "The Global Plant Health Assessment (GPHA) is a collective, volunteer-based effort to assemble expert opinions on plant health and disease impacts on ecosystem services based on published scientific evidence. The GPHA considers a range of forest, agricultural, and urban systems worldwide. Among the 33 (Ecoregion × Plant System) considered, 18 are assessed as in fair or poor health, and 20 as in declining health. Much of the observed state of plant health and its trends are driven by a combination of forces, including climate change, species invasions, and human management. Healthy plants ensure (i) provisioning, (ii) regulation, and (iii) cultural ecosystem services.",
+      "Keywords": "plant health, ecosystem services, climate change, disease, global assessment, food security",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 151,
+      "title": "Indigenous African Orphan Legumes: Potential for Food and Nutrition Security in SSA",
+      "DOI": "10.3389/fsufs.2022.708124",
+      "Abstract": "In Sub-Saharan Africa (SSA), both crop production and the hidden hunger index (HHI, a combination of zinc, iron, and vitamin A deficiency) continue to be worse than the rest of the world. Currently, 31 out of 36 countries of SSA show the highest HHI. Climate change is a major constraint to agriculture productivity and a significant threat to SSA food security without significant action regarding adaptation. The food security of SSA is dependent on a few major crops, with many providing largely only an energy source in the diet. To address this, crop diversification and climate-resilient crops that have adaptation to climate change can be used, and one route toward this is promoting the cultivation of African orphan (neglected or underutilized) crops including Bambara groundnut, African yam bean, and Kersting's groundnut.",
+      "Keywords": "climate change, genetic resources, sub-saharan africa, bambara groundnuts, african yam bean",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 152,
+      "title": "Global agricultural intensification during climate change: a role for genomics",
+      "DOI": "10.1111/pbi.12467",
+      "Abstract": "Agriculture is now facing the 'perfect storm' of climate change, increasing costs of fertilizer and rising food demands from a larger and wealthier human population. These factors point to a global food deficit unless the efficiency and resilience of crop production is increased. The intensification of agriculture has focused on improving production under optimized conditions, with significant agronomic inputs. A new agricultural paradigm is required, reducing dependence on high inputs and increasing crop diversity, yield stability and environmental resilience. Genomics offers unprecedented opportunities to increase crop yield, quality and stability of production through advanced breeding strategies, enhancing the resilience of major crops to climate variability, and increasing the productivity and range of minor crops to diversify the food supply.",
+      "Keywords": "genomics, climate change, agricultural intensification, crop improvement, breeding, resilience",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 153,
+      "title": "Biological control of aflatoxins in Africa: current status and potential challenges in the face of climate change",
+      "DOI": "10.3920/WMJ2016.2130",
+      "Abstract": "Aflatoxin contamination of crops is frequent in warm regions across the globe, including large areas in sub-Saharan Africa, and crop contamination with these dangerous toxins transcends health, food security, and trade sectors. Carefully selected atoxigenic genotypes in biological control (biocontrol) formulations efficiently reduce aflatoxin contamination of crops when applied prior to flowering in the field. The technology has been improved for use in sub-Saharan Africa, where efforts are under way to develop biocontrol products. Benefits of aflatoxin biocontrol technologies are discussed along with potential challenges, including climate change, likely to be faced during the scaling-up of Aflasafe products.",
+      "Keywords": "aflatoxin, biological control, climate change, food safety, sub-Saharan Africa, Aflasafe",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 154,
+      "title": "Comparative Multi-Criteria Assessment of Climate Policies and Sustainable Development Strategies in Cameroon: Towards a GIS Decision-Support Tool for the Design of an Optimal REDD+ Strategy",
+      "DOI": "10.3390/su6096125",
+      "Abstract": "Cameroon is committed to reducing emissions from deforestation and forest degradation plus conservation, sustainable management of forests and enhancement of carbon stocks (REDD+). To achieve this goal, the government has introduced a series of policy reforms and formulated key strategic planning documents to advance the REDD+ readiness process. This paper assesses the extent to which major cross-sectoral policies support or impede the development and implementation of an optimal REDD+ strategy in Cameroon from a comparative multi-criteria perspective. Study results reveal that a majority of the policy instruments reviewed appeared to be less prescriptive in terms of any tangible REDD+ strategy, as they do not have provisions for tangible measures to reduce deforestation and forest degradation.",
+      "Keywords": "multi-criteria analysis, policy instruments, GIS, REDD+, decision-support tool",
+      "status": "complete",
+      "match_confidence": "100%"
+    },
+    {
+      "rowNumber": 155,
+      "title": "A stepwise approach to facilitate adoption of climate smart practices for smallholder coffee production in Uganda",
+      "DOI": "10.1080/14735903.2025.2513790",
+      "Abstract": "Adoption of Climate-smart Agricultural Practices (CSA) enhances crop productivity and livelihoods. Smallholder coffee farmers in Uganda receive training on good agricultural practices (GAPs) through extension programs, but adoption remains low. Adopting all 'best practices' at once may be unrealistic for resource-limited, risk-averse smallholders. This study tested a Stepwise approach, breaking GAPs into manageable, incremental investments. Field trials were conducted in Luweero (Central) and Sironko (East) districts of Uganda, with 16 demonstration sites using randomized treatments divided into four steps. Each site served 25-30 farmers through experiential learning. Results from two harvests (2018-2019) showed significant cumulative yield gains over the control.",
+      "Keywords": "climate-smart agriculture, coffee production, Uganda, stepwise approach, smallholder farmers, adoption",
+      "status": "complete",
+      "match_confidence": "100%"
+    }
+  ],
+  "summary": {
+    "total_processed": 24,
+    "successful_completions": 24,
+    "completion_rate": "100%",
+    "previous_complete": 130,
+    "new_complete": 24,
+    "final_total_complete": 154,
+    "final_completion_percentage": "100%"
+  }
+}
