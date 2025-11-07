@@ -1,0 +1,667 @@
+[2025-11-06T09:16:39.125Z] Column mapping found:
+[2025-11-06T09:16:39.125Z]   #: Column 1
+[2025-11-06T09:16:39.126Z]   ID: Column 2
+[2025-11-06T09:16:39.126Z]   REVIEWER: Column 3
+[2025-11-06T09:16:39.126Z]   TITLE: Column 4
+[2025-11-06T09:16:39.127Z]   AUTHORS: Column 5
+[2025-11-06T09:16:39.127Z]   YEAR: Column 6
+[2025-11-06T09:16:39.127Z]   JOURNAL: Column 7
+[2025-11-06T09:16:39.127Z]   GEOGRAPHIC FOCUS: Column 8
+[2025-11-06T09:16:39.127Z]   IITA OFFICE: Column 9
+[2025-11-06T09:16:39.127Z]   STUDY TYPE: Column 10
+[2025-11-06T09:16:39.128Z]   METHODS: Column 11
+[2025-11-06T09:16:39.128Z]   IMPACT AREAS: Column 12
+[2025-11-06T09:16:39.128Z]   IMPACT PATHWAYS: Column 13
+[2025-11-06T09:16:39.129Z]   ACTION AREAS: Column 14
+[2025-11-06T09:16:39.129Z]   NOTES ON CLIMATE: Column 15
+[2025-11-06T09:16:39.129Z]   THEMES/FINDINGS: Column 16
+[2025-11-06T09:16:39.129Z]   STAT SIGNIFICANCE?: Column 17
+[2025-11-06T09:16:39.130Z]   LIMITATIONS FROM AUTHORS: Column 18
+[2025-11-06T09:16:39.130Z]   NOTES: Column 19
+[2025-11-06T09:16:39.130Z]   DOI: Column 20
+[2025-11-06T09:16:39.131Z]   ABSTRACT: Column 23
+[2025-11-06T09:16:39.131Z]   KEYWORDS: Column 24
+[2025-11-06T09:16:39.131Z] 
+[2025-11-06T09:16:39.133Z] INITIAL STATUS:
+[2025-11-06T09:16:39.133Z]   Total publications: 154
+[2025-11-06T09:16:39.133Z]   Already complete: 0
+[2025-11-06T09:16:39.133Z]   Missing DOI (cannot process): 102
+[2025-11-06T09:16:39.134Z]   Incomplete with DOI (to process): 52
+[2025-11-06T09:16:39.134Z] 
+[2025-11-06T09:16:39.134Z] BEGINNING COMPLETE PROCESSING...
+[2025-11-06T09:16:39.134Z] 
+[2025-11-06T09:16:39.135Z] [1/52] Row 2: Vulnerability and adaptation options to climate change for r...
+[2025-11-06T09:16:39.135Z]   DOI: 10.1016/j.agsy.2019.102663
+[2025-11-06T09:16:39.135Z]   Trying CrossRef API: https://api.crossref.org/works/10.1016/j.agsy.2019.102663
+[2025-11-06T09:16:39.169Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:16:39.170Z]   Trying direct access: https://doi.org/10.1016/j.agsy.2019.102663
+[2025-11-06T09:16:39.175Z]   Trying direct access: https://doi.org/10.1016/j.agsy.2019.102663
+[2025-11-06T09:16:39.178Z]   Trying direct access: https://doi.org/10.1016/j.agsy.2019.102663
+[2025-11-06T09:16:39.180Z]   ✗ Abstract: Not found
+[2025-11-06T09:16:39.180Z]   ✗ Keywords: Not found
+[2025-11-06T09:16:39.180Z]   ✗ FAILED: No new data found
+[2025-11-06T09:16:39.180Z] 
+[2025-11-06T09:16:41.181Z] [2/52] Row 3: Spodoptera eridania: Current and emerging crop threats from ...
+[2025-11-06T09:16:41.181Z]   DOI: 10.1127/entomologia/2022/1397
+[2025-11-06T09:16:41.181Z]   Trying CrossRef API: https://api.crossref.org/works/10.1127/entomologia/2022/1397
+[2025-11-06T09:16:41.185Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:16:41.185Z]   Trying direct access: https://doi.org/10.1127/entomologia/2022/1397
+[2025-11-06T09:16:41.188Z]   Trying direct access: https://doi.org/10.1127/entomologia/2022/1397
+[2025-11-06T09:16:41.190Z]   Trying direct access: https://doi.org/10.1127/entomologia/2022/1397
+[2025-11-06T09:16:41.192Z]   ✗ Abstract: Not found
+[2025-11-06T09:16:41.192Z]   ✗ Keywords: Not found
+[2025-11-06T09:16:41.192Z]   ✗ FAILED: No new data found
+[2025-11-06T09:16:41.193Z] 
+[2025-11-06T09:16:43.194Z] [3/52] Row 4: Temporal Changes in Minimum and Maximum Temperatures at Sele...
+[2025-11-06T09:16:43.194Z]   DOI: 10.3390/cli11040084
+[2025-11-06T09:16:43.195Z]   Trying CrossRef API: https://api.crossref.org/works/10.3390/cli11040084
+[2025-11-06T09:16:43.200Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:16:43.200Z]   Trying direct access: https://doi.org/10.3390/cli11040084
+[2025-11-06T09:16:43.203Z]   Trying direct access: https://doi.org/10.3390/cli11040084
+[2025-11-06T09:16:43.205Z]   Trying direct access: https://doi.org/10.3390/cli11040084
+[2025-11-06T09:16:43.207Z]   ✗ Abstract: Not found
+[2025-11-06T09:16:43.207Z]   ✗ Keywords: Not found
+[2025-11-06T09:16:43.208Z]   ✗ FAILED: No new data found
+[2025-11-06T09:16:43.208Z] 
+[2025-11-06T09:16:45.208Z] [4/52] Row 5: Zoom in at African country level: potential climate-induced ...
+[2025-11-06T09:16:45.208Z]   DOI: 10.1186/1476-072X-13-12
+[2025-11-06T09:16:45.209Z]   Trying CrossRef API: https://api.crossref.org/works/10.1186/1476-072X-13-12
+[2025-11-06T09:16:45.212Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:16:45.212Z]   Trying direct access: https://doi.org/10.1186/1476-072X-13-12
+[2025-11-06T09:16:45.215Z]   Trying direct access: https://doi.org/10.1186/1476-072X-13-12
+[2025-11-06T09:16:45.217Z]   Trying direct access: https://doi.org/10.1186/1476-072X-13-12
+[2025-11-06T09:16:45.219Z]   ✗ Abstract: Not found
+[2025-11-06T09:16:45.219Z]   ✗ Keywords: Not found
+[2025-11-06T09:16:45.219Z]   ✗ FAILED: No new data found
+[2025-11-06T09:16:45.220Z] 
+[2025-11-06T09:16:47.220Z] [5/52] Row 6: Tectonics, climate and the diversification of the tropical A...
+[2025-11-06T09:16:47.221Z]   DOI: 10.1111/brv.12644
+[2025-11-06T09:16:47.221Z]   Trying CrossRef API: https://api.crossref.org/works/10.1111/brv.12644
+[2025-11-06T09:16:47.225Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:16:47.225Z]   Trying direct access: https://doi.org/10.1111/brv.12644
+[2025-11-06T09:16:47.228Z]   Trying direct access: https://doi.org/10.1111/brv.12644
+[2025-11-06T09:16:47.230Z]   Trying direct access: https://doi.org/10.1111/brv.12644
+[2025-11-06T09:16:47.232Z]   ✗ Abstract: Not found
+[2025-11-06T09:16:47.232Z]   ✗ Keywords: Not found
+[2025-11-06T09:16:47.232Z]   ✗ FAILED: No new data found
+[2025-11-06T09:16:47.233Z] 
+[2025-11-06T09:16:49.234Z] [6/52] Row 7: Socio-economic determinants for the deployment of Climate-Sm...
+[2025-11-06T09:16:49.234Z]   DOI: 10.1371/journal.pstr.0000052
+[2025-11-06T09:16:49.235Z]   Trying CrossRef API: https://api.crossref.org/works/10.1371/journal.pstr.0000052
+[2025-11-06T09:16:49.238Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:16:49.239Z]   Trying direct access: https://doi.org/10.1371/journal.pstr.0000052
+[2025-11-06T09:16:49.241Z]   Trying direct access: https://doi.org/10.1371/journal.pstr.0000052
+[2025-11-06T09:16:49.243Z]   Trying direct access: https://doi.org/10.1371/journal.pstr.0000052
+[2025-11-06T09:16:49.245Z]   ✗ Abstract: Not found
+[2025-11-06T09:16:49.246Z]   ✗ Keywords: Not found
+[2025-11-06T09:16:49.246Z]   ✗ FAILED: No new data found
+[2025-11-06T09:16:49.246Z] 
+[2025-11-06T09:16:51.247Z] [7/52] Row 8: Tackling the nitrogen management challenge: from global to l...
+[2025-11-06T09:16:51.247Z]   DOI: 10.1088/1748-9326/11/12/120205
+[2025-11-06T09:16:51.248Z]   Trying CrossRef API: https://api.crossref.org/works/10.1088/1748-9326/11/12/120205
+[2025-11-06T09:16:51.250Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:16:51.251Z]   Trying direct access: https://doi.org/10.1088/1748-9326/11/12/120205
+[2025-11-06T09:16:51.253Z]   Trying direct access: https://doi.org/10.1088/1748-9326/11/12/120205
+[2025-11-06T09:16:51.254Z]   Trying direct access: https://doi.org/10.1088/1748-9326/11/12/120205
+[2025-11-06T09:16:51.256Z]   ✗ Abstract: Not found
+[2025-11-06T09:16:51.257Z]   ✗ Keywords: Not found
+[2025-11-06T09:16:51.257Z]   ✗ FAILED: No new data found
+[2025-11-06T09:16:51.257Z] 
+[2025-11-06T09:16:53.258Z] [8/52] Row 9: Understanding the consequences of changes in the production ...
+[2025-11-06T09:16:53.258Z]   DOI: 10.1016/j.gfs.2018.12.005
+[2025-11-06T09:16:53.259Z]   Trying CrossRef API: https://api.crossref.org/works/10.1016/j.gfs.2018.12.005
+[2025-11-06T09:16:53.262Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:16:53.262Z]   Trying direct access: https://doi.org/10.1016/j.gfs.2018.12.005
+[2025-11-06T09:16:53.264Z]   Trying direct access: https://doi.org/10.1016/j.gfs.2018.12.005
+[2025-11-06T09:16:53.266Z]   Trying direct access: https://doi.org/10.1016/j.gfs.2018.12.005
+[2025-11-06T09:16:53.268Z]   ✗ Abstract: Not found
+[2025-11-06T09:16:53.268Z]   ✗ Keywords: Not found
+[2025-11-06T09:16:53.269Z]   ✗ FAILED: No new data found
+[2025-11-06T09:16:53.269Z] 
+[2025-11-06T09:16:55.269Z] [9/52] Row 10: Stressors and Resilience within the Cassava Value Chain in N...
+[2025-11-06T09:16:55.269Z]   DOI: 10.3390/su15107837
+[2025-11-06T09:16:55.269Z]   Trying CrossRef API: https://api.crossref.org/works/10.3390/su15107837
+[2025-11-06T09:16:55.272Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:16:55.272Z]   Trying direct access: https://doi.org/10.3390/su15107837
+[2025-11-06T09:16:55.275Z]   Trying direct access: https://doi.org/10.3390/su15107837
+[2025-11-06T09:16:55.277Z]   Trying direct access: https://doi.org/10.3390/su15107837
+[2025-11-06T09:16:55.279Z]   ✗ Abstract: Not found
+[2025-11-06T09:16:55.280Z]   ✗ Keywords: Not found
+[2025-11-06T09:16:55.280Z]   ✗ FAILED: No new data found
+[2025-11-06T09:16:55.280Z] 
+[2025-11-06T09:16:57.281Z] [10/52] Row 11: Yield Performance and Stability Analysis of Promising Soybea...
+[2025-11-06T09:16:57.281Z]   DOI: 10.18805/LRF-722
+[2025-11-06T09:16:57.282Z]   Trying CrossRef API: https://api.crossref.org/works/10.18805/LRF-722
+[2025-11-06T09:16:57.285Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:16:57.285Z]   Trying direct access: https://doi.org/10.18805/LRF-722
+[2025-11-06T09:16:57.287Z]   Trying direct access: https://doi.org/10.18805/LRF-722
+[2025-11-06T09:16:57.289Z]   Trying direct access: https://doi.org/10.18805/LRF-722
+[2025-11-06T09:16:57.292Z]   ✗ Abstract: Not found
+[2025-11-06T09:16:57.292Z]   ✗ Keywords: Not found
+[2025-11-06T09:16:57.292Z]   ✗ FAILED: No new data found
+[2025-11-06T09:16:57.292Z] 
+[2025-11-06T09:16:57.432Z] ━━━ PROGRESS SAVED ━━━
+[2025-11-06T09:16:57.432Z]   Processed: 10/52
+[2025-11-06T09:16:57.433Z]   Newly populated: 0
+[2025-11-06T09:16:57.433Z]   Current completion: 0/154 (0%)
+[2025-11-06T09:16:57.433Z]   CrossRef successes: 0
+[2025-11-06T09:16:57.433Z]   Website scraping successes: 0
+[2025-11-06T09:16:57.433Z] 
+[2025-11-06T09:16:59.435Z] [11/52] Row 12: Spatial-Temporal Trends of Rainfall, Maximum and Minimum Tem...
+[2025-11-06T09:16:59.435Z]   DOI: 10.1109/ACCESS.2020.2999255
+[2025-11-06T09:16:59.436Z]   Trying CrossRef API: https://api.crossref.org/works/10.1109/ACCESS.2020.2999255
+[2025-11-06T09:16:59.439Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:16:59.439Z]   Trying direct access: https://doi.org/10.1109/ACCESS.2020.2999255
+[2025-11-06T09:16:59.442Z]   Trying direct access: https://doi.org/10.1109/ACCESS.2020.2999255
+[2025-11-06T09:16:59.444Z]   Trying direct access: https://doi.org/10.1109/ACCESS.2020.2999255
+[2025-11-06T09:16:59.446Z]   ✗ Abstract: Not found
+[2025-11-06T09:16:59.446Z]   ✗ Keywords: Not found
+[2025-11-06T09:16:59.447Z]   ✗ FAILED: No new data found
+[2025-11-06T09:16:59.447Z] 
+[2025-11-06T09:17:01.449Z] [12/52] Row 13: Spatial and temporal distribution of optimal maize sowing da...
+[2025-11-06T09:17:01.449Z]   DOI: 10.1371/journal.pone.0300427
+[2025-11-06T09:17:01.450Z]   Trying CrossRef API: https://api.crossref.org/works/10.1371/journal.pone.0300427
+[2025-11-06T09:17:01.452Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:01.452Z]   Trying direct access: https://doi.org/10.1371/journal.pone.0300427
+[2025-11-06T09:17:01.455Z]   Trying direct access: https://doi.org/10.1371/journal.pone.0300427
+[2025-11-06T09:17:01.457Z]   Trying direct access: https://doi.org/10.1371/journal.pone.0300427
+[2025-11-06T09:17:01.459Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:01.459Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:01.460Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:01.460Z] 
+[2025-11-06T09:17:03.460Z] [13/52] Row 14: Worldâ€™s soils are under threat...
+[2025-11-06T09:17:03.461Z]   DOI: 10.5194/soil-2-79-2016
+[2025-11-06T09:17:03.461Z]   Trying CrossRef API: https://api.crossref.org/works/10.5194/soil-2-79-2016
+[2025-11-06T09:17:03.464Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:03.464Z]   Trying direct access: https://doi.org/10.5194/soil-2-79-2016
+[2025-11-06T09:17:03.466Z]   Trying direct access: https://doi.org/10.5194/soil-2-79-2016
+[2025-11-06T09:17:03.468Z]   Trying direct access: https://doi.org/10.5194/soil-2-79-2016
+[2025-11-06T09:17:03.470Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:03.470Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:03.471Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:03.471Z] 
+[2025-11-06T09:17:05.471Z] [14/52] Row 15: Use of modelling tools to assess climate change impacts on s...
+[2025-11-06T09:17:05.471Z]   DOI: 10.1371/journal.pone.0301254
+[2025-11-06T09:17:05.472Z]   Trying CrossRef API: https://api.crossref.org/works/10.1371/journal.pone.0301254
+[2025-11-06T09:17:05.475Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:05.475Z]   Trying direct access: https://doi.org/10.1371/journal.pone.0301254
+[2025-11-06T09:17:05.477Z]   Trying direct access: https://doi.org/10.1371/journal.pone.0301254
+[2025-11-06T09:17:05.479Z]   Trying direct access: https://doi.org/10.1371/journal.pone.0301254
+[2025-11-06T09:17:05.481Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:05.481Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:05.481Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:05.482Z] 
+[2025-11-06T09:17:07.483Z] [15/52] Row 16: A spatial framework for ex-ante impact assessment of agricul...
+[2025-11-06T09:17:07.483Z]   DOI: 10.1016/j.gfs.2018.12.006
+[2025-11-06T09:17:07.483Z]   Trying CrossRef API: https://api.crossref.org/works/10.1016/j.gfs.2018.12.006
+[2025-11-06T09:17:07.486Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:07.486Z]   Trying direct access: https://doi.org/10.1016/j.gfs.2018.12.006
+[2025-11-06T09:17:07.488Z]   Trying direct access: https://doi.org/10.1016/j.gfs.2018.12.006
+[2025-11-06T09:17:07.490Z]   Trying direct access: https://doi.org/10.1016/j.gfs.2018.12.006
+[2025-11-06T09:17:07.492Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:07.492Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:07.493Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:07.493Z] 
+[2025-11-06T09:17:09.494Z] [16/52] Row 17: Strategic Foresight analysis of droughts in southern Africa ...
+[2025-11-06T09:17:09.494Z]   DOI: 10.3389/fsufs.2023.1159901
+[2025-11-06T09:17:09.494Z]   Trying CrossRef API: https://api.crossref.org/works/10.3389/fsufs.2023.1159901
+[2025-11-06T09:17:09.497Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:09.497Z]   Trying direct access: https://doi.org/10.3389/fsufs.2023.1159901
+[2025-11-06T09:17:09.499Z]   Trying direct access: https://doi.org/10.3389/fsufs.2023.1159901
+[2025-11-06T09:17:09.501Z]   Trying direct access: https://doi.org/10.3389/fsufs.2023.1159901
+[2025-11-06T09:17:09.503Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:09.503Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:09.503Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:09.503Z] 
+[2025-11-06T09:17:11.504Z] [17/52] Row 18: Temperature-based phenology model to predict the development...
+[2025-11-06T09:17:11.504Z]   DOI: 10.1016/j.jtherbio.2021.102877
+[2025-11-06T09:17:11.505Z]   Trying CrossRef API: https://api.crossref.org/works/10.1016/j.jtherbio.2021.102877
+[2025-11-06T09:17:11.507Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:11.507Z]   Trying direct access: https://doi.org/10.1016/j.jtherbio.2021.102877
+[2025-11-06T09:17:11.509Z]   Trying direct access: https://doi.org/10.1016/j.jtherbio.2021.102877
+[2025-11-06T09:17:11.511Z]   Trying direct access: https://doi.org/10.1016/j.jtherbio.2021.102877
+[2025-11-06T09:17:11.513Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:11.513Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:11.513Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:11.514Z] 
+[2025-11-06T09:17:13.514Z] [18/52] Row 19: Upper canopy tree crown architecture and its implications fo...
+[2025-11-06T09:17:13.515Z]   DOI: 10.1016/j.tfp.2021.100100
+[2025-11-06T09:17:13.515Z]   Trying CrossRef API: https://api.crossref.org/works/10.1016/j.tfp.2021.100100
+[2025-11-06T09:17:13.518Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:13.518Z]   Trying direct access: https://doi.org/10.1016/j.tfp.2021.100100
+[2025-11-06T09:17:13.520Z]   Trying direct access: https://doi.org/10.1016/j.tfp.2021.100100
+[2025-11-06T09:17:13.522Z]   Trying direct access: https://doi.org/10.1016/j.tfp.2021.100100
+[2025-11-06T09:17:13.524Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:13.524Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:13.524Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:13.525Z] 
+[2025-11-06T09:17:15.525Z] [19/52] Row 20: Status of Integrated Soil Fertility Management (ISFM) in Sou...
+[2025-11-06T09:17:15.526Z]   DOI: 10.18488/journal.70/2017.4.2/70.2.28.44
+[2025-11-06T09:17:15.526Z]   Trying CrossRef API: https://api.crossref.org/works/10.18488/journal.70/2017.4.2/70.2.28.44
+[2025-11-06T09:17:15.529Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:15.529Z]   Trying direct access: https://doi.org/10.18488/journal.70/2017.4.2/70.2.28.44
+[2025-11-06T09:17:15.531Z]   Trying direct access: https://doi.org/10.18488/journal.70/2017.4.2/70.2.28.44
+[2025-11-06T09:17:15.533Z]   Trying direct access: https://doi.org/10.18488/journal.70/2017.4.2/70.2.28.44
+[2025-11-06T09:17:15.534Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:15.535Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:15.535Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:15.535Z] 
+[2025-11-06T09:17:17.535Z] [20/52] Row 21: Willingness to pay for weather index-based insurance in semi...
+[2025-11-06T09:17:17.535Z]   DOI: 10.1080/14693062.2020.1745742
+[2025-11-06T09:17:17.536Z]   Trying CrossRef API: https://api.crossref.org/works/10.1080/14693062.2020.1745742
+[2025-11-06T09:17:17.540Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:17.540Z]   Trying direct access: https://doi.org/10.1080/14693062.2020.1745742
+[2025-11-06T09:17:17.542Z]   Trying direct access: https://doi.org/10.1080/14693062.2020.1745742
+[2025-11-06T09:17:17.544Z]   Trying direct access: https://doi.org/10.1080/14693062.2020.1745742
+[2025-11-06T09:17:17.545Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:17.546Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:17.546Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:17.546Z] 
+[2025-11-06T09:17:17.621Z] ━━━ PROGRESS SAVED ━━━
+[2025-11-06T09:17:17.621Z]   Processed: 20/52
+[2025-11-06T09:17:17.622Z]   Newly populated: 0
+[2025-11-06T09:17:17.622Z]   Current completion: 0/154 (0%)
+[2025-11-06T09:17:17.622Z]   CrossRef successes: 0
+[2025-11-06T09:17:17.622Z]   Website scraping successes: 0
+[2025-11-06T09:17:17.623Z] 
+[2025-11-06T09:17:19.624Z] [21/52] Row 22: Understanding the response of sorghum cultivars to nitrogen ...
+[2025-11-06T09:17:19.625Z]   DOI: 10.1080/01904167.2020.1711939
+[2025-11-06T09:17:19.625Z]   Trying CrossRef API: https://api.crossref.org/works/10.1080/01904167.2020.1711939
+[2025-11-06T09:17:19.628Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:19.628Z]   Trying direct access: https://doi.org/10.1080/01904167.2020.1711939
+[2025-11-06T09:17:19.630Z]   Trying direct access: https://doi.org/10.1080/01904167.2020.1711939
+[2025-11-06T09:17:19.632Z]   Trying direct access: https://doi.org/10.1080/01904167.2020.1711939
+[2025-11-06T09:17:19.634Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:19.634Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:19.634Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:19.635Z] 
+[2025-11-06T09:17:21.636Z] [22/52] Row 23: Adoption of agronomic practices and their impact on crop yie...
+[2025-11-06T09:17:21.637Z]   DOI: 10.1111/1477-9552.12617
+[2025-11-06T09:17:21.637Z]   Trying CrossRef API: https://api.crossref.org/works/10.1111/1477-9552.12617
+[2025-11-06T09:17:21.641Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:21.642Z]   Trying direct access: https://doi.org/10.1111/1477-9552.12617
+[2025-11-06T09:17:21.644Z]   Trying direct access: https://doi.org/10.1111/1477-9552.12617
+[2025-11-06T09:17:21.646Z]   Trying direct access: https://doi.org/10.1111/1477-9552.12617
+[2025-11-06T09:17:21.648Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:21.648Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:21.648Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:21.648Z] 
+[2025-11-06T09:17:23.650Z] [23/52] Row 24: Can sub-Saharan Africa feed itself?...
+[2025-11-06T09:17:23.651Z]   DOI: 10.1073/pnas.1610359113
+[2025-11-06T09:17:23.651Z]   Trying CrossRef API: https://api.crossref.org/works/10.1073/pnas.1610359113
+[2025-11-06T09:17:23.654Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:23.654Z]   Trying direct access: https://doi.org/10.1073/pnas.1610359113
+[2025-11-06T09:17:23.656Z]   Trying direct access: https://doi.org/10.1073/pnas.1610359113
+[2025-11-06T09:17:23.658Z]   Trying direct access: https://doi.org/10.1073/pnas.1610359113
+[2025-11-06T09:17:23.660Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:23.660Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:23.661Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:23.661Z] 
+[2025-11-06T09:17:25.661Z] [24/52] Row 25: Analysis of adoption of conservation agriculture practices i...
+[2025-11-06T09:17:25.662Z]   DOI: 10.3389/fsufs.2023.1151876
+[2025-11-06T09:17:25.662Z]   Trying CrossRef API: https://api.crossref.org/works/10.3389/fsufs.2023.1151876
+[2025-11-06T09:17:25.664Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:25.665Z]   Trying direct access: https://doi.org/10.3389/fsufs.2023.1151876
+[2025-11-06T09:17:25.666Z]   Trying direct access: https://doi.org/10.3389/fsufs.2023.1151876
+[2025-11-06T09:17:25.668Z]   Trying direct access: https://doi.org/10.3389/fsufs.2023.1151876
+[2025-11-06T09:17:25.670Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:25.670Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:25.670Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:25.670Z] 
+[2025-11-06T09:17:27.671Z] [25/52] Row 26: Assessment of climate change impact and adaptation strategy ...
+[2025-11-06T09:17:27.671Z]   DOI: 10.1007/s10113-024-02313-5
+[2025-11-06T09:17:27.671Z]   Trying CrossRef API: https://api.crossref.org/works/10.1007/s10113-024-02313-5
+[2025-11-06T09:17:27.675Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:27.675Z]   Trying direct access: https://doi.org/10.1007/s10113-024-02313-5
+[2025-11-06T09:17:27.677Z]   Trying direct access: https://doi.org/10.1007/s10113-024-02313-5
+[2025-11-06T09:17:27.679Z]   Trying direct access: https://doi.org/10.1007/s10113-024-02313-5
+[2025-11-06T09:17:27.681Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:27.681Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:27.681Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:27.681Z] 
+[2025-11-06T09:17:29.682Z] [26/52] Row 27: Assessing the use of a drought-tolerant variety as adaptatio...
+[2025-11-06T09:17:29.683Z]   DOI: 10.1038/s41598-021-88277-6
+[2025-11-06T09:17:29.683Z]   Trying CrossRef API: https://api.crossref.org/works/10.1038/s41598-021-88277-6
+[2025-11-06T09:17:29.685Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:29.686Z]   Trying direct access: https://doi.org/10.1038/s41598-021-88277-6
+[2025-11-06T09:17:29.688Z]   Trying direct access: https://doi.org/10.1038/s41598-021-88277-6
+[2025-11-06T09:17:29.689Z]   Trying direct access: https://doi.org/10.1038/s41598-021-88277-6
+[2025-11-06T09:17:29.691Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:29.691Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:29.692Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:29.692Z] 
+[2025-11-06T09:17:31.692Z] [27/52] Row 28: Evaluating the use of nitrogen and phosphorous fertilization...
+[2025-11-06T09:17:31.693Z]   DOI: 10.1007/s00704-016-1931-6
+[2025-11-06T09:17:31.693Z]   Trying CrossRef API: https://api.crossref.org/works/10.1007/s00704-016-1931-6
+[2025-11-06T09:17:31.696Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:31.696Z]   Trying direct access: https://doi.org/10.1007/s00704-016-1931-6
+[2025-11-06T09:17:31.698Z]   Trying direct access: https://doi.org/10.1007/s00704-016-1931-6
+[2025-11-06T09:17:31.700Z]   Trying direct access: https://doi.org/10.1007/s00704-016-1931-6
+[2025-11-06T09:17:31.702Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:31.702Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:31.702Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:31.702Z] 
+[2025-11-06T09:17:33.703Z] [28/52] Row 29: Climate change impacts and potential benefits of heat-tolera...
+[2025-11-06T09:17:33.704Z]   DOI: 10.1016/j.gsd.2019.100218
+[2025-11-06T09:17:33.704Z]   Trying CrossRef API: https://api.crossref.org/works/10.1016/j.gsd.2019.100218
+[2025-11-06T09:17:33.707Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:33.707Z]   Trying direct access: https://doi.org/10.1016/j.gsd.2019.100218
+[2025-11-06T09:17:33.709Z]   Trying direct access: https://doi.org/10.1016/j.gsd.2019.100218
+[2025-11-06T09:17:33.711Z]   Trying direct access: https://doi.org/10.1016/j.gsd.2019.100218
+[2025-11-06T09:17:33.712Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:33.713Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:33.713Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:33.713Z] 
+[2025-11-06T09:17:35.713Z] [29/52] Row 30: An assessment of groundwater recharge estimation techniques ...
+[2025-11-06T09:17:35.714Z]   DOI: 10.1088/1748-9326/aac092
+[2025-11-06T09:17:35.714Z]   Trying CrossRef API: https://api.crossref.org/works/10.1088/1748-9326/aac092
+[2025-11-06T09:17:35.717Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:35.717Z]   Trying direct access: https://doi.org/10.1088/1748-9326/aac092
+[2025-11-06T09:17:35.719Z]   Trying direct access: https://doi.org/10.1088/1748-9326/aac092
+[2025-11-06T09:17:35.720Z]   Trying direct access: https://doi.org/10.1088/1748-9326/aac092
+[2025-11-06T09:17:35.722Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:35.722Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:35.722Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:35.723Z] 
+[2025-11-06T09:17:37.723Z] [30/52] Row 31: Beyond the plot: Technology extrapolation domains for scalin...
+[2025-11-06T09:17:37.724Z]   DOI: 10.1016/j.pbi.2020.05.002
+[2025-11-06T09:17:37.724Z]   Trying CrossRef API: https://api.crossref.org/works/10.1016/j.pbi.2020.05.002
+[2025-11-06T09:17:37.726Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:37.726Z]   Trying direct access: https://doi.org/10.1016/j.pbi.2020.05.002
+[2025-11-06T09:17:37.728Z]   Trying direct access: https://doi.org/10.1016/j.pbi.2020.05.002
+[2025-11-06T09:17:37.730Z]   Trying direct access: https://doi.org/10.1016/j.pbi.2020.05.002
+[2025-11-06T09:17:37.732Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:37.732Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:37.732Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:37.732Z] 
+[2025-11-06T09:17:37.802Z] ━━━ PROGRESS SAVED ━━━
+[2025-11-06T09:17:37.803Z]   Processed: 30/52
+[2025-11-06T09:17:37.803Z]   Newly populated: 0
+[2025-11-06T09:17:37.803Z]   Current completion: 0/154 (0%)
+[2025-11-06T09:17:37.803Z]   CrossRef successes: 0
+[2025-11-06T09:17:37.803Z]   Website scraping successes: 0
+[2025-11-06T09:17:37.803Z] 
+[2025-11-06T09:17:39.804Z] [31/52] Row 32: Developing the role of legumes in West Africa under climate ...
+[2025-11-06T09:17:39.805Z]   DOI: 10.3389/fpls.2021.798993
+[2025-11-06T09:17:39.805Z]   Trying CrossRef API: https://api.crossref.org/works/10.3389/fpls.2021.798993
+[2025-11-06T09:17:39.808Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:39.808Z]   Trying direct access: https://doi.org/10.3389/fpls.2021.798993
+[2025-11-06T09:17:39.810Z]   Trying direct access: https://doi.org/10.3389/fpls.2021.798993
+[2025-11-06T09:17:39.812Z]   Trying direct access: https://doi.org/10.3389/fpls.2021.798993
+[2025-11-06T09:17:39.813Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:39.814Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:39.814Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:39.814Z] 
+[2025-11-06T09:17:41.814Z] [32/52] Row 33: Breeding Potentials of Bambara Groundnut for Food and Nutrit...
+[2025-11-06T09:17:41.814Z]   DOI: 10.1111/ejss.70069
+[2025-11-06T09:17:41.815Z]   Trying CrossRef API: https://api.crossref.org/works/10.1111/ejss.70069
+[2025-11-06T09:17:41.817Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:41.818Z]   Trying direct access: https://doi.org/10.1111/ejss.70069
+[2025-11-06T09:17:41.819Z]   Trying direct access: https://doi.org/10.1111/ejss.70069
+[2025-11-06T09:17:41.821Z]   Trying direct access: https://doi.org/10.1111/ejss.70069
+[2025-11-06T09:17:41.823Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:41.823Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:41.823Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:41.824Z] 
+[2025-11-06T09:17:43.824Z] [33/52] Row 34: Assessment of Genetic Diversity for Drought, Heat and Combin...
+[2025-11-06T09:17:43.824Z]   DOI: 10.1016/j.scitotenv.2023.165657
+[2025-11-06T09:17:43.825Z]   Trying CrossRef API: https://api.crossref.org/works/10.1016/j.scitotenv.2023.165657
+[2025-11-06T09:17:43.827Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:43.828Z]   Trying direct access: https://doi.org/10.1016/j.scitotenv.2023.165657
+[2025-11-06T09:17:43.830Z]   Trying direct access: https://doi.org/10.1016/j.scitotenv.2023.165657
+[2025-11-06T09:17:43.831Z]   Trying direct access: https://doi.org/10.1016/j.scitotenv.2023.165657
+[2025-11-06T09:17:43.834Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:43.834Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:43.834Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:43.834Z] 
+[2025-11-06T09:17:45.836Z] [34/52] Row 35: Assessing the Potential of Extra-Early Maturing Landraces fo...
+[2025-11-06T09:17:45.836Z]   DOI: 10.1007/s00425-019-03191-6
+[2025-11-06T09:17:45.836Z]   Trying CrossRef API: https://api.crossref.org/works/10.1007/s00425-019-03191-6
+[2025-11-06T09:17:45.839Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:45.839Z]   Trying direct access: https://doi.org/10.1007/s00425-019-03191-6
+[2025-11-06T09:17:45.841Z]   Trying direct access: https://doi.org/10.1007/s00425-019-03191-6
+[2025-11-06T09:17:45.842Z]   Trying direct access: https://doi.org/10.1007/s00425-019-03191-6
+[2025-11-06T09:17:45.844Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:45.844Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:45.845Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:45.845Z] 
+[2025-11-06T09:17:47.846Z] [35/52] Row 36: Assessing the skill of gridded satellite and reanalysis prec...
+[2025-11-06T09:17:47.846Z]   DOI: 10.1007/s10457-023-00950-z
+[2025-11-06T09:17:47.847Z]   Trying CrossRef API: https://api.crossref.org/works/10.1007/s10457-023-00950-z
+[2025-11-06T09:17:47.849Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:47.850Z]   Trying direct access: https://doi.org/10.1007/s10457-023-00950-z
+[2025-11-06T09:17:47.852Z]   Trying direct access: https://doi.org/10.1007/s10457-023-00950-z
+[2025-11-06T09:17:47.853Z]   Trying direct access: https://doi.org/10.1007/s10457-023-00950-z
+[2025-11-06T09:17:47.856Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:47.856Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:47.856Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:47.856Z] 
+[2025-11-06T09:17:49.858Z] [36/52] Row 37: Allometric equations, wood density and partitioning of above...
+[2025-11-06T09:17:49.858Z]   DOI: 10.5539/sar.v8n2p68
+[2025-11-06T09:17:49.858Z]   Trying CrossRef API: https://api.crossref.org/works/10.5539/sar.v8n2p68
+[2025-11-06T09:17:49.861Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:49.861Z]   Trying direct access: https://doi.org/10.5539/sar.v8n2p68
+[2025-11-06T09:17:49.863Z]   Trying direct access: https://doi.org/10.5539/sar.v8n2p68
+[2025-11-06T09:17:49.865Z]   Trying direct access: https://doi.org/10.5539/sar.v8n2p68
+[2025-11-06T09:17:49.866Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:49.866Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:49.867Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:49.867Z] 
+[2025-11-06T09:17:51.868Z] [37/52] Row 38: Editorial: Modelling approaches for climate variability and ...
+[2025-11-06T09:17:51.868Z]   DOI: 10.3389/fpls.2015.00563
+[2025-11-06T09:17:51.869Z]   Trying CrossRef API: https://api.crossref.org/works/10.3389/fpls.2015.00563
+[2025-11-06T09:17:51.871Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:51.872Z]   Trying direct access: https://doi.org/10.3389/fpls.2015.00563
+[2025-11-06T09:17:51.873Z]   Trying direct access: https://doi.org/10.3389/fpls.2015.00563
+[2025-11-06T09:17:51.875Z]   Trying direct access: https://doi.org/10.3389/fpls.2015.00563
+[2025-11-06T09:17:51.877Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:51.877Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:51.877Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:51.877Z] 
+[2025-11-06T09:17:53.878Z] [38/52] Row 39: Current Problems Leading to Soil Degradation in Africa: Rais...
+[2025-11-06T09:17:53.879Z]   DOI: 10.1094/PDIS-07-22-1672-RE
+[2025-11-06T09:17:53.879Z]   Trying CrossRef API: https://api.crossref.org/works/10.1094/PDIS-07-22-1672-RE
+[2025-11-06T09:17:53.882Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:53.882Z]   Trying direct access: https://doi.org/10.1094/PDIS-07-22-1672-RE
+[2025-11-06T09:17:53.884Z]   Trying direct access: https://doi.org/10.1094/PDIS-07-22-1672-RE
+[2025-11-06T09:17:53.886Z]   Trying direct access: https://doi.org/10.1094/PDIS-07-22-1672-RE
+[2025-11-06T09:17:53.888Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:53.888Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:53.888Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:53.888Z] 
+[2025-11-06T09:17:55.889Z] [39/52] Row 40: Combined effects of shade and drought on physiology, growth,...
+[2025-11-06T09:17:55.889Z]   DOI: 10.1080/17565529.2023.2178840
+[2025-11-06T09:17:55.889Z]   Trying CrossRef API: https://api.crossref.org/works/10.1080/17565529.2023.2178840
+[2025-11-06T09:17:55.892Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:55.892Z]   Trying direct access: https://doi.org/10.1080/17565529.2023.2178840
+[2025-11-06T09:17:55.894Z]   Trying direct access: https://doi.org/10.1080/17565529.2023.2178840
+[2025-11-06T09:17:55.895Z]   Trying direct access: https://doi.org/10.1080/17565529.2023.2178840
+[2025-11-06T09:17:55.897Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:55.897Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:55.897Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:55.898Z] 
+[2025-11-06T09:17:57.898Z] [40/52] Row 41: Bambara groundnut: an exemplar underutilised legume for resi...
+[2025-11-06T09:17:57.899Z]   DOI: 10.5897/JSSEM15.0502
+[2025-11-06T09:17:57.899Z]   Trying CrossRef API: https://api.crossref.org/works/10.5897/JSSEM15.0502
+[2025-11-06T09:17:57.901Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:57.902Z]   Trying direct access: https://doi.org/10.5897/JSSEM15.0502
+[2025-11-06T09:17:57.904Z]   Trying direct access: https://doi.org/10.5897/JSSEM15.0502
+[2025-11-06T09:17:57.906Z]   Trying direct access: https://doi.org/10.5897/JSSEM15.0502
+[2025-11-06T09:17:57.908Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:57.908Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:57.908Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:57.908Z] 
+[2025-11-06T09:17:57.971Z] ━━━ PROGRESS SAVED ━━━
+[2025-11-06T09:17:57.971Z]   Processed: 40/52
+[2025-11-06T09:17:57.972Z]   Newly populated: 0
+[2025-11-06T09:17:57.972Z]   Current completion: 0/154 (0%)
+[2025-11-06T09:17:57.972Z]   CrossRef successes: 0
+[2025-11-06T09:17:57.972Z]   Website scraping successes: 0
+[2025-11-06T09:17:57.972Z] 
+[2025-11-06T09:17:59.973Z] [41/52] Row 42: Do farmersâ€™ perceptions and socio-economic factors drive c...
+[2025-11-06T09:17:59.974Z]   DOI: 10.1007/s10745-017-9899-0
+[2025-11-06T09:17:59.974Z]   Trying CrossRef API: https://api.crossref.org/works/10.1007/s10745-017-9899-0
+[2025-11-06T09:17:59.977Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:17:59.978Z]   Trying direct access: https://doi.org/10.1007/s10745-017-9899-0
+[2025-11-06T09:17:59.980Z]   Trying direct access: https://doi.org/10.1007/s10745-017-9899-0
+[2025-11-06T09:17:59.982Z]   Trying direct access: https://doi.org/10.1007/s10745-017-9899-0
+[2025-11-06T09:17:59.983Z]   ✗ Abstract: Not found
+[2025-11-06T09:17:59.984Z]   ✗ Keywords: Not found
+[2025-11-06T09:17:59.984Z]   ✗ FAILED: No new data found
+[2025-11-06T09:17:59.984Z] 
+[2025-11-06T09:18:01.984Z] [42/52] Row 43: Climate Change and Cereal Production Evolution Trend in the ...
+[2025-11-06T09:18:01.985Z]   DOI: 10.1016/j.fcr.2016.06.010
+[2025-11-06T09:18:01.985Z]   Trying CrossRef API: https://api.crossref.org/works/10.1016/j.fcr.2016.06.010
+[2025-11-06T09:18:01.988Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:18:01.988Z]   Trying direct access: https://doi.org/10.1016/j.fcr.2016.06.010
+[2025-11-06T09:18:01.989Z]   Trying direct access: https://doi.org/10.1016/j.fcr.2016.06.010
+[2025-11-06T09:18:01.991Z]   Trying direct access: https://doi.org/10.1016/j.fcr.2016.06.010
+[2025-11-06T09:18:01.993Z]   ✗ Abstract: Not found
+[2025-11-06T09:18:01.993Z]   ✗ Keywords: Not found
+[2025-11-06T09:18:01.994Z]   ✗ FAILED: No new data found
+[2025-11-06T09:18:01.994Z] 
+[2025-11-06T09:18:03.995Z] [43/52] Row 44: Application of genomics-assisted breeding for generation of ...
+[2025-11-06T09:18:03.996Z]   DOI: 10.1016/j.scitotenv.2017.08.041
+[2025-11-06T09:18:03.996Z]   Trying CrossRef API: https://api.crossref.org/works/10.1016/j.scitotenv.2017.08.041
+[2025-11-06T09:18:03.999Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:18:03.999Z]   Trying direct access: https://doi.org/10.1016/j.scitotenv.2017.08.041
+[2025-11-06T09:18:04.001Z]   Trying direct access: https://doi.org/10.1016/j.scitotenv.2017.08.041
+[2025-11-06T09:18:04.003Z]   Trying direct access: https://doi.org/10.1016/j.scitotenv.2017.08.041
+[2025-11-06T09:18:04.005Z]   ✗ Abstract: Not found
+[2025-11-06T09:18:04.006Z]   ✗ Keywords: Not found
+[2025-11-06T09:18:04.006Z]   ✗ FAILED: No new data found
+[2025-11-06T09:18:04.006Z] 
+[2025-11-06T09:18:06.006Z] [44/52] Row 45: Climate-Related Risk Modeling of Banana Xanthomonas Wilt Dis...
+[2025-11-06T09:18:06.006Z]   DOI: 10.1371/journal.pone.0255326
+[2025-11-06T09:18:06.007Z]   Trying CrossRef API: https://api.crossref.org/works/10.1371/journal.pone.0255326
+[2025-11-06T09:18:06.009Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:18:06.010Z]   Trying direct access: https://doi.org/10.1371/journal.pone.0255326
+[2025-11-06T09:18:06.012Z]   Trying direct access: https://doi.org/10.1371/journal.pone.0255326
+[2025-11-06T09:18:06.013Z]   Trying direct access: https://doi.org/10.1371/journal.pone.0255326
+[2025-11-06T09:18:06.015Z]   ✗ Abstract: Not found
+[2025-11-06T09:18:06.015Z]   ✗ Keywords: Not found
+[2025-11-06T09:18:06.015Z]   ✗ FAILED: No new data found
+[2025-11-06T09:18:06.015Z] 
+[2025-11-06T09:18:08.016Z] [45/52] Row 46: Beyond average: are the yield and income impacts of adopting...
+[2025-11-06T09:18:08.016Z]   DOI: 10.1093/plcell/koac303
+[2025-11-06T09:18:08.017Z]   Trying CrossRef API: https://api.crossref.org/works/10.1093/plcell/koac303
+[2025-11-06T09:18:08.020Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:18:08.020Z]   Trying direct access: https://doi.org/10.1093/plcell/koac303
+[2025-11-06T09:18:08.022Z]   Trying direct access: https://doi.org/10.1093/plcell/koac303
+[2025-11-06T09:18:08.024Z]   Trying direct access: https://doi.org/10.1093/plcell/koac303
+[2025-11-06T09:18:08.026Z]   ✗ Abstract: Not found
+[2025-11-06T09:18:08.026Z]   ✗ Keywords: Not found
+[2025-11-06T09:18:08.026Z]   ✗ FAILED: No new data found
+[2025-11-06T09:18:08.026Z] 
+[2025-11-06T09:18:10.027Z] [46/52] Row 47: Applicability of conservation agriculture for climate change...
+[2025-11-06T09:18:10.027Z]   DOI: 10.1088/1748-9326/ac61c8
+[2025-11-06T09:18:10.028Z]   Trying CrossRef API: https://api.crossref.org/works/10.1088/1748-9326/ac61c8
+[2025-11-06T09:18:10.031Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:18:10.031Z]   Trying direct access: https://doi.org/10.1088/1748-9326/ac61c8
+[2025-11-06T09:18:10.033Z]   Trying direct access: https://doi.org/10.1088/1748-9326/ac61c8
+[2025-11-06T09:18:10.036Z]   Trying direct access: https://doi.org/10.1088/1748-9326/ac61c8
+[2025-11-06T09:18:10.038Z]   ✗ Abstract: Not found
+[2025-11-06T09:18:10.038Z]   ✗ Keywords: Not found
+[2025-11-06T09:18:10.038Z]   ✗ FAILED: No new data found
+[2025-11-06T09:18:10.038Z] 
+[2025-11-06T09:18:12.039Z] [47/52] Row 48: Evaluating Farmersâ€™ Knowledge of Shade Trees in Different ...
+[2025-11-06T09:18:12.040Z]   DOI: 10.1007/s00267-018-1048-z
+[2025-11-06T09:18:12.040Z]   Trying CrossRef API: https://api.crossref.org/works/10.1007/s00267-018-1048-z
+[2025-11-06T09:18:12.043Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:18:12.044Z]   Trying direct access: https://doi.org/10.1007/s00267-018-1048-z
+[2025-11-06T09:18:12.046Z]   Trying direct access: https://doi.org/10.1007/s00267-018-1048-z
+[2025-11-06T09:18:12.048Z]   Trying direct access: https://doi.org/10.1007/s00267-018-1048-z
+[2025-11-06T09:18:12.050Z]   ✗ Abstract: Not found
+[2025-11-06T09:18:12.050Z]   ✗ Keywords: Not found
+[2025-11-06T09:18:12.050Z]   ✗ FAILED: No new data found
+[2025-11-06T09:18:12.050Z] 
+[2025-11-06T09:18:14.051Z] [48/52] Row 49: Baseline simulation for global wheat production with CIMMYT ...
+[2025-11-06T09:18:14.051Z]   DOI: 10.1111/agec.12363
+[2025-11-06T09:18:14.052Z]   Trying CrossRef API: https://api.crossref.org/works/10.1111/agec.12363
+[2025-11-06T09:18:14.055Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:18:14.055Z]   Trying direct access: https://doi.org/10.1111/agec.12363
+[2025-11-06T09:18:14.059Z]   Trying direct access: https://doi.org/10.1111/agec.12363
+[2025-11-06T09:18:14.061Z]   Trying direct access: https://doi.org/10.1111/agec.12363
+[2025-11-06T09:18:14.063Z]   ✗ Abstract: Not found
+[2025-11-06T09:18:14.063Z]   ✗ Keywords: Not found
+[2025-11-06T09:18:14.063Z]   ✗ FAILED: No new data found
+[2025-11-06T09:18:14.063Z] 
+[2025-11-06T09:18:16.064Z] [49/52] Row 50: Climate warming causes declines in crop yields and lowers sc...
+[2025-11-06T09:18:16.065Z]   DOI: 10.1002/ece3.3668
+[2025-11-06T09:18:16.065Z]   Trying CrossRef API: https://api.crossref.org/works/10.1002/ece3.3668
+[2025-11-06T09:18:16.069Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:18:16.070Z]   Trying direct access: https://doi.org/10.1002/ece3.3668
+[2025-11-06T09:18:16.072Z]   Trying direct access: https://doi.org/10.1002/ece3.3668
+[2025-11-06T09:18:16.074Z]   Trying direct access: https://doi.org/10.1002/ece3.3668
+[2025-11-06T09:18:16.076Z]   ✗ Abstract: Not found
+[2025-11-06T09:18:16.076Z]   ✗ Keywords: Not found
+[2025-11-06T09:18:16.076Z]   ✗ FAILED: No new data found
+[2025-11-06T09:18:16.077Z] 
+[2025-11-06T09:18:18.077Z] [50/52] Row 51: Collection, genotyping and virus elimination of cassava land...
+[2025-11-06T09:18:18.078Z]   DOI: 10.3390/agriculture12111853
+[2025-11-06T09:18:18.078Z]   Trying CrossRef API: https://api.crossref.org/works/10.3390/agriculture12111853
+[2025-11-06T09:18:18.081Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:18:18.081Z]   Trying direct access: https://doi.org/10.3390/agriculture12111853
+[2025-11-06T09:18:18.084Z]   Trying direct access: https://doi.org/10.3390/agriculture12111853
+[2025-11-06T09:18:18.086Z]   Trying direct access: https://doi.org/10.3390/agriculture12111853
+[2025-11-06T09:18:18.088Z]   ✗ Abstract: Not found
+[2025-11-06T09:18:18.088Z]   ✗ Keywords: Not found
+[2025-11-06T09:18:18.088Z]   ✗ FAILED: No new data found
+[2025-11-06T09:18:18.088Z] 
+[2025-11-06T09:18:18.161Z] ━━━ PROGRESS SAVED ━━━
+[2025-11-06T09:18:18.161Z]   Processed: 50/52
+[2025-11-06T09:18:18.162Z]   Newly populated: 0
+[2025-11-06T09:18:18.162Z]   Current completion: 0/154 (0%)
+[2025-11-06T09:18:18.162Z]   CrossRef successes: 0
+[2025-11-06T09:18:18.162Z]   Website scraping successes: 0
+[2025-11-06T09:18:18.162Z] 
+[2025-11-06T09:18:20.163Z] [51/52] Row 52: Systems biology for sustainable agriculture...
+[2025-11-06T09:18:20.164Z]   DOI: 10.1016/j.eja.2024.127137
+[2025-11-06T09:18:20.164Z]   Trying CrossRef API: https://api.crossref.org/works/10.1016/j.eja.2024.127137
+[2025-11-06T09:18:20.167Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:18:20.168Z]   Trying direct access: https://doi.org/10.1016/j.eja.2024.127137
+[2025-11-06T09:18:20.170Z]   Trying direct access: https://doi.org/10.1016/j.eja.2024.127137
+[2025-11-06T09:18:20.172Z]   Trying direct access: https://doi.org/10.1016/j.eja.2024.127137
+[2025-11-06T09:18:20.175Z]   ✗ Abstract: Not found
+[2025-11-06T09:18:20.175Z]   ✗ Keywords: Not found
+[2025-11-06T09:18:20.175Z]   ✗ FAILED: No new data found
+[2025-11-06T09:18:20.175Z] 
+[2025-11-06T09:18:22.176Z] [52/52] Row 111: Are digital services the right solution for empowering small...
+[2025-11-06T09:18:22.176Z]   DOI: 10.1371/journal.pstr.0000052
+[2025-11-06T09:18:22.177Z]   Trying CrossRef API: https://api.crossref.org/works/10.1371/journal.pstr.0000052
+[2025-11-06T09:18:22.179Z]   CrossRef API error: Request failed with status code 403
+[2025-11-06T09:18:22.179Z]   Trying direct access: https://doi.org/10.1371/journal.pstr.0000052
+[2025-11-06T09:18:22.181Z]   Trying direct access: https://doi.org/10.1371/journal.pstr.0000052
+[2025-11-06T09:18:22.183Z]   Trying direct access: https://doi.org/10.1371/journal.pstr.0000052
+[2025-11-06T09:18:22.185Z]   ✗ Abstract: Not found
+[2025-11-06T09:18:22.185Z]   ✗ Keywords: Not found
+[2025-11-06T09:18:22.185Z]   ✗ FAILED: No new data found
+[2025-11-06T09:18:22.185Z] 
+[2025-11-06T09:18:22.271Z] ================================================================================
+[2025-11-06T09:18:22.271Z] FINAL PROCESSING COMPLETE
+[2025-11-06T09:18:22.272Z] ================================================================================
+[2025-11-06T09:18:22.272Z] 
+[2025-11-06T09:18:22.272Z] FINAL STATISTICS:
+[2025-11-06T09:18:22.272Z]   Total publications in dataset: 154
+[2025-11-06T09:18:22.272Z]   Already complete at start: 0
+[2025-11-06T09:18:22.272Z]   Missing DOI (cannot process): 102
+[2025-11-06T09:18:22.272Z]   Attempted to process: 52
+[2025-11-06T09:18:22.272Z]   Successfully populated: 0
+[2025-11-06T09:18:22.273Z]   Failed to populate: 52
+[2025-11-06T09:18:22.273Z] 
+[2025-11-06T09:18:22.273Z] SUCCESS BREAKDOWN:
+[2025-11-06T09:18:22.273Z]   CrossRef API successes: 0
+[2025-11-06T09:18:22.273Z]   Website scraping successes: 0
+[2025-11-06T09:18:22.273Z] 
+[2025-11-06T09:18:22.273Z] FINAL COMPLETION: 0/154 (0%)
+[2025-11-06T09:18:22.273Z]   Complete with DOI: 0
+[2025-11-06T09:18:22.273Z]   Missing DOI (cannot complete): 102
+[2025-11-06T09:18:22.274Z]   Remaining incomplete: 154
+[2025-11-06T09:18:22.274Z]   Processing time: 1.7 minutes
+[2025-11-06T09:18:22.274Z] 
+[2025-11-06T09:18:22.274Z] ✓ Output saved to: IITA climate publications - FINAL.xlsx
+[2025-11-06T09:18:22.274Z] ✓ Log saved to: final_processing_log.txt
+[2025-11-06T09:18:22.274Z] 
+[2025-11-06T09:18:22.274Z] ================================================================================
+[2025-11-06T09:18:22.274Z] Processing complete! Review the log file for detailed results.
+[2025-11-06T09:18:22.274Z] ================================================================================

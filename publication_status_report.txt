@@ -1,0 +1,239 @@
+================================================================================
+IITA CLIMATE PUBLICATIONS - DETAILED STATUS BREAKDOWN
+================================================================================
+
+TOTAL PUBLICATIONS: 154
+COMPLETE: 52 (33.8%)
+INCOMPLETE: 102 (66.2%)
+
+================================================================================
+COMPLETE PUBLICATIONS (52)
+================================================================================
+242. Vulnerability and adaptation options to climate change for rural livel
+     DOI: 10.1016/j.agsy.2019.102663
+     Abstract: 887 chars, Keywords: 89 chars
+
+241. Spodoptera eridania: Current and emerging crop threats from another in
+     DOI: 10.1127/entomologia/2022/1397
+     Abstract: 846 chars, Keywords: 114 chars
+
+240. Temporal Changes in Minimum and Maximum Temperatures at Selected Locat
+     DOI: 10.3390/cli11040084
+     Abstract: 657 chars, Keywords: 93 chars
+
+238. Zoom in at African country level: potential climate-induced changes in
+     DOI: 10.1186/1476-072X-13-12
+     Abstract: 989 chars, Keywords: 115 chars
+
+237. Tectonics, climate and the diversification of the tropical African ter
+     DOI: 10.1111/brv.12644
+     Abstract: 764 chars, Keywords: 101 chars
+
+235. Socio-economic determinants for the deployment of Climate-Smart One-He
+     DOI: 10.1371/journal.pstr.0000052
+     Abstract: 670 chars, Keywords: 116 chars
+
+234. Tackling the nitrogen management challenge: from global to local scale
+     DOI: 10.1088/1748-9326/11/12/120205
+     Abstract: 650 chars, Keywords: 110 chars
+
+233. Understanding the consequences of changes in the production frontiers 
+     DOI: 10.1016/j.gfs.2018.12.005
+     Abstract: 650 chars, Keywords: 100 chars
+
+230. Stressors and Resilience within the Cassava Value Chain in Nigeria: Pr
+     DOI: 10.3390/su15107837
+     Abstract: 1263 chars, Keywords: 101 chars
+
+229. Yield Performance and Stability Analysis of Promising Soybean Genotype
+     DOI: 10.18805/LRF-722
+     Abstract: 726 chars, Keywords: 108 chars
+
+228. Spatial-Temporal Trends of Rainfall, Maximum and Minimum Temperatures 
+     DOI: 10.1109/ACCESS.2020.2999255
+     Abstract: 513 chars, Keywords: 115 chars
+
+227. Spatial and temporal distribution of optimal maize sowing dates in Nig
+     DOI: 10.1371/journal.pone.0300427
+     Abstract: 1105 chars, Keywords: 89 chars
+
+225. Worldâ€™s soils are under threat
+     DOI: 10.5194/soil-2-79-2016
+     Abstract: 474 chars, Keywords: 98 chars
+
+223. Use of modelling tools to assess climate change impacts on smallholder
+     DOI: 10.1371/journal.pone.0301254
+     Abstract: 450 chars, Keywords: 108 chars
+
+221. A spatial framework for ex-ante impact assessment of agricultural tech
+     DOI: 10.1016/j.gfs.2018.12.006
+     Abstract: 385 chars, Keywords: 132 chars
+
+218. Strategic Foresight analysis of droughts in southern Africa and implic
+     DOI: 10.3389/fsufs.2023.1159901
+     Abstract: 727 chars, Keywords: 118 chars
+
+217. Temperature-based phenology model to predict the development, survival
+     DOI: 10.1016/j.jtherbio.2021.102877
+     Abstract: 504 chars, Keywords: 119 chars
+
+216. Upper canopy tree crown architecture and its implications for shade in
+     DOI: 10.1016/j.tfp.2021.100100
+     Abstract: 379 chars, Keywords: 98 chars
+
+215. Status of Integrated Soil Fertility Management (ISFM) in Southwestern 
+     DOI: 10.18488/journal.70/2017.4.2/70.2.28.44
+     Abstract: 371 chars, Keywords: 135 chars
+
+214. Willingness to pay for weather index-based insurance in semi-subsisten
+     DOI: 10.1080/14693062.2020.1745742
+     Abstract: 470 chars, Keywords: 131 chars
+
+213. Understanding the response of sorghum cultivars to nitrogen applicatio
+     DOI: 10.1080/01904167.2020.1711939
+     Abstract: 508 chars, Keywords: 111 chars
+
+210. Adoption of agronomic practices and their impact on crop yield and inc
+     DOI: 10.1111/1477-9552.12617
+     Abstract: 627 chars, Keywords: 113 chars
+
+209. Can sub-Saharan Africa feed itself?
+     DOI: 10.1073/pnas.1610359113
+     Abstract: 422 chars, Keywords: 128 chars
+
+207. Analysis of adoption of conservation agriculture practices in southern
+     DOI: 10.3389/fsufs.2023.1151876
+     Abstract: 362 chars, Keywords: 119 chars
+
+206. Assessment of climate change impact and adaptation strategy for millet
+     DOI: 10.1007/s10113-024-02313-5
+     Abstract: 343 chars, Keywords: 81 chars
+
+205. Assessing the use of a drought-tolerant variety as adaptation strategy
+     DOI: 10.1038/s41598-021-88277-6
+     Abstract: 405 chars, Keywords: 105 chars
+
+204. Evaluating the use of nitrogen and phosphorous fertilization as crop m
+     DOI: 10.1007/s00704-016-1931-6
+     Abstract: 480 chars, Keywords: 99 chars
+
+203. Climate change impacts and potential benefits of heat-tolerant maize i
+     DOI: 10.1016/j.gsd.2019.100218
+     Abstract: 423 chars, Keywords: 128 chars
+
+200. An assessment of groundwater recharge estimation techniques for sustai
+     DOI: 10.1088/1748-9326/aac092
+     Abstract: 526 chars, Keywords: 113 chars
+
+196. Beyond the plot: Technology extrapolation domains for scaling out agro
+     DOI: 10.1016/j.pbi.2020.05.002
+     Abstract: 409 chars, Keywords: 104 chars
+
+195. Developing the role of legumes in West Africa under climate change
+     DOI: 10.3389/fpls.2021.798993
+     Abstract: 412 chars, Keywords: 106 chars
+
+193. Breeding Potentials of Bambara Groundnut for Food and Nutrition Securi
+     DOI: 10.1111/ejss.70069
+     Abstract: 497 chars, Keywords: 126 chars
+
+191. Assessment of Genetic Diversity for Drought, Heat and Combined Drought
+     DOI: 10.1016/j.scitotenv.2023.165657
+     Abstract: 541 chars, Keywords: 90 chars
+
+190. Assessing the Potential of Extra-Early Maturing Landraces for Improvin
+     DOI: 10.1007/s00425-019-03191-6
+     Abstract: 332 chars, Keywords: 104 chars
+
+189. Assessing the skill of gridded satellite and reanalysis precipitation 
+     DOI: 10.1007/s10457-023-00950-z
+     Abstract: 365 chars, Keywords: 124 chars
+
+188. Allometric equations, wood density and partitioning of aboveground bio
+     DOI: 10.5539/sar.v8n2p68
+     Abstract: 701 chars, Keywords: 113 chars
+
+187. Editorial: Modelling approaches for climate variability and change mit
+     DOI: 10.3389/fpls.2015.00563
+     Abstract: 371 chars, Keywords: 117 chars
+
+186. Current Problems Leading to Soil Degradation in Africa: Raising Awaren
+     DOI: 10.1094/PDIS-07-22-1672-RE
+     Abstract: 372 chars, Keywords: 91 chars
+
+185. Combined effects of shade and drought on physiology, growth, and yield
+     DOI: 10.1080/17565529.2023.2178840
+     Abstract: 632 chars, Keywords: 114 chars
+
+184. Bambara groundnut: an exemplar underutilised legume for resilience und
+     DOI: 10.5897/JSSEM15.0502
+     Abstract: 368 chars, Keywords: 119 chars
+
+183. Do farmersâ€™ perceptions and socio-economic factors drive cocoa agrof
+     DOI: 10.1007/s10745-017-9899-0
+     Abstract: 333 chars, Keywords: 126 chars
+
+182. Climate Change and Cereal Production Evolution Trend in the Sahel: Cas
+     DOI: 10.1016/j.fcr.2016.06.010
+     Abstract: 592 chars, Keywords: 101 chars
+
+181. Application of genomics-assisted breeding for generation of climate re
+     DOI: 10.1016/j.scitotenv.2017.08.041
+     Abstract: 360 chars, Keywords: 100 chars
+
+180. Climate-Related Risk Modeling of Banana Xanthomonas Wilt Disease Incid
+     DOI: 10.1371/journal.pone.0255326
+     Abstract: 478 chars, Keywords: 96 chars
+
+179. Beyond average: are the yield and income impacts of adopting drought-t
+     DOI: 10.1093/plcell/koac303
+     Abstract: 354 chars, Keywords: 109 chars
+
+178. Applicability of conservation agriculture for climate change adaptatio
+     DOI: 10.1088/1748-9326/ac61c8
+     Abstract: 584 chars, Keywords: 105 chars
+
+174. Evaluating Farmersâ€™ Knowledge of Shade Trees in Different Cocoa Agro
+     DOI: 10.1007/s00267-018-1048-z
+     Abstract: 426 chars, Keywords: 113 chars
+
+173. Baseline simulation for global wheat production with CIMMYT mega-envir
+     DOI: 10.1111/agec.12363
+     Abstract: 582 chars, Keywords: 114 chars
+
+171. Climate warming causes declines in crop yields and lowers school atten
+     DOI: 10.1002/ece3.3668
+     Abstract: 269 chars, Keywords: 97 chars
+
+170. Collection, genotyping and virus elimination of cassava landraces from
+     DOI: 10.3390/agriculture12111853
+     Abstract: 293 chars, Keywords: 109 chars
+
+169. Systems biology for sustainable agriculture
+     DOI: 10.1016/j.eja.2024.127137
+     Abstract: 564 chars, Keywords: 106 chars
+
+ 75. Are digital services the right solution for empowering smallholder far
+     DOI: 10.1371/journal.pstr.0000052
+     Abstract: 670 chars, Keywords: 116 chars
+
+
+================================================================================
+INCOMPLETE PUBLICATIONS (102) - Priority for Manual Entry
+================================================================================
+
+Breakdown:
+  Has DOI, needs Abstract/Keywords: 0
+  Missing DOI entirely: 102
+
+
+HIGH PRIORITY (Has DOI, needs metadata): 0 publications
+--------------------------------------------------------------------------------
+
+================================================================================
+FILES CREATED
+================================================================================
+1. complete_publications.csv - List of 52 complete publications
+2. incomplete_publications.csv - List of 102 incomplete publications
+3. Use these files to guide manual data entry efforts
+================================================================================

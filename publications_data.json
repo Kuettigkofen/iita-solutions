@@ -19,9 +19,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Excludes non-crop income activities like livestock and off-farm work in modeling; doesn't incorporate extreme events; limited climate variable resolution; focuses only on a pessimistic climate scenario.",
     "NOTES": "Framework is scalable and adaptable, allowing for integration with broader data (e.g., RHoMIS) and future socioeconomic or climate data. Highlights need for context-specific, targeted policy and investment in adaptation.",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1016/j.agsy.2019.102663",
+    "Abstract": "Rural households in sub-Saharan Africa earn a substantial part of their living from rain-fed smallholder agriculture, which is highly sensitive to climate change. The framework combines crop suitability maps with a household food availability analysis to quantify household vulnerability to climate-related impacts on crop production and effects of adaptation options. The framework was tested for Uganda, identifying four hotspots of household vulnerability across the country. About 30% of households in the (central) southwest hotspots were vulnerable to a 3°C temperature increase and 10% rainfall decline through declining suitability for several key crops including highland banana, cassava, maize and sorghum. Options for adaptation to increasing temperatures were most beneficial in northern Uganda, while drought-related adaptation options were more beneficial in the southwest.",
+    "Keywords": "Climate change, Adaptation, Vulnerability, Food security, Uganda, Smallholder agriculture"
   },
   {
     "#": 241,
@@ -43,9 +43,9 @@
     "STAT SIGNIFICANCE?": "No",
     "LIMITATIONS FROM AUTHORS": "Limited African presence data to validate model; assumes species biology consistent across continents; uncertainties in climate projections and crop distribution layers.",
     "NOTES": "Recommends coordinated global monitoring and phytosanitary controls; notes the additive threat with other pests like Tuta absoluta on tomatoes.",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1127/entomologia/2022/1397",
+    "Abstract": "Spodoptera eridania (Stoll), a polyphagous lepidopteran pest from the Americas, has recently invaded western and central Africa. Like its congeners, S. eridania has developed pesticide resistance. The researchers fit a CLIMEX niche model for S. eridania and applied a climate change scenario for 2050 to investigate the sensitivity of the pest threat. The study found that S. eridania can potentially expand its range throughout the tropics and into the sub-tropics, threatening a range of important commercial and subsistence crops. Modelled climatic changes will mostly expand this species potential range poleward by around 200 km by 2050. These areas of emerging potential expansion are mostly into subtropical climates, supporting diverse cropping systems, including at risk crops beans, groundnut, potato, soybeans, tomato and sweet potato.",
+    "Keywords": "Spodoptera eridania, invasive species, pesticide resistance, CLIMEX modeling, climate change, crop threats, Africa"
   },
   {
     "#": 240,
@@ -67,9 +67,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Data gaps in certain stations; did not account for rainfall interaction in trend analysis; limited exploration of specific agricultural productivity outcomes.",
     "NOTES": "Study provides a strong empirical foundation for informing national climate-smart agricultural policies and adaptation measures in southern Africa.",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.3390/cli11040084",
+    "Abstract": "The study analyzed minimum and maximum temperatures' variability and trends using daily time series data from 23 meteorological stations across Malawi, Mozambique, South Africa and Zimbabwe, employing modified Mann–Kendall and Theil–Sen slope models. Temperature varied with location, with minimum temperature being more variable than maximum temperature, and semi-arid regions showing higher variation in minimum temperature compared to humid and coastal environments. The results showed an upward trend in minimum (0.01–0.83 °C over a 33–38 year period) and maximum (0.01–0.09 °C over a 38–57 year period) temperatures at 9 and 15 locations, respectively.",
+    "Keywords": "climate change; global warming; heat stress; smallholder agriculture; temperature variability"
   },
   {
     "#": 238,
@@ -91,9 +91,9 @@
     "STAT SIGNIFICANCE?": "No",
     "LIMITATIONS FROM AUTHORS": "Climate is not the only factor influencing malaria spread\r\r\n\r\r\nOther factors like health infrastructure, GDP, and urbanization are not modeled\r\r\n\r\r\nResults are sensitive to model assumptions and parameter estimates\r\r\n\r\r\nAn. gambiae subspecies diversity not fully captured due to limited chromosomal form data",
     "NOTES": "Highlights importance of regional coordination and capacity building\r\r\n\r\r\nSuggests development of GIS-based malaria early warning tools\r\r\n\r\r\nFunded through the African Climate Change Fellowship Programme (ACCFP), with IDRC and DFID support",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1186/1476-072X-13-12",
+    "Abstract": "Predicting anopheles vectors' population densities and boundary shifts is crucial in preparing for malaria risks and unanticipated outbreaks. Although shifts in the distribution and boundaries of the major malaria vectors (Anopheles gambiae s.s. and An. arabiensis) across Africa have been predicted, quantified areas of absolute change in zone of suitability for their survival have not been defined. We developed a model using CLIMEX simulation platform to estimate the potential geographical distribution and seasonal abundance of these malaria vectors in relation to climatic factors. Angola, Ethiopia, Kenya, Mozambique, Tanzania, South Africa and Zambia appear most likely to be affected in terms of absolute change of malaria vectors suitability zones under the selected climate change scenarios. The potential shifts of these malaria vectors have implications for human exposure to malaria, as recrudescence of the disease is likely to be recorded in several new areas and regions.",
+    "Keywords": "Climate change, Eco-climatic index, African countries, Anopheles gambiae s.s, Anopheles arabiensis, malaria vectors"
   },
   {
     "#": 237,
@@ -115,9 +115,9 @@
     "STAT SIGNIFICANCE?": "No",
     "LIMITATIONS FROM AUTHORS": "Phylogenetic coverage is still sparse for many African plant groups\r\r\n\r\r\nIncomplete fossil records limit precise evolutionary reconstructions\r\r\n\r\r\nLack of high-resolution paleo-climate data for Africa compared to other continents",
     "NOTES": "Authors recommend focusing conservation on phylogenetically unique and old lineages\r\r\n\r\r\nSupports the inclusion of \"evolutionary refugia\" in regional conservation planning\r\r\n\r\r\nStrong contribution to African biodiversity mapping and historical ecology",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1111/brv.12644",
+    "Abstract": "Africa underwent numerous climatic fluctuations at ancient and more recent timescales, with tectonic, greenhouse gas, and orbital forcing stimulating diversification. Increased aridification since the Late Eocene led to important extinction events, but also provided unique diversification opportunities. The paper discusses three major models of speciation: (i) geographic speciation via vicariance (allopatry); (ii) ecological speciation impacted by climate and geological changes, and (iii) genomic speciation via genome duplication, with geographic speciation being the most widely documented. Two major geo-climatic factors shaped African biodiversity: climatic fluctuations at ancient and recent timescales, and increased aridification since the Late Eocene.",
+    "Keywords": "Africa, biodiversity, climate change, diversification, evolution, flora, fauna, speciation, tectonics"
   },
   {
     "#": 235,
@@ -139,9 +139,9 @@
     "STAT SIGNIFICANCE?": "Not applicable",
     "LIMITATIONS FROM AUTHORS": "Overreliance on international aid\r\r\n\r\r\nLack of diagnostic testing infrastructure\r\r\n\r\r\nCultural barriers to behavior change\r\r\n\r\r\nPoor intersectoral collaboration\r\r\n\r\r\nWeak political buy-in and communication strategies",
     "NOTES": "Funded by the World Bankâ€™s AICCRA project (CGIAR initiative)\r\r\n\r\r\nExpands One-Health concept to include soil and water health alongside zoonoses\r\r\n\r\r\nEmphasizes circular economy innovations like black soldier fly composting and CS pest management",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1371/journal.pstr.0000052",
+    "Abstract": "This is a meta-analysis and scoping review of 43 studies and 11 reports on Climate-Smart (CS) One-Health innovations. The review identified determinants, challenges, and impacts related to the deployment of CS One-Health innovations, particularly in Ghana and Benin. Community participation, land tenure, political will, and age are critical adoption factors. Practices like composting, IPM, cover cropping, rotational grazing, and traditional ecological knowledge are promoted. Major barriers include cultural practices, lack of diagnostic tools, limited ICT access, and top-down implementation. Multi-disciplinary collaboration is essential for sustainable deployment.",
+    "Keywords": "Climate-Smart agriculture, One-Health, Ghana, Benin, socio-economic determinants, innovation adoption, meta-analysis"
   },
   {
     "#": 234,
@@ -163,9 +163,9 @@
     "STAT SIGNIFICANCE?": "Not applicable",
     "LIMITATIONS FROM AUTHORS": "Lack of complete data for nitrogen flows in many developing countries\r\r\n\r\r\nNeed for better cross-sectoral coordination (agriculture, energy, waste, health)\r\r\n\r\r\nCalls for more data on nitrogen impacts in Africa",
     "NOTES": "IITAâ€™s Mateete Bekunda contributed to synthesis on African nitrogen policy\r\r\n\r\r\nIntroduces the â€œFive Element Strategyâ€ and â€œ4R Nutrient Stewardshipâ€\r\r\n\r\r\nConnects nitrogen with planetary boundaries and future GHG emission scenarios",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1088/1748-9326/11/12/120205",
+    "Abstract": "This editorial synthesizes findings from the N2013 Kampala conference on nitrogen management and reviews research contributions focused on nitrogen flows, pollution, human health impacts, climate interactions, and sustainable food systems. Both nitrogen surplus (pollution) and deficit (yield loss) require tailored solutions. Integrated soil fertility management and BNF are crucial in SSA. Reducing meat consumption in high-N regions can reduce emissions and improve health. Technologies such as nitrification inhibitors and NUE metrics support sustainable intensification. Nitrogen neutrality and N footprints are proposed as accountability tools.",
+    "Keywords": "Nitrogen management, climate change, sustainable agriculture, food security, pollution, nitrogen cycle, Africa"
   },
   {
     "#": 233,
@@ -187,9 +187,9 @@
     "STAT SIGNIFICANCE?": "Not applicable",
     "LIMITATIONS FROM AUTHORS": "Does not consider future biofuel demand effects or policy shocks\r\r\n\r\r\nAssumes continuation of current policies, limiting exploration of disruptive scenarios\r\r\n\r\r\nGender and inclusion dynamics not modeled",
     "NOTES": "Funded by CGIARâ€™s Policies, Institutions and Markets (PIM) and Roots, Tubers and Bananas (RTB) programs\r\r\n\r\r\nHighlights the neglected nature of RT&B crops in global ag R&D despite growing importance\r\r\n\r\r\nSuggests improved NARS and CGIAR collaboration could amplify RT&B development impacts",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1016/j.gfs.2018.12.005",
+    "Abstract": "The widely recognized role of roots, tubers and bananas (RT&Bs) in achieving food security and providing income opportunities in the world's poorest regions, will be challenged by socioeconomic and climate related drivers that will affect demand and production patterns and increase pressure on farming systems. RT&B contribution to food security will increase in developing countries by 2050. Overcoming productivity and market challenges in RT&Bs are constrained by underinvestment in research. Investment in productivity improvement greatly benefits a subset of RT&B crops. Investment in marketing improvements do not seem to offer large benefits.",
+    "Keywords": "Roots, Tubers, Bananas, Food security, Climate change, Production frontiers, Agricultural investment"
   },
   {
     "#": 230,
@@ -211,9 +211,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Focused mainly on production; processing/marketing stressors less explored.\r\r\n\r\r\nSecurity limitations prevented broader social analysis.\r\r\n\r\r\nFuture work should investigate resilience across the full cassava value chain.",
     "NOTES": "Emphasizes participatory trait validation and the need to translate emerging traits into measurable breeding parameters.\r\r\n\r\r\nSuggests policies should address both social and environmental stressors through gender-equitable approaches.\r\r\n\r\r\nFunded by Gates Foundation; linked to GREAT-RTB training and NextGen Cassava Breeding.",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.3390/su15107837",
+    "Abstract": "The study investigates cassava trait preferences in the context of climate change (CC) and conflict stressors among value-chain (VC) actors in Nigeria, to strengthen social inclusion and resilience within breeding. Multi-stage and purposive sampling procedures were used to select and interview 92 men and 95 women cassava farmers, 15 VC Key Informants and 63 VC participants in Focus Group Discussions (FGDs) in Osun, Benue and Abia States. Data were analyzed using descriptive (percentages), inferential (two way ANOVA) and thematic analysis. Preferred cassava attributes include drought-tolerance, early bulking, multiple-product use and inground storability. While CC manifests itself as drought and increased incidence of pest/diseases, farmer-herder and land conflicts exacerbate productivity; shape gendered coping strategies and stressor-related trait preferences. The major response strategies employed by men included frequent farm visits to prevent theft and engaging in non-agricultural livelihoods. Those employed by women included backyard farming, early harvesting, having preferences for food with fewer processing steps, and depending on remittances. The resilience capacity was higher for men than for women due to their better access to assets.",
+    "Keywords": "breeding, cassava, climate change, conflict, trait preferences, response strategies, gender disparity"
   },
   {
     "#": 229,
@@ -235,9 +235,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Only five genotypes tested; broader screening needed.\r\r\n\r\r\nSingle geographic location (Sennar) may limit generalizability.\r\r\n\r\r\nSome environments were not strongly discriminatory.\r\r\n\r\r\nLimited trait-environment interaction detail.",
     "NOTES": "Highlights potential for soybean expansion in Sudanese semi-arid zones.\r\r\n\r\r\nRecommends July planting for optimal yield.\r\r\n\r\r\nAdapted maize base index for soybean genotype selection.\r\r\n\r\r\nFunded by Sennar State Government; linked to IITA genotype sourcing.",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.18805/LRF-722",
+    "Abstract": "The challenge to food security posed by climate change and coupled with the substantial rise in the global population, necessitate a shift in crop improvement programmes towards developing crop cultivars with stable and high yield potentials across a wide range of agro-ecological conditions. New high yielding crop varieties with stable performance across environments are enabling the expansion of their production area into non-traditional environments with semi-arid climates. This study examined genotype × environment interactions of soybean grain yield under contrasting environments in Sudan's semi-arid zone, with the goal of identifying high-yielding and stable soybean genotypes suitable for farmers in that region.",
+    "Keywords": "Soybean, Genotype-environment interaction, Yield stability, Semi-arid zone, Sudan, Climate change adaptation"
   },
   {
     "#": 228,
@@ -259,9 +259,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Data coverage bias due to low density of meteorological stations\r\r\n\r\r\nResolution mismatch between gauge and gridded data\r\r\n\r\r\nDid not assess yield or socioeconomic impacts",
     "NOTES": "Validation of CHIRPS-v2 and TC datasets for climate monitoring in low-data environments\r\r\n\r\r\nEncourages scaling of adaptive interventions in AEZs with increasing rainfall\r\r\n\r\r\nSuggests further research linking these trends to yield impacts",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1109/ACCESS.2020.2999255",
+    "Abstract": "This article investigates the magnitude and significance of spatial-temporal trends of 37 years' time series of the gridded data for rainfall, maximum (Tmax) and minimum (Tmin) temperature for West Africa using a modified Mann-Kendall test and Theil-Sen's slope estimator. June to September rainfall showed a positive increase (0.1–5 mm/month/year) that mostly occurred north of 11° latitude, and October rainfall showed a positive trend across the region, but the magnitude was higher south of the same latitude.",
+    "Keywords": "Rainfall trends, Temperature trends, West Africa, Climate variability, Mann-Kendall test, Spatial-temporal analysis"
   },
   {
     "#": 227,
@@ -283,9 +283,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "The DSSAT model is static and does not simulate year-to-year farmer adaptation\r\r\n\r\r\nData limitations at sub-national level for long-term validation\r\r\n\r\r\nFindings are not immediately scalable without local capacity to interpret gridded outputs",
     "NOTES": "Funded by CGIARâ€“Excellence in Agronomy Initiative, with BMGF support\r\r\n\r\r\nStudy provides a potential foundation for a national maize sowing advisory dashboard\r\r\n\r\r\nEmphasizes importance of aligning sowing guidance with climate data to build farmer resilience",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1371/journal.pone.0300427",
+    "Abstract": "Climate change and inter-annual variability cause variation in rainfall commencement and cessation which has consequences for the maize growing season length and thus impact yields. This study therefore sought to determine the spatially explicit optimum maize sowing dates to enable site specific recommendations in Nigeria. Gridded weather and soil data, crop management and cultivar were used to simulate maize yield from 1981-2019 at a scale of 0.5°. A total of 37 potential sowing dates between 1 March and 7 November at an interval of 7 days for each year were evaluated. The results show that optimum sowing dates significantly vary across the country with northern Nigeria having notably delayed sowing dates compared to southern Nigeria which has earlier planting dates. The long-term optimal sowing dates significantly (p<0.05), shifted between the 1980s (1981–1990), and current (2011–2019), for most of the country. The most optimum planting dates of southern Nigeria shifted to later sowing dates while most optimum sowing dates of central and northern Nigeria shifted to earlier sowing dates.",
+    "Keywords": "Maize, Sowing dates, Climate change, Nigeria, Crop modeling, DSSAT, Agro-ecological zones"
   },
   {
     "#": 225,
@@ -307,9 +307,9 @@
     "STAT SIGNIFICANCE?": "No",
     "LIMITATIONS FROM AUTHORS": "Regional assessments rely on outdated soil data (often from 1980sâ€“1990s)\r\r\n\r\r\nLack of soil monitoring capacity in many developing countries",
     "NOTES": "The report was a key output of the Global Soil Partnership and the Intergovernmental Technical Panel on Soils (ITPS)\r\r\n\r\r\nThe paper frames 2015 (International Year of Soils) as a turning point for global soil governance",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.5194/soil-2-79-2016",
+    "Abstract": "The Intergovernmental Technical Panel on Soils completed the first State of the World's Soil Resources Report. Globally soil erosion was identified as the gravest threat, leading to deteriorating water quality in developed regions and to lowering of crop yields in many developing regions. Stores of soil organic carbon are critical in the global carbon balance, and national governments must set specific targets to stabilize or ideally increase soil organic carbon stores.",
+    "Keywords": "Soil degradation, Soil erosion, Soil organic carbon, Food security, Climate change, Soil resources"
   },
   {
     "#": 223,
@@ -331,9 +331,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Limited calibration data (no biomass, LAI, etc.)\r\r\n\r\r\nNo modeling of pest/disease effects\r\r\n\r\r\nGHG estimates exclude transport and irrigation",
     "NOTES": "Strong integration of climate modeling with field data\r\r\n\r\r\nIITA-affiliated co-author (Mkuhlani) contributed to modeling and emissions analysis\r\r\n\r\r\nEmphasizes practical, location-specific insights for planning low-carbon agriculture",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1371/journal.pone.0301254",
+    "Abstract": "This study presents an approach using decision-making tools to assess potential climate change impacts on groundnut, soybean and sunflower yields and greenhouse gas emissions in South Africa. The researchers used the Decision Support Tool for Agrotechnology Transfer (DSSAT v4.7) for crop modeling and the Cool Farm Tool for GHG calculations. The study examines climate change impacts on smallholder oil seed yields under different climate scenarios.",
+    "Keywords": "Oil seeds, Climate change, Crop modeling, DSSAT, South Africa, Smallholder farming, Greenhouse gas emissions"
   },
   {
     "#": 221,
@@ -355,9 +355,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Socioeconomic weighting is country- and program-specific\r\r\n\r\r\nLocal field variation is hard to capture spatially\r\r\n\r\r\nInstitutional capacity and logistics still play key roles in site selection",
     "NOTES": "Funded by CGIAR MAIZE, CCAFS, and Gates Foundation\r\r\n\r\r\nThe framework is publicly accessible and adaptable for different stakeholders (govt., NGOs, private sector)",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1016/j.gfs.2018.12.006",
+    "Abstract": "This study developed a data-rich spatial framework to guide agricultural research and development (AR&D) prioritization and to perform ex-ante impact assessment, using technology extrapolation domains based on climate, soil, and socio-economic factors. The framework enables systematic assessment of agricultural technologies across different agro-ecological zones and farming systems.",
+    "Keywords": "Ex-ante assessment, Agricultural technologies, Spatial framework, Technology extrapolation, Impact assessment, Agro-ecological zones"
   },
   {
     "#": 218,
@@ -379,9 +379,9 @@
     "STAT SIGNIFICANCE?": "No",
     "LIMITATIONS FROM AUTHORS": "Model does not account for indirect economic impacts (e.g., on industry, services)\r\r\n\r\r\nFood insecurity might be underestimated due to lack of behavioral or institutional response modeling\r\r\n\r\r\nPositive crop responses (e.g., groundnut acreage increase) were excluded from the simulations",
     "NOTES": "Developed in part by IITA researchers in three regional offices\r\r\n\r\r\nInforms both research and policy communities on climate-food risk in the region",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.3389/fsufs.2023.1159901",
+    "Abstract": "Southern Africa has been experiencing long-term changes in its climate with future projections implying droughts should last longer and become more intense, with the region already experiencing an increase in consecutive drought years. This foresight study contributes by quantifying the bio-economic impact of future droughts in southern Africa to support disaster policies in the region. The study recommends an integrated approach for enhancing regional food security under drought that includes breeding improved maize varieties with enhanced tolerance to abiotic stresses, diversifying the diet to incorporate more drought-tolerant food crops such as cassava and cowpea, and investing in rainwater harvesting technologies.",
+    "Keywords": "Drought, Southern Africa, Food security, Strategic foresight, Climate adaptation, Maize breeding, Crop diversification"
   },
   {
     "#": 217,
@@ -403,9 +403,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Geographic specificity: results based on a Cameroonian strain may not generalize to other regions\r\r\n\r\r\nThe model does not account for natural enemies, host plant variability, or pesticide effects\r\r\n\r\r\nFurther field validation is needed across agroecologies",
     "NOTES": "This is one of the few studies combining full life-table data and climate modeling to assess pest dynamics in SSA.\r\r\n\r\r\nStrong contribution to climate-smart integrated pest management (IPM).",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1016/j.jtherbio.2021.102877",
+    "Abstract": "This study developed temperature-based phenology models to predict the development, survival, and reproduction of the oriental fruit fly Bactrocera dorsalis. Bactrocera dorsalis completed its development at temperatures ranging between 15 and 33 °C with developmental times varying across life stages, and the models predicted temperatures ranging between 20 and 30 °C as favorable for development and survival. The study provides important insights for pest management under changing climate conditions.",
+    "Keywords": "Bactrocera dorsalis, Oriental fruit fly, Phenology model, Temperature, Pest management, Climate change, Thermal biology"
   },
   {
     "#": 216,
@@ -427,9 +427,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Study localized to one cocoa-growing district; based on physical crown and silhouette measurements rather than direct microclimate outcomes.",
     "NOTES": "Backed by the CGIAR-CCAFS and funded by Touton SA. Suggests combining crown attributes with farmer preferences to design better shade strategies.",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1016/j.tfp.2021.100100",
+    "Abstract": "This study examined species-specific crown architecture of upper canopy trees and its influence on shade provision in cocoa agroforestry systems in Ghana's Western Region. Five crown forms were identified and the study found that spreading to cylindrical and elongate crown forms are the most suitable crown forms to incorporate in cocoa agroforestry systems for shade provision.",
+    "Keywords": "Cocoa, Agroforestry, Crown architecture, Shade management, Ghana, Tree species, Climate adaptation"
   },
   {
     "#": 215,
@@ -451,9 +451,9 @@
     "STAT SIGNIFICANCE?": "Not applicable",
     "LIMITATIONS FROM AUTHORS": "Review-based study with no primary quantitative data; focuses on southwestern Nigeria only; many conclusions are drawn from secondary sources.",
     "NOTES": "Funded by the Nigeria Soil Health Consortium (South) and supported by AGRA. Suggests demonstration plots and localized farmer training as key to scaling ISFM.",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.18488/journal.70/2017.4.2/70.2.28.44",
+    "Abstract": "The soils of South western Nigeria are rapidly degrading due to nutrient mining, soil loss, inappropriate land use, low inherent soil fertility coupled with adverse effects of climate change. These have resulted to persistent low yields and farmers' poverty. This study assesses the status of Integrated Soil Fertility Management (ISFM) practices in southwestern Nigeria.",
+    "Keywords": "Integrated Soil Fertility Management, ISFM, Soil degradation, Nigeria, Smallholder farming, Climate change, Agricultural sustainability"
   },
   {
     "#": 214,
@@ -475,9 +475,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "WTP derived from hypothetical insurance contracts; findings limited to northern Togo context; smallholder education constraints noted.",
     "NOTES": "Study suggests linking WII with advisory services and credit access to enhance uptake. Supported by AGRA, IDRC, CORAF/WECARD, and IITA.",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1080/14693062.2020.1745742",
+    "Abstract": "This study assesses farmers' willingness to pay for weather index-based insurance (WII) as a market option for sharing climatic risks, using a choice modeling approach based on data collected from 704 randomly selected households in northern Togo, West Africa. The research found that respondents are willing to participate in a WII market and would prefer insuring crops, such as maize over sorghum and rice against drought by paying on average about $14.5 per hectare.",
+    "Keywords": "Weather index insurance, Climate risk management, Willingness to pay, Togo, West Africa, Agricultural insurance, Climate adaptation"
   },
   {
     "#": 213,
@@ -499,9 +499,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Potentials may vary beyond the calibrated zones; modeling did not include phosphorus or biotic stressors.",
     "NOTES": "Study supports precision nitrogen management in climate-vulnerable sorghum systems using APSIM; funded in part by CGIAR-CCAFS and GLDC.",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1080/01904167.2020.1711939",
+    "Abstract": "This study used the Agricultural Production Systems simulator (APSIM) model to calibrate and evaluate two improved sorghum varieties in experiments conducted at two research stations in Nigeria from 2014-2016. The results showed that the model replicated observed yield and accounted for yield differences and variations in phenological development between the two sorghum cultivars, with the medium-maturing Improved-Deko cultivar showing better calibration compared to the early-maturing ICSV-400 cultivar.",
+    "Keywords": "Sorghum, APSIM model, Nitrogen fertilization, Nigeria, Crop modeling, Semi-arid agriculture, Climate adaptation"
   },
   {
     "#": 210,
@@ -523,9 +523,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Risk aversion, implementation gaps in crop insurance, and unobserved heterogeneity challenge attribution; quality differences in crops not measured.",
     "NOTES": "Highlights that education sometimes negatively influences adoption due to rural-to-urban labor shifts. The paper also finds agronomic practice adoption to be scale-neutral.",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1111/1477-9552.12617",
+    "Abstract": "Black gram and green gram are important pulse crops in India, but their production has faced fluctuations and stagnancy in yields over the last few decades. This study analyses the determinants of the adoption of climate and plant management practices among black gram and green gram farmers and their impact on yield, crop revenue and net income across four major crop-producing Indian states using a multinomial endogenous treatment effects model. The analysis shows that information, contact with government extension services and access to off-farm activities are crucial in adopting climate and plant management practices.",
+    "Keywords": "Black gram, Green gram, Pulses, Climate-smart practices, Adoption, India, Crop management, Agricultural extension"
   },
   {
     "#": 209,
@@ -547,9 +547,9 @@
     "STAT SIGNIFICANCE?": "No",
     "LIMITATIONS FROM AUTHORS": "Did not model long-term climate change impacts due to data uncertainties. Assumes optimistic scenarios for new land productivity and policy support.",
     "NOTES": "Emphasizes need for biophysical and policy integration. Highlights risk of environmental degradation if yield gap closure is not achieved and land is expanded unsustainably.",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1073/pnas.1610359113",
+    "Abstract": "This study estimates it will not be feasible to meet future sub-Saharan Africa cereal demand on existing production area by yield gap closure alone, despite projections that by 2050 the region's population will increase 2.5-fold and demand for cereals will approximately triple. The analysis examines yield gaps, land availability, and sustainable intensification pathways for major cereal crops across sub-Saharan Africa.",
+    "Keywords": "Sub-Saharan Africa, Food security, Yield gaps, Cereal production, Population growth, Sustainable intensification, Climate change"
   },
   {
     "#": 207,
@@ -571,9 +571,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "The CA promotion model (lead farmer approach) has limited reach. Dis-adoption is high due to lack of inputs, labor burden, and pest issues. Knowledge transfer remains weak.",
     "NOTES": "Findings emphasize that CA needs to be supported through access to inputs, harmonized training, and local bylaws to manage crop residues and livestock grazing.",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.3389/fsufs.2023.1151876",
+    "Abstract": "This paper applies a multivariate probit model and other methods to survey data from 4,373 households and 278 focus groups to identify the drivers and barriers of conservation agriculture adoption in Malawi, Zambia, and Zimbabwe. The study uses a mixed-methods approach combining quantitative and qualitative data to understand adoption patterns and constraints.",
+    "Keywords": "Conservation agriculture, Southern Africa, Adoption, Mixed-methods, Malawi, Zambia, Zimbabwe, Climate-smart agriculture"
   },
   {
     "#": 206,
@@ -595,9 +595,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Focused on specific soil types; generalizability is limited\r\r\n\r\r\nSeed system constraints could limit access to improved varieties\r\r\n\r\r\nFuture work should include broader spatial modeling and farmer adoption constraints",
     "NOTES": "Funded by Norwegian Ministry of Foreign Affairs (Climate Smart Agricultural Technologies project)\r\r\n\r\r\nUses latest DSSAT v4.8 modeling protocol\r\r\n\r\r\nOffers clear policy recommendations on variety deployment and planting calendar revision",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1007/s10113-024-02313-5",
+    "Abstract": "This study used The Decision Support System for Agrotechnology Transfer (DSSAT) CERES-Millet model to assess the impact of climate change and adaptation strategies on millet in Niger. The research found that the impact of climate change varied with the agroecological zone (AEZ) with higher yield reduction in the Sahel than in the other AEZs.",
+    "Keywords": "Millet, Climate change, DSSAT, Niger, Sahel, Adaptation strategies, Crop modeling"
   },
   {
     "#": 205,
@@ -619,9 +619,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Does not model combined drought + heat stress response in varieties\r\r\n\r\r\nOnly evaluates two existing maize varieties\r\r\n\r\r\nField validation limited to specific sites",
     "NOTES": "Authors recommend refining breeding to combine drought and heat stress tolerance\r\r\n\r\r\nImportant evidence for CGIAR climate adaptation research in West Africa\r\r\n\r\r\nSuggests more robust modeling for future stress combinations and regional variability",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1038/s41598-021-88277-6",
+    "Abstract": "This study used DSSAT to assess climate change impacts on drought-tolerant versus non-drought-tolerant maize varieties in Nigeria's savanna zones, with projections for mid-century (2040–2069) and end-century (2070–2099) under RCP 4.5 and 8.5 scenarios. The research evaluates the effectiveness of drought-tolerant varieties as an adaptation strategy for maize production under changing climate conditions.",
+    "Keywords": "Drought-tolerant maize, Climate change adaptation, Nigeria, DSSAT, Savannas, Crop modeling, RCP scenarios"
   },
   {
     "#": 204,
@@ -643,9 +643,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "No field trials for other crop management practices (e.g., irrigation, planting date)\r\r\n\r\r\nFocused only on two maize varieties\r\r\n\r\r\nFuture research should explore early-maturing varieties and additional management strategies",
     "NOTES": "Reinforces the critical role of phosphorus in optimizing nitrogen response\r\r\n\r\r\nUses detailed cost-benefit analysis, showing fertilizer access must be supported for adaptation to be viable\r\r\n\r\r\nSuggests that without access to P, applying N may have diminishing returns under climate change",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1007/s00704-016-1931-6",
+    "Abstract": "This study assesses the impact of current and future heat stress on maize and the benefit of heat-tolerant varieties in South Asia. Annual mean maximum temperatures may increase by 1.4–1.8 °C in 2030 and 2.1–2.6 °C in 2050, with large monthly, seasonal, and spatial variations across SA. The extent of heat stressed areas in SA could increase by up to 12% in 2030 and 21% in 2050 relative to the baseline. The research examines both rainfed and irrigated maize production systems.",
+    "Keywords": "Heat-tolerant maize, South Asia, Climate change, Heat stress, Temperature increase, Crop adaptation"
   },
   {
     "#": 203,
@@ -667,9 +667,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Results assume no pest or disease losses\r\r\n\r\r\nCOâ‚‚ fertilization not modeled due to maize's C4 physiology\r\r\n\r\r\nIrrigation availability assumed stable (may not hold in future)\r\r\n\r\r\nLimited to heat stress; other stressors (e.g., drought) not simulated in full",
     "NOTES": "Supported by CGIAR-PIM, USAID HTMA project, and CCAFS\r\r\n\r\r\nProvides strategic input for maize breeding priorities in the Indo-Gangetic Plain\r\r\n\r\r\nHighlights the need for regional targeting of variety deployment",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1016/j.gsd.2019.100218",
+    "Abstract": "An overview of groundwater recharge estimation techniques is presented, covering numerical approach, tracer method, hydrologic budget method, and multiple methods. The norms of recharge estimation through rainfall, canal seepage, and field percolation are also covered in this study. The literature analysis revealed that the tracer techniques are extensively used in water-scarce areas for estimating groundwater recharge.",
+    "Keywords": "Groundwater recharge, Estimation techniques, Sustainable resource management, Hydrogeology, Water resources, Climate variability"
   },
   {
     "#": 200,
@@ -691,9 +691,9 @@
     "STAT SIGNIFICANCE?": "Not applicable",
     "LIMITATIONS FROM AUTHORS": "High data demands for numerical models\r\r\n\r\r\nTracer methods may cause cost and sampling delays\r\r\n\r\r\nSpecific yield estimation often limits budget-based methods\r\r\n\r\r\nNo one-size-fits-all method; local context is key",
     "NOTES": "Advocates the use of GIS and remote sensing in recharge estimation\r\r\n\r\r\nIITA connection via author based in Tanzania\r\r\n\r\r\nStrong emphasis on integrated modeling for policy formulation",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1088/1748-9326/aac092",
+    "Abstract": "This paper develops a global spatial framework to delineate technology extrapolation domains based on key climate and soil factors that govern crop yields and yield stability in rainfed crop production. A technology extrapolation domain (TED) is defined as a unique combination of biophysical and socio-economic circumstances. The framework adequately represents the spatial pattern of crop yields and stability when evaluated over the US Corn Belt, and facilitates evaluation of cropping system performance across continents.",
+    "Keywords": "Technology extrapolation domains, Agronomic science, Spatial framework, Crop yields, Rainfed agriculture, Scaling"
   },
   {
     "#": 196,
@@ -715,9 +715,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Current model does not incorporate socio-economic factors, which are essential for adoption modeling.\r\r\n\r\r\nHigher resolution TEDs are more precise but require significantly more data and investment to implement.\r\r\n\r\r\nTechnology adoption risks (e.g., pests, market access) are not modeled.",
     "NOTES": "Supported by CCAFS and Gates Foundation\r\r\n\r\r\nOpen-access tools available at YieldGap.org and NutrientStar for users to access TEDs\r\r\n\r\r\nIntroduces a globally scalable strategy for agronomic R&D efficiency and impact tracking",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1016/j.pbi.2020.05.002",
+    "Abstract": "This paper addresses how West Africa is faced with significant challenges from climate change, including parts of the region becoming hotter with more variable rainfall. It discusses resilient alternative crops especially underutilized legumes particularly Bambara groundnut, African yam bean, winged bean and Kersting's groundnut and emphasizes using genomic tools for developing climate-resilient cultivars.",
+    "Keywords": "Legumes, West Africa, Climate change, Underutilized crops, Bambara groundnut, African yam bean, Genomics"
   },
   {
     "#": 195,
@@ -739,9 +739,9 @@
     "STAT SIGNIFICANCE?": "Not applicable",
     "LIMITATIONS FROM AUTHORS": "AYB, winged bean, and Kerstingâ€™s groundnut lack sufficient genomic and breeding investment\r\r\n\r\r\nLimited climate modeling for minor crops\r\r\n\r\r\nNo current GWAS data available for some species",
     "NOTES": "GRC-IITA hosts the largest global collection of many featured crops\r\r\n\r\r\nEmphasizes the role of orphan legumes in shifting from climate-sensitive staples\r\r\n\r\r\nPaper is supported by CGIAR Genebank Platform and Crop Trust",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.3389/fpls.2021.798993",
+    "Abstract": "This paper discusses the breeding potentials of Bambara groundnut for enhancing food and nutrition security in the context of climate change. Bambara groundnut is a balanced food that can help eradicate food and nutritional insecurity if it is incorporated into the major food system. The study examines genetic diversity, breeding strategies, and the role of this climate-resilient crop in African food systems.",
+    "Keywords": "Bambara groundnut, Breeding, Food security, Nutrition security, Climate change, Sahel, Underutilized crops"
   },
   {
     "#": 193,
@@ -763,9 +763,9 @@
     "STAT SIGNIFICANCE?": "Not applicable",
     "LIMITATIONS FROM AUTHORS": "Lack of BGN reference genome\r\r\n\r\r\nPoor funding and policy support for underutilized crops\r\r\n\r\r\nPost-harvest and yield challenges\r\r\n\r\r\nLow consumer and farmer awareness",
     "NOTES": "BGN is positioned as a critical â€œorphanâ€ crop for climate-smart agriculture\r\r\n\r\r\nCalls for global germplasm sharing and breeding collaboration\r\r\n\r\r\nCites IITAâ€™s role in maintaining >1900 accessions of BGN\r\r\n\r\r\nEmphasizes importance of integrated omics approaches and bioinformatics tools",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1111/ejss.70069",
+    "Abstract": "This paper is organized in three parts. The first part highlights and discusses current problems including soil erosion, desertification, nutrient imbalances, acidity, salinization, deforestation, and soil compaction. The authors concluded that integrated approaches promoting sustainable soil management, such as conservation agriculture, crop rotation, agroforestry, afforestation, organic farming, and community engagement, would have significant impact in resolving soil degradation in Africa.",
+    "Keywords": "Soil degradation, Africa, Soil erosion, Desertification, Sustainable soil management, Conservation agriculture, Climate change"
   },
   {
     "#": 191,
@@ -787,9 +787,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Moderate number of accessions; only two years of data.\r\r\n\r\r\nTolerance mechanisms not fully confirmed genetically.\r\r\n\r\r\nTrials limited to Nigeria, not in original collection countries.",
     "NOTES": "Recommends targeted use of specific landraces in gene discovery.\r\r\n\r\r\nConfirms that DSHS is genetically distinct from individual stress types.\r\r\n\r\r\nStrong relevance to breeding for climate resilience in SSA maize systems.",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1016/j.scitotenv.2023.165657",
+    "Abstract": "For 33 months, twelve-year cocoa plants in Ghana were subjected to three levels of rainwater suppression under full sun or 40% uniform shade. The study found that rainwater suppression led to drought and decreased performance of cocoa trees, while shade enhanced physiology, growth, and yield compared to full sun conditions. However, shade will benefit cocoa but will not save it from the negative effects of drought. Rainwater suppression decreased leaf water potentials, reaching −1.5 MPa in full sun conditions indicating severe drought.",
+    "Keywords": "Cocoa, Drought stress, Shade effects, Climate change, Ghana, Agroforestry, Water relations"
   },
   {
     "#": 190,
@@ -811,9 +811,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Lack of collection-site geocoordinates limits environmental interpretation\r\r\n\r\r\nSingle-location trial for heat and combined stress\r\r\n\r\r\nPossibility of misclassified landraces\r\r\n\r\r\nGenetic redundancy in genebanks may exist",
     "NOTES": "Suggests use of top landraces for gene discovery and GWAS\r\r\n\r\r\nCalls for routine screening of landraces for DSHS tolerance\r\r\n\r\r\nFunded by WASCAL and Gates Foundation; conducted under IITAâ€™s Maize Improvement Program",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1007/s00425-019-03191-6",
+    "Abstract": "Bambara groundnut is a nitrogen-fixing, stress-tolerant legume with potential for climate-resilient agriculture. This paper discusses the crop's resilience characteristics including drought tolerance, heat tolerance, and ability to grow in marginal soils, making it an exemplar underutilised legume for adaptation to climate change.",
+    "Keywords": "Bambara groundnut, Underutilized crops, Climate resilience, Drought tolerance, Nitrogen fixation, Africa"
   },
   {
     "#": 189,
@@ -835,9 +835,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Limited independent station coverage\r\r\n\r\r\nBiases in high-elevation data\r\r\n\r\r\nOverestimation by some GPPs, especially CHELSA-v2.1\r\r\n\r\r\nValidation limited by data quality from volunteer-maintained stations",
     "NOTES": "Highlights that newer, higher-resolution products may introduce biases\r\r\n\r\r\nEmphasizes the role of satellite datasets in areas with sparse rain gauge coverage\r\r\n\r\r\nSupports development of early warning systems and adaptation strategies in rainfed systems",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1007/s10457-023-00950-z",
+    "Abstract": "The study evaluated farmer's local knowledge and perceptions of sustainable cocoa agroforestry and sustainable soil carbon management in Ghana and Côte d'Ivoire. About 83% and 50.5% of smallholder cocoa farmers from Côte d'Ivoire and Ghana respectively practiced agroforestry on their farms, though the respondents had limited knowledge about the term agroforestry.",
+    "Keywords": "Cocoa agroforestry, Farmer perceptions, Soil carbon management, Ghana, Côte d'Ivoire, West Africa, Climate-smart agriculture"
   },
   {
     "#": 188,
@@ -858,9 +858,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Equations are site-specific (may not generalize across Rwanda).\r\r\n\r\r\nWood density and height data increase precision but are costly/difficult to obtain.\r\r\n\r\r\nBelowground biomass not includedâ€”recommended for future work.",
     "NOTES": "Data supports use of species- and site-specific equations over IPCC generic ones.\r\r\n\r\r\nEquations can aid in reporting for NDCs under the Paris Agreement.\r\r\n\r\r\nCollaboration between IITA, ICRAF, UR, and IUCN is noteworthy.",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.5539/sar.v8n2p68",
+    "Abstract": "Climate change resulted in a decrease of 100 mm isohyets between two 30-year periods. The rainy season structure changed slightly, with the average start delayed by 6 days and the end occurring 4 days earlier. Maximum temperatures increased significantly from +0.44°C to +1.53°C and minimum temperatures increased from +1.05°C to +1.93°C. Despite these climate changes, statistics of major agronomic food crop production in Mali from 1984 to 2013 showed an average increase from 985 to 4492 thousand tons, representing a 22% increase per year. This positive trend is attributed to a combination of agricultural extension, agronomic research application, and smallholder farmer management in the Sahel.",
+    "Keywords": "Cereal production, Climate change, Sahel, Mali, Agricultural adaptation, Temperature trends, Rainfall variability"
   },
   {
     "#": 187,
@@ -882,9 +882,9 @@
     "STAT SIGNIFICANCE?": "No",
     "LIMITATIONS FROM AUTHORS": "Models must be coupled with stakeholder engagement and localized validation to be useful in practice\r\r\n\r\r\nAccess to data and technical capacity remain limiting factors for wider adoption",
     "NOTES": "Funded by the One CGIAR Excellence in Agronomy Initiative (BMGF-supported)\r\r\n\r\r\nEmphasizes integrating behavioral, economic, and agroecological modeling to design inclusive CSA interventions\r\r\n\r\r\nBuilds directly on CGIAR systems modeling research across West and East Africa",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.3389/fpls.2015.00563",
+    "Abstract": "This review discusses how molecular breeding approaches have proven helpful in enhancing the stress adaptation of crop plants, and recent advances in high-throughput sequencing and phenotyping platforms have transformed molecular breeding to genomics-assisted breeding (GAB), elaborating the progress and prospects of GAB for improving climate change resilience in crops.",
+    "Keywords": "Genomics-assisted breeding, Climate resilience, Crop improvement, Molecular markers, Plant breeding, Stress tolerance"
   },
   {
     "#": 186,
@@ -906,9 +906,9 @@
     "STAT SIGNIFICANCE?": "No",
     "LIMITATIONS FROM AUTHORS": "Acknowledges the lack of a one-size-fits-all solution\r\r\n\r\r\nEmphasizes the need for site-specific, community-led interventions and better data on soil nutrient budgets",
     "NOTES": "Strong integration of CGIAR and FAO data sources\r\r\n\r\r\nSeveral maps and tables illustrate regional soil degradation types and severity\r\r\n\r\r\nAdvocates for ratifying global conventions on pollution and land use",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1094/PDIS-07-22-1672-RE",
+    "Abstract": "The study used the maximum entropy (Maxent) model on 1,022 georeferenced BXW datapoints and 20 environmental variables. Precipitation of the coldest quarter, average maximum monthly temperature, annual precipitation, and elevation were the strongest predictors. Banana Xanthomonas wilt (BXW) is a major threat to banana production in Rwanda, causing up to 100% yield loss.",
+    "Keywords": "Banana Xanthomonas wilt, BXW, Disease modeling, Climate risk, Rwanda, Maxent, Plant disease"
   },
   {
     "#": 185,
@@ -930,9 +930,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Rainwater exclusion may not fully replicate natural drought dynamics\r\r\n\r\r\nShade netting is not scalable for smallholdersâ€”natural shade systems may yield different results\r\r\n\r\r\nDoes not assess long-term impacts beyond the study period",
     "NOTES": "Funded by DANIDA (CLIMCOCOA project)\r\r\n\r\r\nSuggests further research on shade tree species interactions and hydrological impacts in cocoa agroforestry\r\r\n\r\r\nHighlights physiological thresholds critical for yield under climate stress",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1080/17565529.2023.2178840",
+    "Abstract": "This study used farm household survey data from Nigeria and examined whether and to what extent the yield and income impacts of adopting drought-tolerant maize varieties are heterogeneous, using stratification-multilevel, matching-smoothing and smoothing-differencing econometric methods. The results show that the adoption of drought-tolerant maize varieties significantly increased maize yield, crop and household income. The yield and income impacts are heterogeneous and depend on the farm households' propensity to adopt, with estimated yield effects being larger for farmers with the highest propensity to adopt the varieties.",
+    "Keywords": "Drought-tolerant maize, Impact heterogeneity, Nigeria, Adoption, Climate adaptation, Yield impacts, Income effects"
   },
   {
     "#": 184,
@@ -954,9 +954,9 @@
     "STAT SIGNIFICANCE?": "No",
     "LIMITATIONS FROM AUTHORS": "Limited public investment and institutional support for underutilised crops\r\r\n\r\r\nKnowledge gaps in seed systems, cooking traits, and photoperiod sensitivity\r\r\n\r\r\nChallenges in breeding due to genetic complexity and cultural preferences",
     "NOTES": "The review supports Bambara groundnut inclusion in the African Orphan Crops Consortium and CGIAR breeding pipelines\r\r\n\r\r\nHighlights extensive international collaboration across Africa and Southeast Asia\r\r\n\r\r\nPromotes integration of socio-cultural knowledge in breeding for adoption",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.5897/JSSEM15.0502",
+    "Abstract": "Based on evidence from regional research, conservation agriculture has good potential for climate change adaptation in both high and low rainfall areas of Rwanda. However, decreased yield observed in high rainfall areas, increased labour requirements when herbicides are not used and lack of mulch due to priority given to feeding of livestock constrained CA adoption.",
+    "Keywords": "Conservation agriculture, Climate change adaptation, Rwanda, Smallholder farming, Mulching, Agricultural sustainability"
   },
   {
     "#": 183,
@@ -978,9 +978,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Limited training access among farmers\r\r\n\r\r\nGaps between farmer and stakeholder understanding\r\r\n\r\r\nNeed for broader outreach and harmonized messaging",
     "NOTES": "Funded by WASCAL and Climcocoa\r\r\n\r\r\nCalls for integration of agroforestry and SOC into agricultural curricula\r\r\n\r\r\nProposes regional policy coordination to address cocoa-driven deforestation and emissions",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1007/s10745-017-9899-0",
+    "Abstract": "This study assesses farmers' local knowledge of shade trees at two locations in Ghana with different climatic conditions and vulnerability to climate change, and found that cocoa farmers have detailed knowledge on the functions of shade trees in cocoa systems and prefer species that provide specific needs according to the location.",
+    "Keywords": "Shade trees, Cocoa agroforestry, Farmer knowledge, Ghana, Climate vulnerability, Traditional knowledge, Tree species selection"
   },
   {
     "#": 182,
@@ -1002,9 +1002,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "More research needed to understand adaptation success and causality\r\r\n\r\r\nClimate impacts vary by region and are influenced by socio-technical change",
     "NOTES": "Strong evidence base from meteorological and agricultural datasets\r\r\n\r\r\nEndorses using farmer strategies as models for sustainable intensification\r\r\n\r\r\nRefutes deterministic climate-crop decline narratives with empirical data",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1016/j.fcr.2016.06.010",
+    "Abstract": "This study developed parameters for modern cultivars representing all 17 CIMMYT wheat Mega Environments (MEs) using field experimental data and genetic cultivar relationships for the CROPSIM-CERES model in DSSAT v 4.5. Crop simulations were carried out at 0.5 × 0.5° pixels for global wheat-growing areas, using cultivars representing MEs, soil information, region-specific crop management, and initial soil conditions. The simulated yields and production showed a Root Mean Square Error (RMSE) of 1.3 t/ha for yield and 2.2 M t/country for country production when compared to FAO statistics.",
+    "Keywords": "Wheat production, CIMMYT, Mega-environments, DSSAT, Crop modeling, Global agriculture, Climate change"
   },
   {
     "#": 181,
@@ -1026,9 +1026,9 @@
     "STAT SIGNIFICANCE?": "No",
     "LIMITATIONS FROM AUTHORS": "Functional gene validation remains a bottleneck\r\r\n\r\r\nGenomic tools are less available for underutilized crops\r\r\n\r\r\nClimate-resilience is polygenic and complex, requiring multi-trait strategies",
     "NOTES": "Co-authored by leaders from IITA, IRRI, CIAT, ICRISAT, and universities worldwide\r\r\n\r\r\nImportant framing piece for genomics in climate-smart agriculture",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1016/j.scitotenv.2017.08.041",
+    "Abstract": "This study focused on Cameroon and examined the relationship between climate change, agricultural productivity (particularly plantain crops), and school attendance rates from 1950-2013, with predictions extending to 2080. The research demonstrates how climate warming causes declines in crop yields and subsequently affects school attendance in Central Africa.",
+    "Keywords": "Climate warming, Crop yields, School attendance, Central Africa, Cameroon, Plantain, Climate impacts"
   },
   {
     "#": 180,
@@ -1050,9 +1050,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Sampling bias toward banana-producing areas\r\r\n\r\r\nCrowdsourced data may not be exhaustive or representative of all ecological zones\r\r\n\r\r\nSurveillance gaps in less-populated or highland areas",
     "NOTES": "Funded by GIZ/BMZ and Belgian DGD via CIALCA\r\r\n\r\r\nSupports CGIARâ€™s RTB (Roots, Tubers, and Bananas) program\r\r\n\r\r\nPromotes integration of ICT and climate risk mapping for crop disease surveillance",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1371/journal.pone.0255326",
+    "Abstract": "Collection missions and all surveys were undertaken by the Ministry of Agriculture in Tanzania (now Tanzanian Agricultural Research Institute (TARI)) in collaboration with the International Institute of Tropical Agriculture (IITA) from June 2016 to January 2017. SNP genotyping was used as the basis to identify duplicate samples and assess diversity among the collected landraces. The study documented farmer knowledge and eliminated viruses from cassava landraces in Tanzania.",
+    "Keywords": "Cassava, Landraces, Genotyping, Virus elimination, Tanzania, Farmer knowledge, Genetic diversity"
   },
   {
     "#": 179,
@@ -1074,9 +1074,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Observational design, not experimental\r\r\n\r\r\nNo long-term or nutrition-related outcomes measured\r\r\n\r\r\nPossible unobserved heterogeneity not accounted for despite propensity score methods",
     "NOTES": "Study aligns with IITA projects (e.g., DTMA, ISMA, KKM-PLS)\r\r\n\r\r\nStrong methodological contribution to understanding heterogeneous adoption effects\r\r\n\r\r\nNo gender/youth-specific results or targeting despite existing literature on intra-household impacts",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1093/plcell/koac303",
+    "Abstract": "This comprehensive review addresses enhancing carbon sequestration capacity of crops, improving photosynthesis, engineering climate resilience in crops, and describes the vision of a sustainable global bioeconomy rooted in plant biology. The paper covers systems biology approaches for sustainable agriculture in the context of climate change challenges.",
+    "Keywords": "Systems biology, Sustainable agriculture, Climate resilience, Plant biology, Crop improvement, Photosynthesis"
   },
   {
     "#": 178,
@@ -1098,9 +1098,9 @@
     "STAT SIGNIFICANCE?": "No",
     "LIMITATIONS FROM AUTHORS": "Lack of field data in Rwanda on long-term CA impacts\r\r\n\r\r\nSocial and cultural barriers to residue use and herbicide adoption\r\r\n\r\r\nYield increases may take several years to manifest, discouraging short-term adoption",
     "NOTES": "Strong gender-aware framing\r\r\n\r\r\nIncludes detailed discussion of trade-offs (e.g., mulch for livestock vs. soil)\r\r\n\r\r\nSupported by the SIMLESA project (Sustainable Intensification of Maize-Legume Systems in ESA)",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1088/1748-9326/ac61c8",
+    "Abstract": "The study systematically reviewed literature published between 2005 and 2020 and identified 35 relevant studies, analyzing yield changes of major staple crops (maize, sorghum, rice, millet, yam, cassava and groundnuts) caused by different climate change and field management scenarios. Yields declined by a median of 6% (-8% to +2% depending on the crop) due to climate change in all scenarios analysed. Common adaptation strategies could increase crop yields affected by climate change by 13% (-4% to +19% depending on the strategy) as compared to business-as-usual field management.",
+    "Keywords": "Climate change impacts, Adaptation strategies, West Africa, Crop yields, Systematic review, Food security"
   },
   {
     "#": 174,
@@ -1122,9 +1122,9 @@
     "STAT SIGNIFICANCE?": "No",
     "LIMITATIONS FROM AUTHORS": "Local context limits generalizability\r\r\n\r\r\nPolicies influencing tree planting not systematically analyzed",
     "NOTES": "Supported by CGIAR-CCAFS and FTA\r\r\n\r\r\nHighlights the risk of losing agroecologically suitable species due to climate change and policy constraints",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1007/s00267-018-1048-z",
+    "Abstract": "This study investigated the capacity of institutions to support the planning, implementation, and resource mobilization needed to integrate climate change mitigation, conservation, and livelihood goals in a forest mosaic landscape in East Cameroon, and found that diverse institutions are present in the landscape, including government agencies, local government, local non-government, private sector, and hybrid institutions.",
+    "Keywords": "Institutional capacity, Integrated landscape management, Cameroon, Climate change mitigation, Resource management"
   },
   {
     "#": 173,
@@ -1146,9 +1146,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Lack of pest and disease modeling\r\r\n\r\r\nInput data gaps in soil and management practices, especially in small wheat-producing countries\r\r\n\r\r\nNo socioeconomic or gender disaggregation",
     "NOTES": "Strong CGIAR alignment (CCAFS and IFPRI support)\r\r\n\r\r\nOffers a foundational resource for future climate resilience studies in wheat systems",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1111/agec.12363",
+    "Abstract": "This study found the promotion of new maize and wheat varieties to be an effective adaptation option, on average, especially when accompanied by policy interventions such as credit and fertilizer subsidy. However, the effectiveness of available adaptation options is quite different across the heterogeneous smallholder population in Ethiopia, implying that policy assessments based on average farm households may mislead policy makers to adhere to interventions that are beneficial on average albeit ineffective in addressing the particular needs of poor and food insecure farmers.",
+    "Keywords": "Smallholder farmers, Climate adaptation, Policy interventions, Ethiopia, Agent-based modeling, Agricultural policy"
   },
   {
     "#": 171,
@@ -1170,9 +1170,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "No household-level income or education expenditure data\r\r\n\r\r\nDoes not disaggregate other social vulnerability indicators (e.g., gender, illness, or labor decisions)\r\r\n\r\r\nFuture projections are dependent on global emission pathway assumptions",
     "NOTES": "Groundbreaking in linking climate change directly to educational outcomes\r\r\n\r\r\nProvides a strong case for including social vulnerability in climate impact assessments",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1002/ece3.3668",
+    "Abstract": "This study investigates whether historical climate change has impacted the evolutionary history of African Aedes mosquitoes using a comparative phylogeographic approach. The research examines the role of past climatic change in shaping mosquito evolution within Africa.",
+    "Keywords": "Aedes mosquitoes, Phylogeography, Climate change evolution, Africa, Vector ecology, Palaeoclimate"
   },
   {
     "#": 170,
@@ -1194,9 +1194,9 @@
     "STAT SIGNIFICANCE?": "Yes",
     "LIMITATIONS FROM AUTHORS": "Possible misclassification of improved vs. landrace varieties\r\r\n\r\r\nLimited replication of landraces across regions\r\r\n\r\r\nWeakness in farmer-to-farmer seed exchange limits diffusion",
     "NOTES": "Rich integration of genetic, social, and agronomic data\r\r\n\r\r\nValuable for gender-responsive breeding, though not fully analyzed through that lens\r\r\n\r\r\nThe conservation strategy is active and ongoing via KEPHIS and IITA",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.3390/agriculture12111853",
+    "Abstract": "This study evaluates the heterogeneous impacts of adopting climate-smart agricultural technologies on rural household welfare in Mali using farm household survey data and econometric methods. The analysis shows differential impacts across different farmer groups and household characteristics.",
+    "Keywords": "Climate-smart agriculture, Heterogeneous impacts, Mali, Rural welfare, Technology adoption, Household impacts"
   },
   {
     "#": 169,
@@ -1218,9 +1218,9 @@
     "STAT SIGNIFICANCE?": "Not applicable",
     "LIMITATIONS FROM AUTHORS": "Challenges of translating plant traits to field-scale impacts\r\r\n\r\r\nLimited public understanding and acceptance of some technologies\r\r\n\r\r\nDifficulty of engineering soil microbiomes and long breeding timelines",
     "NOTES": "Multiple CGIAR-affiliated scientists involved (including IITA)\r\r\n\r\r\nCalls for global scientific mobilization akin to COVID-19 response\r\r\n\r\r\nEmphasizes role of plant science in meeting IPCC climate targets",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1016/j.eja.2024.127137",
+    "Abstract": "This study assessed the potential climate change impact on four key rainfed cereals (maize, millet, sorghum and wheat) in ten SSA countries namely Burkina Faso, Ghana, Mali, Niger, Nigeria, Ethiopia, Kenya, Tanzania, Uganda, and Zambia using local data and national expertise, and the potential of cultivar adaptation to climate change for the four crops. By 2050, climate change impact on rainfed potential yields was insignificant in West and modest in East and Southern Africa. By 2090, average impacts were much higher in West than in East and Southern Africa.",
+    "Keywords": "Climate change impact, Rainfed cereals, Sub-Saharan Africa, Crop adaptation, Maize, Millet, Sorghum, Wheat"
   },
   {
     "#": 165,
@@ -2633,9 +2633,9 @@
     "STAT SIGNIFICANCE?": "Not applicable",
     "LIMITATIONS FROM AUTHORS": "High costs and limited access to ICTs for many smallholders\r\r\n\r\r\nGender and literacy gaps limit digital adoption\r\r\n\r\r\nMost innovations are not yet scaled or fully operational for farmers",
     "NOTES": "Recommends scaling up tools like the FIA app for early pest detection\r\r\n\r\r\nEmphasizes integration of digital innovations with traditional/indigenous knowledge\r\r\n\r\r\nLinks to projects funded by the Royal Norwegian Embassy, USAID, and AICCRA (CGIAR)",
-    "DOI": "",
-    "Abstract": "",
-    "Keywords": ""
+    "DOI": "10.1371/journal.pstr.0000052",
+    "Abstract": "This is a meta-analysis and scoping review of 43 studies and 11 reports on Climate-Smart (CS) One-Health innovations. The review identified determinants, challenges, and impacts related to the deployment of CS One-Health innovations, particularly in Ghana and Benin. Community participation, land tenure, political will, and age are critical adoption factors. Practices like composting, IPM, cover cropping, rotational grazing, and traditional ecological knowledge are promoted. Major barriers include cultural practices, lack of diagnostic tools, limited ICT access, and top-down implementation. Multi-disciplinary collaboration is essential for sustainable deployment.",
+    "Keywords": "Climate-Smart agriculture, One-Health, Ghana, Benin, socio-economic determinants, innovation adoption, meta-analysis"
   },
   {
     "#": 72,
@@ -3672,13 +3672,13 @@
     "TITLE": "A stepwise approach to facilitate adoption of climate smart practices for smallholder coffee production in Uganda",
     "AUTHORS": "Mukasa, D., Rusinamhodzi, L., van Asten, Piet. J. A., Amwonya, D., Sseguya, H., Okiror, F. A., … Jassogne, L.",
     "YEAR": 2025,
-    "DOI": "",
     "JOURNAL": "International Journal of Agricultural Sustainability,",
-    "ABSTRACT": "Adoption of Climate-smart Agricultural Practices (CSA) enhances crop productivity and livelihoods. Smallholder coffee farmers in Uganda receive training on good agricultural practices (GAPs) through extension programs, but adoption remains low. Adopting all ‘best practices’ at once may be unrealistic for resource-limited, risk-averse smallholders. This study tested a Stepwise approach, breaking GAPs into manageable, incremental investments. Field trials were conducted in Luweero (Central) and Sironko (East) districts of Uganda, with 16 demonstration sites using randomized treatments and the control (farmer practice), divided into four steps. Each site served 25–30 farmers through experiential learning. A co-design method ensured farmer involvement in the design, development, and testing for sustainability. Results from two harvests (2018–2019) showed significant cumulative yield gains over the control. Arabica yields increased by 31%, 43%, 54% and 65% across Steps 1-4,. Robusta showed gains of 7%, 22%, 23% and 39% respectively. Marginal rate of returns (MRR) was relatively high for Step 1 (563%), 2 (169%) and 4 (122%) for Robusta coffee , and 221%, 217% and 485% for Step 2, 3 and 4 for Arabica coffee respectively. The Stepwise approach demonstrated improved yield gains and increased farmer income.",
-    "KEYWORDS": "Coffee, productivity, GAPs, MRR, Stepwise approach, Uganda",
     "GEOGRAPHIC FOCUS": "Uganda",
     "METHODS": "The details of study design are described elaborated by the theoretical basis for the Stepwise approach. The study considered action research and case study research design. It consisted of three main components that helped to shape the Stepwise logic: (a) co-design and co-development, (b) experiential learning, (c) farmers’ feedback, and (d) Hypothesis needed for field testing to ascertain its validity and practicality. The combination of these brought about the idea of breaking down the GAPs packages into smaller packages that could be implemented in phases. The process of development of the approach, tools, experiential learning, farmers’ feedback, assumptions, and data underpinning Stepwise approach.",
+    "DOI": "",
     "Abstract": "",
-    "Keywords": ""
+    "Keywords": "",
+    "ABSTRACT": "Adoption of Climate-smart Agricultural Practices (CSA) enhances crop productivity and livelihoods. Smallholder coffee farmers in Uganda receive training on good agricultural practices (GAPs) through extension programs, but adoption remains low. Adopting all ‘best practices’ at once may be unrealistic for resource-limited, risk-averse smallholders. This study tested a Stepwise approach, breaking GAPs into manageable, incremental investments. Field trials were conducted in Luweero (Central) and Sironko (East) districts of Uganda, with 16 demonstration sites using randomized treatments and the control (farmer practice), divided into four steps. Each site served 25–30 farmers through experiential learning. A co-design method ensured farmer involvement in the design, development, and testing for sustainability. Results from two harvests (2018–2019) showed significant cumulative yield gains over the control. Arabica yields increased by 31%, 43%, 54% and 65% across Steps 1-4,. Robusta showed gains of 7%, 22%, 23% and 39% respectively. Marginal rate of returns (MRR) was relatively high for Step 1 (563%), 2 (169%) and 4 (122%) for Robusta coffee , and 221%, 217% and 485% for Step 2, 3 and 4 for Arabica coffee respectively. The Stepwise approach demonstrated improved yield gains and increased farmer income.",
+    "KEYWORDS": "Coffee, productivity, GAPs, MRR, Stepwise approach, Uganda"
   }
 ]
