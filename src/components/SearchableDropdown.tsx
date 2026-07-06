@@ -49,7 +49,7 @@ export function SearchableDropdown({ options, placeholder, value, onChange, clas
     if (!text) return '';
 
     // Split into words for individual span wrapping
-    const words = text.split(' ');
+    const words = text.replace(/_/g, ' ').split(' ');
     return words;
   };
 
@@ -140,7 +140,7 @@ export function SearchableDropdown({ options, placeholder, value, onChange, clas
               onClick={() => handleOptionClick(option)}
               className="px-4 py-2 cursor-pointer hover:bg-gray-800 text-white first:rounded-t-lg last:rounded-b-lg"
             >
-              {option}
+             {option.replace(/_/g, ' ')}
             </div>
           ))}
           {filteredOptions.length === 0 && searchTerm && (
