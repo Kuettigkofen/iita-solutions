@@ -55,7 +55,7 @@ export function SearchableDropdown({ options, placeholder, value, onChange, clas
 
   useEffect(() => {
     const filtered = options.filter(option =>
-      option.toLowerCase().includes(searchTerm.toLowerCase())
+    option.replace(/_/g, ' ').toLowerCase().includes(searchTerm.toLowerCase())
     );
     setFilteredOptions(filtered);
   }, [searchTerm, options]);
